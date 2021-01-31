@@ -1,4 +1,4 @@
-# Global Game Jam 2021 Project
+#  Global Game Jam 2021 Project
 
 ## Panopticon 
 

@@ -192,7 +192,5 @@ H: Kleiner? Kleiner! I swear I didn't do-
 
 The phone call is over from Kleiner's side of the line.
 
-"GOD-DAMN-IT!" Hassel screams, he slams the phone on the cradle. The noise it makes through the speakers forces you to wince. 
-
-
+"GOD-DAMN-IT!" Hassel screams as he slams the phone on the cradle. The noise it makes through the speakers forces you to wince. 
 

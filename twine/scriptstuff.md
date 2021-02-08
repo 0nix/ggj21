@@ -1,4 +1,4 @@
-You arrive to the surveillance site, a five-story building in Fredericksville, surprinsgly a short distance from Headquarters. Gray, blocky, with a few blotches of colors in the windows produced by the occupants there in. Room 6 is the field office. On paper, it's where a pensioner woman resides. A lifetime of service to the Party has given her free lodgings, free food, free everything. As long as she keeps to all of ten square meters and the rest of the house functions as an outpost for Division XIX. At least she gets something out of all this mess.
+You arrive to the surveillance site, a five-story building in Fredericksville, surprinsgly a short distance from Headquarters. Gray, blocky, with a few blotches of colors in the windows from the furnishings of the tenants. Room 6 is the field office. On paper, it's where a pensioner resides. A lifetime of service to the Party has given her free lodgings, free food, free everything. That is, as long as she keeps to all of ten square meters and the rest of the house functions as an outpost for Division XIX. At least she gets something out of a lifetime of work.
 
 You hand in your signed permission and you are led to a dark room lit only by the glow of the monitors and the blinking lights of recording equipment. A desk illuminated by cathode-ray-tube, long reel recorders, and a standard issue Ministry of State Security pair of headphones that could masticate your entire head if they were alive.
 
@@ -14,13 +14,13 @@ Surveillance starts at 1500 hours on a Tuesday, March 9th.
 
 You observe Nadine Leitzka, washing dishes in the kitchen. She hums a tune you can't quite make through the microphone and the noise of the rushing water.
 
-You observe Ms. Leitzka opening the fridge to produce two baked hams and proceeds to cut slices from them, preparing food. <- Of note, normal rationing coupons for citizens such as Leitzka and Hassel ditctate that they have one smoked ham a month from the Food Stipend program for current able-bodided workers. You have no record of Letizka being employed, so that is one ham that is not accounted for.
+You observe Leitzka opening the fridge to produce two baked hams and proceeds to cut slices from them, preparing food. <- Of note, normal rationing coupons for citizens such as Leitzka and Hassel ditctate that they have one smoked ham a month from the Food Stipend program for current able-bodided workers. You have no record of Letizka being employed, so that is one ham that is not accounted for.
 
-You observe Ms. Leitzka turn on the radio and start drinking coffee, Cuban.
+You observe Leitzka turn on the radio and start drinking coffee, Cuban.
 
-You observe Ms. Leitzka leave the kitchen and go into the hallway where there are no cameras to continue surveillance, analysis of the noises from audio match normal bathroom bodily activities. Audio analysis is difficult due to the sound of the radio drowning out the unseen activity.
+You observe Leitzka leave the kitchen and go into the hallway where there are no cameras to continue surveillance, analysis of the noises from audio match normal bathroom bodily activities. Audio analysis is difficult due to the sound of the radio drowning out the unseen activity.
 
-Ms. Leitzka continues to be away from camera view, presumably having left the bathroom and stay in one of the two bedrooms of the residence. Audio analysis is inconclusive as to what she is doing, again, due to the sound of the radio in the kitchen. <- Common activity of citizens, whether on direct surveillance or not is to attempt to drown out their noises beneath the sounds of radio and television. This practice could be of note on a subject for subversion.
+You observe Leitzka continues to be away from camera view, presumably having left the bathroom and stay in one of the two bedrooms of the residence. Audio analysis is inconclusive as to what she is doing, again, due to the sound of the radio in the kitchen. <- Common activity of citizens, whether on direct surveillance or not is to attempt to drown out their noises beneath the sounds of radio and television. This practice could be of note on a subject for subversion.
 
 The door opens on the camera feed pointing to the living room, in comes a male individual, presumably Mr. Hassel. "Albert?" Leitzka asks from a room that is not in view of the surveillance equipment. "Yes Nadine, it's me." the man answers. Confirmed the individual to be Albert Hassel.
 

@@ -1,5 +1,6 @@
 <script>
     import {onMount} from 'svelte'
+    import {createNanoEvents} from 'nanoevents'
     import TypeBox from './TypeBox.svelte'
     import DecisionBox from './DecisionBox.svelte'
     import Parser from './Parser'
@@ -40,7 +41,12 @@
         _parser.processCurrentLine();
     }
 
-    const _parser = new Parser(mainScript, null, sayMainBox,decisionCallback)
+    const emitter = createNanoEvents();
+    emitter.on('global', data => {
+        console.log(data);
+    })
+
+    const _parser = new Parser(mainScript, emitter, null, sayMainBox,decisionCallback)
 
     const startGame = (opts) => {
         gameStart = true

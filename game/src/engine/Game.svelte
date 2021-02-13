@@ -13,17 +13,40 @@
         console.log('Hello' ,opts)
     }
 
-    const sayMainBox = (args) =>{
-        console.log(args)
-        mainTypeBox.printThisText(args)
+    const sayMainBox = (args,charName = null) =>{
+        mainTypeBox.printThisText(args, charName)
     }
 
-    const _parser = new Parser(mainScript, null, sayMainBox)
+    const onTextConsumed = () => {
+        nextLine();
+    }
 
-    let startGame = (opts) => {
+    const decisionCallback = (content,opts) => {
+        mainTypeBox.setClickAdvance(false)
+        mainTypeBox.setFinishRunCallback(() => { mainDecisionBox.hydrate(opts.choices) })
+        mainTypeBox.printThisText(content, (opts.character) ? opts.character : null)   
+    }
+
+    const onChoiceConsumed = (evt) => {
+        let line = evt.detail;
+        mainTypeBox.setClickAdvance(true);
+        mainTypeBox.setFinishRunCallback(null);
+        mainDecisionBox.dehydrate();
+        _parser.processLine(line);
+    }
+
+    const nextLine = () => {
+        _parser.queueNextLine();
+        _parser.processCurrentLine();
+    }
+
+    const _parser = new Parser(mainScript, null, sayMainBox,decisionCallback)
+
+    const startGame = (opts) => {
         gameStart = true
         _parser.processCurrentLine()
     }
+
 
     onMount (() => {
         window.callGame = callGame;
@@ -33,8 +56,8 @@
 <div>
     <section class="section">
         <div class="container" class:is-hidden="{gameStart == false}">
-            <TypeBox bind:this={mainTypeBox}/>
-            <DecisionBox bind:this={mainDecisionBox}/>
+            <TypeBox bind:this={mainTypeBox} on:consumedTextBox={onTextConsumed}/>
+            <DecisionBox on:consumedChoice={onChoiceConsumed} bind:this={mainDecisionBox}/>
         </div>
         {#if !gameStart}
         <div class="container">

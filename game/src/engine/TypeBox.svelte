@@ -1,17 +1,31 @@
 <script>
-import { run } from 'svelte/internal';
-
+    import {createEventDispatcher} from 'svelte';
     import Typed from 'typed.js'
 
     let ptext
+    let charName
     let runningTyped
     let _text = null
+    let isRunning = false
+    let clickToAdvance = true
+    let finishRunCallback = null
+    const dispatch  = createEventDispatcher();
 
     let testRider = () => {
         console.log('aloha')
     }
+
+    let clickOnBox = () => {
+        if(!clickToAdvance) return
+        if(isRunning){
+            abortTyped();
+        } else { //progress the box
+            dispatch('consumedTextBox');
+        }
+    }
  
     let abortTyped = () => {
+        isRunning = false
         stopNow();
         clear();
         ptext.innerHTML = _text
@@ -23,31 +37,51 @@ import { run } from 'svelte/internal';
 
     export function clear(){
         ptext.innerHTML = ''
+        charName.innerHTML = ''
     }
 
-    export function printThisText(text) {
+    export function printThisText(text, _charName = null) {
+        isRunning = true
         _text = text;
         this.clear();
+        charName.innerHTML = (_charName) ? _charName : ''; 
         runningTyped = new Typed(ptext,{
             strings: [text],
             typeSpeed: 10,
-            showCursor: false
+            showCursor: false,
+            onComplete: () => {
+                isRunning = false
+                if(finishRunCallback) finishRunCallback()
+            }
         });
+    }
+
+    export function setClickAdvance(b){
+        clickToAdvance = b
+    }
+
+    export function setFinishRunCallback(run){
+        finishRunCallback = run
     }
 
 
 </script>
 
-<div on:mousedown="{() => abortTyped()}">
-    <p bind:this={ptext} id="text"></p>
+<div on:mousedown="{() => clickOnBox()}">
+    <h3 class="title is-6 charName" bind:this={charName}></h3>
+    <p bind:this={ptext}></p>
 </div>
 
 <style>
     div {
-        height: 300px;
+        height: 100px;
         cursor: pointer;
     }
-    p {
+
+    .charName {
+        margin-bottom: 0.2rem;
+    }
+    p, h3 {
         -webkit-user-select: none; /* Safari */        
         -moz-user-select: none; /* Firefox */
         -ms-user-select: none; /* IE10+/Edge */

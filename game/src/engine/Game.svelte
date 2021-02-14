@@ -1,10 +1,10 @@
 <script>
     import {onMount} from 'svelte'
-    import {createNanoEvents} from 'nanoevents'
     import TypeBox from './TypeBox.svelte'
     import DecisionBox from './DecisionBox.svelte'
     import Parser from './Parser'
     import mainScript from '../script/mainline'
+    import {VarStore,Events} from './Store'
 
     let mainTypeBox
     let mainDecisionBox
@@ -25,7 +25,7 @@
     const decisionCallback = (content,opts) => {
         mainTypeBox.setClickAdvance(false)
         mainTypeBox.setFinishRunCallback(() => { mainDecisionBox.hydrate(opts.choices) })
-        mainTypeBox.printThisText(content, (opts.character) ? opts.character : null)   
+        mainTypeBox.printThisText(content, (opts.hasOwnProperty('character')) ? opts.character : null)   
     }
 
     const onChoiceConsumed = (evt) => {
@@ -41,12 +41,11 @@
         _parser.processCurrentLine();
     }
 
-    const emitter = createNanoEvents();
-    emitter.on('global', data => {
-        console.log(data);
-    })
+    VarStore.subscribe(val =>{ console.log(val)})
 
-    const _parser = new Parser(mainScript, emitter, null, sayMainBox,decisionCallback)
+    Events.subscribe(ev => {console.log(ev) });
+
+    const _parser = new Parser(mainScript, Events, VarStore, null, sayMainBox,decisionCallback)
 
     const startGame = (opts) => {
         gameStart = true

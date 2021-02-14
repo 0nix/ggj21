@@ -5,28 +5,35 @@ class Parser {
     static JMP_ACTION = 'jmp'; //jump to a given instruction
     static EXC_ACTION = 'exc'; //execute code through window.eval
     static DEC_ACTION = 'dec'; //creates a decision list with a prompt, and extra information. Look to mainline for definition. 
-    static MSG_ACTION = 'msg'; //send a message to the associated event dispatcher within the engine. Include category in brackets i.e. [msg {category}] for granular management. No category defaults to default.
+    static MSG_ACTION = 'msg'; //send a message to the associated event dispatcher within the engine. Include category in brackets i.e. [msg {category}] for granular management. No category defaults to global.
     static END_ACTION = 'end'; //no more messages parser shuts down, sends message through evt if available.
-
     static STO_ACTION = 'sto'; //store a variable on the svelte store
     static ADD_ACTION = 'add'; //if a variable is numeric, add something to it, include the variable name in brackets i.e. [add {var}]2. To store the result in a new variable preventing mutation of the original include the new variable in parentheses [add {foo}(bar)]2
     static MUL_ACTION = 'mul'; //if a variable is numeric, multiply it by something. use the same syntax for [add]
     static MOD_ACTION = 'mod'; //if a variable is numeric, divide it and get the remainder. use the same syntax for [add]
-    static EQU_ACTION = 'equ'; //compare a variable value with the provided value or variable. if numeric, the value will be converted and compared as numbers. var in brackets, 
+    static EQ_ACTION = 'eq'; //compare a variable value with the provided value or variable. if numeric, the value will be converted and compared as numbers. var in brackets, 
+    static NQ_ACTION = 'nq';
+    static GT_ACTION = 'gt';
+    static LT_ACTION = 'lt';
+    static GE_ACTION = 'ge';
+    static LE_ACTION = 'le'; 
 
-    constructor(mainScript, evtService = null, loadScriptAt = null, sayCallback = null,decisionCallback=null){
+    constructor(mainScript, evtService = null, store = null, loadScriptAt = null, sayCallback = null,decisionCallback=null){
         this.mainScript = mainScript;
         this.evt = evtService;
-        this.mainScriptIdentifiers = Object.keys(mainScript);
+        this.mainScriptIdentifiers = Object.getOwnPropertyNames(mainScript);
+        console.log(this.mainScriptIdentifiers);
+        console.log(new Map(Object.entries(this.mainScriptIdentifiers)))
         this.sayCallback = sayCallback;
         this.decisionCallback = decisionCallback;
         this.currentLine = (loadScriptAt == null) ? this.mainScriptIdentifiers[0] : loadScriptAt;
         this.runningScript = true;
+        this.store = store;
     }
 
     processLine(fullInstruction){
         if (!this.runningScript) return;
-        let instruction, content, opts = null;
+        let instruction, content = null;
         let line = fullInstruction
         let isObj = false;
         if (typeof line === 'string') {
@@ -35,8 +42,6 @@ class Parser {
             instruction = instruction.substring(1, instruction.length - 1)
         } else {
             instruction = line.instruction;
-            content = line.content;
-            opts = line.opts;
             isObj = true;
         }
 
@@ -58,23 +63,29 @@ class Parser {
                 charName = charName.substring(1, charName.length - 1)
                 if (this.sayCallback) this.sayCallback(content, charName)
                 break;
-            case instruction === Parser.MSG_ACTION:
+            case instruction.includes(Parser.MSG_ACTION):
                 let category = instruction.match(/{.*}/)
                 if(this.evt) {
                     if (category != null) {
                         let cat = category[0].replace("{","").replace("}","");
-                        this.evt.emit(cat, content);
+                        //this.evt.emit(cat, content);
+                        this.evt.update( n => {
+                            return {category: cat, content: content}
+                        })
                     }
                     else {
-                        this.evt.emit('global',content);
+                        //this.evt.emit('global',content);
+                        //this.evt.set({ category: 'global', content: content })
+                        this.evt.update(n => {
+                            return { category: 'global', content: content }
+                        })
                     }
                 }
                 this.queueNextLine();
                 this.processCurrentLine();
                 break;
             case instruction === Parser.DEC_ACTION && isObj:
-                console.log(content, opts)
-                if (this.decisionCallback) this.decisionCallback(content, opts);
+                if (this.decisionCallback) this.decisionCallback(line.content, line.opts);
                 break;
             case instruction.includes(Parser.DEC_ACTION) && !isObj:
                 let payload = {}
@@ -101,7 +112,113 @@ class Parser {
                 break;
             case instruction === Parser.END_ACTION:
                 this.runningScript = false;
-                if (this.evt) this.evt.emit('global', 'END');
+                this.evt.update(n => {
+                    return { category: 'global', content: 'END' }
+                })
+                break;
+            case instruction.includes(Parser.STO_ACTION):
+                let varName = instruction.match(/{.*}/)[0]
+                varName = varName.substring(1, varName.length - 1)
+                let numContent = Number(content); 
+                if(this.store){
+                    this.store.update((currentStore) => {
+                        let newVars = {}
+                        newVars[varName] = (numContent === NaN) ? content : numContent;
+                        currentStore.memory = Object.assign(currentStore.memory,newVars)
+                        return currentStore;
+                    })
+                }
+                this.queueNextLine();
+                this.processCurrentLine();
+                break;
+            case instruction.includes(Parser.ADD_ACTION):
+            case instruction.includes(Parser.MUL_ACTION):
+            case instruction.includes(Parser.MOD_ACTION):
+                this.numericMemoryOperation(instruction,content)
+                this.queueNextLine();
+                this.processCurrentLine();
+                break;
+            case instruction.includes(Parser.EQ_ACTION):
+            case instruction.includes(Parser.NQ_ACTION):
+            case instruction.includes(Parser.GT_ACTION):
+            case instruction.includes(Parser.LT_ACTION):
+            case instruction.includes(Parser.GE_ACTION):
+            case instruction.includes(Parser.LE_ACTION):
+                this.comparisonMemoryOperation(instruction,content);
+                break;
+            
+        }
+    }
+
+    numericMemoryOperation(instruction,_content){
+        let varn = instruction.match(/{.*}/)[0]
+        varn = varn.substring(1, varn.length - 1)
+        let numC = Number(_content);
+        if (this.store) {
+            this.store.update((current) => {
+                if (Number(current.memory[varn]) != NaN && numC != NaN) {
+                    switch (true){
+                        case instruction.includes(Parser.ADD_ACTION):
+                            current.memory[varn] = current.memory[varn] + numC;
+                            break;
+                        case instruction.includes(Parser.MUL_ACTION):
+                            current.memory[varn] = current.memory[varn] * numC;
+                            break;
+                        case instruction.includes(Parser.MOD_ACTION):
+                            current.memory[varn] = current.memory[varn] % numC;
+                            break;
+                    }             
+                }
+                return current;
+            });
+        }
+    }
+
+    comparisonMemoryOperation(instruction,_content){
+        let varn = instruction.match(/{.*}/)[0];
+        varn = varn.substring(1, varn.length - 1);
+        let toCompare = null;
+        let comparing = null;
+        let comparisonValue = _content.split("=")[0]
+        let commandIfSuccesful = _content.split("=")[1].replace("<", "[").replace(">", "]");
+        let success = false
+        if (this.store) {
+            this.store.update((current) => {
+                if (current.memory.hasOwnProperty(comparisonValue)) { // var to var comparison
+                    toCompare = current.memory[comparisonValue];
+                } else { //var to value comparison
+                    toCompare = comparisonValue;
+                }
+                comparing = current.memory[varn];
+                return current;
+            });
+        }
+        switch(true){
+            case instruction.includes(Parser.EQ_ACTION):
+                success = (comparing == toCompare);
+                break;
+            case instruction.includes(Parser.NQ_ACTION):
+                success = (comparing != toCompare);
+                break;
+            case instruction.includes(Parser.GT_ACTION):
+                success = (comparing > toCompare);
+                break;
+            case instruction.includes(Parser.LT_ACTION):
+                success = (comparing < toCompare);
+                break;
+            case instruction.includes(Parser.GE_ACTION):
+                success = (comparing >= toCompare);
+                break;
+            case instruction.includes(Parser.LE_ACTION):
+                success = (comparing <= toCompare);
+                break;
+        }
+
+        if(success) {
+            this.processLine(commandIfSuccesful);
+        } else{
+            this.queueNextLine();
+            this.processCurrentLine();
         }
     }
 
@@ -115,6 +232,7 @@ class Parser {
         if (!this.runningScript) return;
         let _line = String(this.currentLine);
         let ix = this.mainScriptIdentifiers.indexOf(_line)
+        console.log(this.mainScriptIdentifiers);
         this.currentLine = this.mainScriptIdentifiers[++ix]
     }
     queueLine(key){

@@ -1,68 +1,31 @@
 <script>
     import {onMount} from 'svelte'
-    import TypeBox from './TypeBox.svelte'
-    import DecisionBox from './DecisionBox.svelte'
-    import Parser from './Parser'
+    import NarrativeBox from './NarrativeBox.svelte'
     import mainScript from '../script/mainline'
     import {VarStore,Events} from './Store'
 
-    let mainTypeBox
-    let mainDecisionBox
-
+    let mainNarrative
+    let ms = mainScript
+    let vs = VarStore
+    let ev = Events
     let gameStart = false
-    const callGame = (opts) => {
-        console.log('Hello' ,opts)
-    }
 
-    const sayMainBox = (args,charName = null) =>{
-        mainTypeBox.printThisText(args, charName)
-    }
-
-    const onTextConsumed = () => {
-        nextLine();
-    }
-
-    const decisionCallback = (content,opts) => {
-        mainTypeBox.setClickAdvance(false)
-        mainTypeBox.setFinishRunCallback(() => { mainDecisionBox.hydrate(opts.choices) })
-        mainTypeBox.printThisText(content, (opts.hasOwnProperty('character')) ? opts.character : null)   
-    }
-
-    const onChoiceConsumed = (evt) => {
-        let line = evt.detail;
-        mainTypeBox.setClickAdvance(true);
-        mainTypeBox.setFinishRunCallback(null);
-        mainDecisionBox.dehydrate();
-        _parser.processLine(line);
-    }
-
-    const nextLine = () => {
-        _parser.queueNextLine();
-        _parser.processCurrentLine();
-    }
-
-    VarStore.subscribe(val =>{ console.log(val)})
-
-    Events.subscribe(ev => {console.log(ev) });
-
-    const _parser = new Parser(mainScript, Events, VarStore, null, sayMainBox,decisionCallback)
+    vs.subscribe(val =>{ console.log(val)})
+    ev.subscribe(ev => {console.log(ev) });
 
     const startGame = (opts) => {
         gameStart = true
-        _parser.processCurrentLine()
+        mainNarrative.start();
     }
 
+    onMount (() => {})
 
-    onMount (() => {
-        window.callGame = callGame;
-    })
 </script>
 
 <div>
     <section class="section">
         <div class="container" class:is-hidden="{gameStart == false}">
-            <TypeBox bind:this={mainTypeBox} on:consumedTextBox={onTextConsumed}/>
-            <DecisionBox on:consumedChoice={onChoiceConsumed} bind:this={mainDecisionBox}/>
+            <NarrativeBox bind:this={mainNarrative} bind:script={ms} bind:Events={ev} bind:VarStore={vs}/>
         </div>
         {#if !gameStart}
         <div class="container">
@@ -70,7 +33,7 @@
                 <div class="hero-body">
                     <p class="title has-text-centered">Panopticon Dev Build</p>
                     <p class="has-text-centered">
-                    <button on:click="{() => startGame(122)}" class="button is-dark">Start Game</button>
+                    <button on:click="{() => startGame()}" class="button is-dark">Start Game</button>
                     </p>
                 </div>
             </section>

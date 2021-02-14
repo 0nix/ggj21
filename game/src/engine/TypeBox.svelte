@@ -16,18 +16,21 @@
     }
 
     let clickOnBox = () => {
-        if(!clickToAdvance) return
         if(isRunning){
             abortTyped();
+            if(!clickToAdvance) {
+                finishRunCallback();
+                return
+            }
         } else { //progress the box
-            dispatch('consumedTextBox');
+            if(clickToAdvance) dispatch('consumedTextBox');
         }
     }
  
     let abortTyped = () => {
         isRunning = false
         stopNow();
-        clear();
+        ptext.innerHTML = '';
         ptext.innerHTML = _text
     }
 

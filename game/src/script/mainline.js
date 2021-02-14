@@ -1,5 +1,6 @@
 const mainScript = {
     "r1":"[say]Once upon a time, there was a filmmaker called Wrecko Gekko. He did movies with his friends. He really liked Nerf Gun fights set to epic music. It was the best times and the promising filmmaker set out to recruit people for his next adventure.",
+    "a0":"[audio]process here",
     "r2":"[say]One day he came across a very talented feller. He was an accomplished musician and vocalist named ThatMaestroGuy",
     "eethree":"[msg]Hello There",
     "r3":"[dia {ThatMaestroGuy}]Hey, how's it going? I am ThatMaestroGuy. I am a big softie and I sing very well.",

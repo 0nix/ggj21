@@ -11,12 +11,15 @@ class Parser {
     static ADD_ACTION = 'add'; //if a variable is numeric, add something to it, include the variable name in brackets i.e. [add {var}]2. To store the result in a new variable preventing mutation of the original include the new variable in parentheses [add {foo}(bar)]2
     static MUL_ACTION = 'mul'; //if a variable is numeric, multiply it by something. use the same syntax for [add]
     static MOD_ACTION = 'mod'; //if a variable is numeric, divide it and get the remainder. use the same syntax for [add]
-    static EQ_ACTION = 'eq'; //compare a variable value with the provided value or variable. if numeric, the value will be converted and compared as numbers. var in brackets, 
-    static NQ_ACTION = 'nq';
-    static GT_ACTION = 'gt';
-    static LT_ACTION = 'lt';
-    static GE_ACTION = 'ge';
-    static LE_ACTION = 'le'; 
+    static EQ_ACTION = 'eq'; //compare a variable value with the provided value or variable, succeeds if they are equal. if numeric, the values will be compared numerically. This does not use strict equality. example syntax: [eq{left_variable}]right_valariable=command_if_comparison_succesful
+    static NQ_ACTION = 'nq'; //same syntax as eq, succesful if the two values are not equal
+    static GT_ACTION = 'gt'; //same syntax as eq, succesful if the left value is greater than the right value
+    static LT_ACTION = 'lt'; //same syntax as eq, succesful if the left value is lesser than the right value
+    static GE_ACTION = 'ge'; //same syntax as eq, succesful if the left value is greater or equal than the right value
+    static LE_ACTION = 'le'; //same syntax as eq, succesful if the left value is lesser or equal than the right value
+
+    //any message that does not match any of these operators will be treated as a message operator with the instruction as the category
+    //i.e. the instruction [foo]bar will be processed as a message of category foo, with the instruction bar.
 
     constructor(mainScript, evtService = null, store = null, loadScriptAt = null, sayCallback = null,decisionCallback=null){
         this.mainScript = mainScript;
@@ -66,14 +69,11 @@ class Parser {
                 if(this.evt) {
                     if (category != null) {
                         let cat = category[0].replace("{","").replace("}","");
-                        //this.evt.emit(cat, content);
                         this.evt.update( n => {
                             return {category: cat, content: content}
                         })
                     }
                     else {
-                        //this.evt.emit('global',content);
-                        //this.evt.set({ category: 'global', content: content })
                         this.evt.update(n => {
                             return { category: 'global', content: content }
                         })
@@ -144,7 +144,13 @@ class Parser {
             case instruction.includes(Parser.LE_ACTION):
                 this.comparisonMemoryOperation(instruction,content);
                 break;
-            
+            default: //instruction will be treated as a message operator category
+                this.evt.update(n => {
+                    return { category: instruction, content: content }
+                })
+                this.queueNextLine();
+                this.processCurrentLine();
+                break;
         }
     }
 
@@ -236,6 +242,5 @@ class Parser {
         if(!this.runningScript) return;
         this.currentLine = key;
     }
-
 }
 export default Parser

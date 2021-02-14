@@ -22,8 +22,6 @@ class Parser {
         this.mainScript = mainScript;
         this.evt = evtService;
         this.mainScriptIdentifiers = Object.getOwnPropertyNames(mainScript);
-        console.log(this.mainScriptIdentifiers);
-        console.log(new Map(Object.entries(this.mainScriptIdentifiers)))
         this.sayCallback = sayCallback;
         this.decisionCallback = decisionCallback;
         this.currentLine = (loadScriptAt == null) ? this.mainScriptIdentifiers[0] : loadScriptAt;
@@ -232,7 +230,6 @@ class Parser {
         if (!this.runningScript) return;
         let _line = String(this.currentLine);
         let ix = this.mainScriptIdentifiers.indexOf(_line)
-        console.log(this.mainScriptIdentifiers);
         this.currentLine = this.mainScriptIdentifiers[++ix]
     }
     queueLine(key){

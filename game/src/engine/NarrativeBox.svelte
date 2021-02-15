@@ -1,4 +1,5 @@
 <script>
+    import {onMount, createEventDispatcher} from 'svelte';
     import TypeBox from './TypeBox.svelte'
     import DecisionBox from './DecisionBox.svelte'
     import Parser from './Parser'
@@ -6,6 +7,7 @@
     export let script
     export let Events
     export let VarStore
+    const dispatch  = createEventDispatcher();
 
     const onTextConsumed = () => {
         nextLine();
@@ -34,10 +36,22 @@
         typeBox.printThisText(content, (opts.hasOwnProperty('character')) ? opts.character : null)   
     }
 
+    const loadCallback = (scriptName,location) => {
+        var o = {name: scriptName};
+        if(location) o.location = location;
+        dispatch('load',o);
+    }
+
+    export function loadScript(_script, startImmediately = false, lineIdentifier = null){
+        script = _script;
+        if(startImmediately){
+            start(lineIdentifier);
+        }
+    }
 
 
     export function start(lineIdentifier = null){
-        _parser = new Parser(script, Events, VarStore, lineIdentifier, sayBox,decisionCallback)
+        _parser = new Parser(script, Events, VarStore, lineIdentifier, sayBox,decisionCallback,loadCallback);
         _parser.processCurrentLine()
     }
 

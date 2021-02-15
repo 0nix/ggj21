@@ -17,16 +17,18 @@ class Parser {
     static LT_ACTION = 'lt'; //same syntax as eq, succesful if the left value is lesser than the right value
     static GE_ACTION = 'ge'; //same syntax as eq, succesful if the left value is greater or equal than the right value
     static LE_ACTION = 'le'; //same syntax as eq, succesful if the left value is lesser or equal than the right value
+    static LXS_ACTION = 'lxs'; //load an external script. in brackets, a qualifier where the script should be loaded, script will be loaded on its first instruction. no location will replace the currently running script with the one being loaded.
 
     //any message that does not match any of these operators will be treated as a message operator with the instruction as the category
     //i.e. the instruction [foo]bar will be processed as a message of category foo, with the instruction bar.
 
-    constructor(mainScript, evtService = null, store = null, loadScriptAt = null, sayCallback = null,decisionCallback=null){
+    constructor(mainScript, evtService = null, store = null, loadScriptAt = null, sayCallback = null,decisionCallback=null,loadCallback = null){
         this.mainScript = mainScript;
         this.evt = evtService;
         this.mainScriptIdentifiers = Object.getOwnPropertyNames(mainScript);
         this.sayCallback = sayCallback;
         this.decisionCallback = decisionCallback;
+        this.loadCallback = loadCallback;
         this.currentLine = (loadScriptAt == null) ? this.mainScriptIdentifiers[0] : loadScriptAt;
         this.runningScript = true;
         this.store = store;
@@ -143,6 +145,12 @@ class Parser {
             case instruction.includes(Parser.GE_ACTION):
             case instruction.includes(Parser.LE_ACTION):
                 this.comparisonMemoryOperation(instruction,content);
+                break;
+            case instruction.includes(Parser.LXS_ACTION):
+                let location = instruction.match(/{.*}/)
+                location = (location) ? location[0].substring(1, location[0].length - 1) : null
+                if(this.loadCallback) this.loadCallback(content,location);
+                //What do I do here?
                 break;
             default: //instruction will be treated as a message operator category
                 this.evt.update(n => {

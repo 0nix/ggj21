@@ -18,6 +18,8 @@ class Parser {
     static GE_ACTION = 'ge'; //same syntax as eq, succesful if the left value is greater or equal than the right value
     static LE_ACTION = 'le'; //same syntax as eq, succesful if the left value is lesser or equal than the right value
     static LXS_ACTION = 'lxs'; //load an external script. in brackets, a qualifier where the script should be loaded, script will be loaded on its first instruction. no location will replace the currently running script with the one being loaded.
+    static AWT_ACTION = 'awt'; //execute content as a command, then disable automatic command progress in instructions that have it enabled, passing next line queue duties to the class that hosts the parser
+    static RES_ACTION = 'res'; //resume automatic command progress in instructions that have it enabled
 
     //any message that does not match any of these operators will be treated as a message operator with the instruction as the category
     //i.e. the instruction [foo]bar will be processed as a message of category foo, with the instruction bar.
@@ -32,15 +34,18 @@ class Parser {
         this.currentLine = (loadScriptAt == null) ? this.mainScriptIdentifiers[0] : loadScriptAt;
         this.runningScript = true;
         this.store = store;
+        this.awaitExecution = false;
     }
 
     processLine(fullInstruction){
         if (!this.runningScript) return;
-        let instruction, content = null;
+        let instruction = null; 
+        let content = null;
         let line = fullInstruction
         let isObj = false;
         if (typeof line === 'string') {
             instruction = line.substring(0, 255).match(/(\[.+\])/)[0];
+            //hey 
             content = line.substring(instruction.length)
             instruction = instruction.substring(1, instruction.length - 1)
         } else {
@@ -58,8 +63,10 @@ class Parser {
                 break;
             case instruction === Parser.EXC_ACTION:
                 window.eval(content);
-                this.queueNextLine();
-                this.processCurrentLine();
+                if (!this.awaitExecution) {
+                    this.queueNextLine();
+                    this.processCurrentLine();
+                }
                 break;
             case instruction.includes(Parser.DIA_ACTION):
                 let charName = instruction.match(/{.*}/)[0]
@@ -81,8 +88,10 @@ class Parser {
                         })
                     }
                 }
-                this.queueNextLine();
-                this.processCurrentLine();
+                if (!this.awaitExecution) {
+                    this.queueNextLine();
+                    this.processCurrentLine();
+                }
                 break;
             case instruction === Parser.DEC_ACTION && isObj:
                 if (this.decisionCallback) this.decisionCallback(line.content, line.opts);
@@ -128,15 +137,19 @@ class Parser {
                         return currentStore;
                     })
                 }
-                this.queueNextLine();
-                this.processCurrentLine();
+                if (!this.awaitExecution) {
+                    this.queueNextLine();
+                    this.processCurrentLine();
+                }
                 break;
             case instruction.includes(Parser.ADD_ACTION):
             case instruction.includes(Parser.MUL_ACTION):
             case instruction.includes(Parser.MOD_ACTION):
                 this.numericMemoryOperation(instruction,content)
-                this.queueNextLine();
-                this.processCurrentLine();
+                if (!this.awaitExecution) {
+                    this.queueNextLine();
+                    this.processCurrentLine();
+                }
                 break;
             case instruction.includes(Parser.EQ_ACTION):
             case instruction.includes(Parser.NQ_ACTION):
@@ -150,14 +163,25 @@ class Parser {
                 let location = instruction.match(/{.*}/)
                 location = (location) ? location[0].substring(1, location[0].length - 1) : null
                 if(this.loadCallback) this.loadCallback(content,location);
-                //What do I do here?
+                break;
+            case instruction == Parser.AWT_ACTION:
+                content = content.replace('<','[').replace('>',']');
+                this.awaitExecution = true;
+                this.processLine(content);
+                break;
+            case instruction == Parser.RES_ACTION:
+                this.awaitExecution = false;
+                this.queueNextLine();
+                this.processCurrentLine();
                 break;
             default: //instruction will be treated as a message operator category
                 this.evt.update(n => {
                     return { category: instruction, content: content }
                 })
-                this.queueNextLine();
-                this.processCurrentLine();
+                if (!this.awaitExecution){
+                    this.queueNextLine();
+                    this.processCurrentLine();
+                }
                 break;
         }
     }
@@ -228,7 +252,7 @@ class Parser {
 
         if(success) {
             this.processLine(commandIfSuccesful);
-        } else{
+        } else if(!this.awaitExecution){
             this.queueNextLine();
             this.processCurrentLine();
         }

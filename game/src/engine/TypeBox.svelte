@@ -47,11 +47,13 @@
         isRunning = true
         _text = text;
         this.clear();
+        if(runningTyped) runningTyped.destroy();
         charName.innerHTML = (_charName) ? _charName : ''; 
         runningTyped = new Typed(ptext,{
             strings: [text],
             typeSpeed: 10,
-            showCursor: false,
+            showCursor: true,
+            cursorChar: '*',
             onComplete: () => {
                 isRunning = false
                 if(finishRunCallback) finishRunCallback()

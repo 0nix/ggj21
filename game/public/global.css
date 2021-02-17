@@ -4,9 +4,12 @@
     font-family: 'IBM Plex Mono', monospace !important;
 }
 
-body{
-    /*background-color: hsl(0, 0%, 4%);*/
-    height: 100vh;
+html, body{
+    height: 100%;
+}
+
+body {
+    background-color: hsl(0, 0%, 4%);
 }
 
 .horizontal-center{

@@ -2,7 +2,7 @@
     import {onMount} from 'svelte'
     import NarrativeBox from '../engine/NarrativeBox.svelte'
     import {VarStore,Events} from '../engine/Store'
-import StartScreen from './StartScreen.svelte'
+    import StartScreen from './StartScreen.svelte'
 
     let mainNarrative
     let scripts
@@ -52,7 +52,7 @@ import StartScreen from './StartScreen.svelte'
             <NarrativeBox bind:this={mainNarrative} bind:script={runScript} bind:Events={ev} bind:VarStore={vs} on:load={loadScriptCallback}/>
         </div>
         {#if !gameStart && gameLoad}
-        <StartScreen on:startGame={() => startGame()}/>
+            <StartScreen on:startGame={() => startGame()}/>
         {/if}
         {#if !gameLoad}
         <div class="container">

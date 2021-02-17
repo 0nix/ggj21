@@ -1,8 +1,6 @@
 const mainScript = {
     "r1":"[say]Once upon a time, there was a filmmaker called Wrecko Gekko. He did movies with his friends. He really liked Nerf Gun fights set to epic music. It was the best times and the promising filmmaker set out to recruit people for his next adventure.",
-    "r1-1":"[lxs]scriptA",
     "r2":"[say]One day he came across a very talented feller. He was an accomplished musician and vocalist named ThatMaestroGuy",
-    "eethree":"[msg]Hello There",
     "r3":"[dia {ThatMaestroGuy}]Hey, how's it going? I am ThatMaestroGuy. I am a big softie and I sing very well.",
     "r4":`[dec{The Narrator}]*That Maestro Guy looks like a guy you can trust, do you want to tell him about your movies? He might help!*"Hey! I'm Wrecko Gekko. I make movies on YouTube!" you say.|<jmp>a1|ThatMaestroGuy will join your party if you click this option.^"Screw you, buddy!" You yell like a New Yorker in an oddly pleasant day.|<jmp>b1^"HERE COMES THE MONKEY!!!" You yell at the top of your lungs.|<jmp>c1|This idea is not your own, a certain very small and very angry potato in your brain came up with the idea.`,
     "a1": "[say]That Maestro Guy joins your party!",

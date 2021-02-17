@@ -1,5 +1,5 @@
 <script>
-import Game from "./engine/Game.svelte";
+import Game from "./game/Game.svelte";
 </script>
 
 <div class="container">

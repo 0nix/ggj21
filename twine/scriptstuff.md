@@ -70,7 +70,7 @@ Hassel wakes up at 0630 hours, followed by Lietzka shortly thereafter.
 
 You observe subjects Lietzka and Hassel exchange pleasentries over breakfast prepared by Lietzka. From the objects obserbed to be taken from the refrigerator, it is an egg-based breakfast. More to follow. Casual conversation follows, over the morning radio broadcast. 
 
-At around 0730, you observe a phone call is made to Hassel's residence. Records indicate the call is from The People's Electronics Fabricant, approximately 700 meters away from the Hassel surveillance site, Hassel's workplace. On the other line is Hassel's boss, citizen Gerhart Kleiner, Head of Day-Shift Production. The conversation is as follows:
+At around 0730, you observe a phone call is made to Hassel's residence. Previous surveillance indicates the call is from The People's Electronics Fabricant, approximately 700 meters away from the Hassel surveillance site, Hassel's workplace. On the other line is Hassel's boss, citizen Gerhart Kleiner, Head of Day-Shift Production. The conversation is as follows:
 
 Hassel (H): This is Albert Hassel, number HXT9115. To who am I speaking?
 
@@ -160,7 +160,7 @@ Nadine Leitzka does not return until late in the evening, after Hassel had alrea
 
 Surveillance start at 0500 hours on Thursday, March 11th.
 
-At around 0600, you observe a phone call is made to Hassel's residence. The phone ring wakes up Hassel and Leitzka, forcing Hassel to get out of bed earlier than previously observed. Records indicate the call is from The People's Electronics Fabricant, approximately 700 meters away from the Hassel surveillance site, Hassel's workplace. On the other line is Hassel's boss, citizen Gerhart Kleiner, Head of Day-Shift Production. The conversation is as follows:
+At around 0600, you observe a phone call is made to Hassel's residence. The phone ring wakes up Hassel and Leitzka, forcing Hassel to get out of bed earlier than previously observed. Previous surveillance indicates the call is from The People's Electronics Fabricant, approximately 700 meters away from the Hassel surveillance site, Hassel's workplace. On the other line is Hassel's boss, citizen Gerhart Kleiner, Head of Day-Shift Production. The conversation is as follows:
 
 Hassel (H): Who in the hell is ca-
 
@@ -168,15 +168,15 @@ Kleiner (K): It's me you idiot. Did you fuck the Party official's wife or someth
 
 H: W-what?
 
-K: Did you fuck the Party official's wife? Answer me!
+K: Did. You. Fuck. The. Party. Official's. Wife? Answer me!
 
 H: No, no! Of course not, Kleiner! Why would you even ask me that?
 
-K: I got called to meet to my local Party secretary in the dead of night last night. He was angry, Keliner. Angry that I would pick you to lead the Engineering team. He said that you have no loyalty to the Party... to the country! What did you DO?!
+K: I got called to meet to my local Party secretary in the dead of night last night. He was angry, Keliner. That I would pick you to lead the Engineering team. He said that you have no loyalty. Not to the Party, not to the country... So again, I ask, as politely as I can, what did you do?!
 
 H: I sat there for five hours then spoke to the official about my tutoring work, what else was I supposed to do?
 
-K: Well, they must have mistaken you for some other Hassel, because they're come down on me now. If I don't drop you as Lead they will come and investigate me, you, and everyone and everything else at the factory. I don't know why you talked me into reducing the output to meet what we sold. I should have never listen-
+K: Well, they must have mistaken you for some other Hassel, because they're come down on me now. If I don't drop you as the Lead next semester they will come and investigate me, you, and everyone and everything else at the factory. I don't know why you talked me into reducing the output to meet what we sold. I should have never listen-
 
 H: I talked you into it? Dear God, Kleiner don't you start lying now. We decided on it, remember?
 
@@ -184,7 +184,11 @@ K: No, no. No, no, no. You --
 
 Kleiner grunts angrily, blowing off steam.
 
-K: You're lucky, damn lucky, to keep your job. Forget about a promotion, as long as you're working under me you'll be staying where you are and you can sit with the bag of shit the Party drops on you. I am not having any of it.
+K: You're lucky, damn lucky, to keep your job. Forget about a promotion, as long as you're working under me you'll be staying where you are and you can sit with the bag of shit the Party drops on you. Count me out of it.
+
+H: B-but, Kleiner!
+
+K: No! No! I have no part in it. Also, don't bother showing up today -- or the rest of the week for that matter. Just don't show up.
 
 H: Kleiner? Kleiner! I swear I didn't do-
 
@@ -196,7 +200,7 @@ You observe that while the call was taking place, some activity is heard in the 
 
  You observe Lietzka emerge from the hallway in sleeping clothes, rubbing her eyes. "Maybe you want to be louder to make sure you wake up everyone in the block, Albert." she says in between a yawn.
 
-Hassel pays no mind to this remark and goes back through the hallway, presumably to get dressed. Audio information indicates this, and he emerges from the hallway again hastily dressed in his normal civilian clothes.
+Hassel pays no mind to this remark and goes back through the hallway, presumably to get dressed. Audio information indicates this, and he emerges from the hallway again hastily dressed in a wrinkled shirt and pants.
 
 "I have to run to the Party headquerters and set this right, Nadine." He says in a hurried tone. "Everything has gone wrong, I don't think they have the right Albert Hassel. This is terrible, Nadine. Terrible."
 
@@ -204,15 +208,157 @@ You observe Hassel grab the suspicious package observed yesterday and hand it ov
 
 You observe Nadine taking the package. It is notable that she does not seem surprised or phased by the package's appearance, suggesting she was expecting it already. <- The suspicious package unaccounted for by Division XIX was sent to Nadine. 
 
-Hessel goes in for a kiss on the cheek to Leitzka, something she rebuffs by looking away. Hassel's tone gets increasingly angrier. "So that's how it's going to be now, is it? Even you, the little wannabe capitalist I should have reported ages ago, is going to abandon me the moment things go wrong?" 
+Hessel goes in for a kiss on the cheek to Leitzka, something she rebuffs by looking away. Hassel's tone gets increasingly despondent. "So that's how it's going to be now, is it? Even you are going to abandon me the moment things go wrong?" 
 
-Leitzka scoffs. You observe her going to the living room, grabbing the book on top of the coffee table and cradles it like a baby. "I am starting to think that trusting you is not such a good idea, Albert. And I wish you didn't give me more reasons to believe that." 
+Leitzka scoffs. You observe her going to the living room, grabbing the book on top of the coffee table and cradle it like a baby. "I am starting to think that trusting you is not such a good idea, Albert. And I wish you didn't give me more reasons to believe that." 
 
+"I don't believe this," you observe Hassel say with a tone of exasperation. "N-n-no, I-I don't believe this at all." He shuts the door and presses himself against Leitzka in a clear attempt to assert dominance. By the way she winces, it's safe to assume that Leitzka did not expect this reaction. 
 
+"You think I'm playing, Nadine?" he asks "You think I'm p-p-pretending or s-something? That I like that this is happening? It may come as a surprise to you, but I don't. I wish I could tell you why does the Party want my head on a p-pike, I'd love to know myself. Then I could get us a permission to leave and put this madness behind us." 
 
+A brief silence.
 
+"Nadine? Do you understand?" Hassel asks.
 
+"Yes, Albert. I do understand now. I understand completely." Lietzka says in a deadpan tone.
 
+You observe Hassel walk out the door and close it with a smash. Again, the noise makes you wince as you hear it's full blast in the headphones. You briefly take off your headphones and call the Party official at the headquarters he had visited before to instruct the same holding procedure as before. This time, to seed information about the exit visa. For now, let us say that approval will be provisionally granted on grounds of good behavior, but to expect additional duties to the State in the future should he want to conserve his standing. 
+
+Can't be beating him with a stick all day, otheriwse it would get in the way of the ongoing investigation.
+
+As you were talking in the phone to the part official, you see the blinking light of the surveilled telephone light. Someone is using the phone line and you're not surveilling.
+
+You try to pick up the headphones in time to write down something in the report, but there's only silence in the wire, and the light has turned off. Rats. A missed phone call. <- Red herring clue all negative
+
+About ten seconds later, you observe that the wire tap comes alive again, as Leitzka has another conversation. From context clues, you cannot really tell who is on the other side. Previous surveillance does not report that Leitzka has any friends or family in state to contact besides Hassel, and the person on the phone sounds nothing like him. The inerlocutor sounds like an older woman, in her fourties, with some kind of throat issue. She will be designated as Anonymous:
+
+Leitzka: It's me.
+
+Anonymous: You should know be-
+
+L: I know, I know, I know! It's just, I- it's coming apart, Sonia.
+
+A: At least you remembered my name, Ladybird.
+
+L: He's getting restless. Every day, it's another problem. Every day, I have to sleep with one eye open.
+
+A: It's not working out, I gather?
+
+L: *She sighs.* No, no. Frankly I'd love to stop trying.
+
+A: We can't have you doubting yourself now, child. Are you still at-?
+
+L: Yes, yes. Same place.
+
+A: I'll come visit. For tea.
+
+L: Chamomille, one sugar, no cream?
+
+A: It delights me that you remember. I'll see you before lunch.
+
+ The conversation ends there. Gaps in existing information are sabotaging the surveillance operation, since there is a citizen with an obvious familiarity with Leitzka that was not on record. <- Clue
+
+You observe Leitzka washing clothes, doing housework, and reading for the next hours. Party office has since long confirmed the arrival of Hassel, and the indicated wait and response are in effect.
+
+You observe set a kettle on the stove of the kitchen, presumably to boil water. You turn to the camera at the front of the building to record the identity of this "Sonia." No activity of note is observed in the next fifteen minutes, beyond the kettle whistling in Hassel's kitchen.
+
+You ask around in the Field Office if they had any concealed camera equipment on board, but the silence that followed your inquiry confirmed that there wasn't any. You curse your lack of preparedness for this moment. Usually State Security's intel is more or less airtight.
+
+You observe an oddly clothed person go up to the porch, and press the buzzer that corresponds to Hassel's flat. Presumably, this "Sonia" person. An electric buzz lets her in, without you being able to take a picture of this person. What a shame.
+
+Thirty seconds later, you hear a knock on Hassel's door, Leitzka opens it and greets Anonymous bidding her to enter and to sit down in the kitchen. You observe Leitzka starting to address her, but you clearly observe this person stopping her with a hand gesture, and at the same time turn on a radio loudly. <- Evasive tactics means this person suspects being followed or monitored.
+
+Luckily for you, the upgrade on surveillance in Hassel's apartments provided the coverage you needed to hear them even above the racket that Bluejay had created. Nothing escapes the eyes of the State.
+
+"Ma-" Nadine starts
+
+"Child, must I remind you to not use names among us in an unsecure location?" The strange individual responds, in a voice similar to the "Sonia" on the phone. This individual is covered head to toe in dark-colored clothes, oddly wrapped up for Spring. She has not taken off her long-brimmed hat either, making identification a challenge.
+
+"Ok, ok. Sonia, I don't know what to do." Leitzka concedes. Confirming the unknown party is the "Sonia" in the previous phone conversation.
+
+"You knew what the risks were beforehand, Ladybird." Sonia chides. "I remember offering you a better alternative, but you decided to do it your way."
+
+"I'm aware, Sonia. I thought his remembering me in school was something to captialize on. I mean, look around, does it look like he was going to be any trouble?" Letizka responds.
+
+"Oh I can see, Ladybird." Sonia says, in between sips of a cup of tea. "All that is gold does not glitter-"
+
+"-and not all those who wander are lost." Leitzka responds, completing a phrase. "I remember that book like a lightning in a bottle. Of course, not every part."
+
+"Yes, yes. I believe I gave you that one and others." Sonia says. "But, I believe it's time to be decisive. You can always come back to the fold. We need people like you. You know he'd like it, we would too." 
+
+A brief silence falls in the room. 
+
+"Th-then are you sure? Do you know I can see them again?" Nadine says, barely above a whisper that the microphone could pick up over the racket. 
+
+On this question, Sonia downs her cup of chamomille tea and turns down the radio, removing the racket making surveillance challenging. "You know what to do, love. The rest is up to you."
+
+With this statement, Sonia stands up, and leaves the apartment. You scramble to at least get a good look at this woman before she becomes a dead end in the investigation. Leaving your post would be ill advised at this point in the investigation but you risk leaving a significative loose end.
+
+Option A
+
+You leave the Field Office as quietly as you can to have a smoke outside the flats and catch a glimpse of this character. Surely enough, twenty seconds later you observe this oddly dressed woman leave the building. Her wide brimmed hat obscures the view, most likely a luxury item from the Intershop. Definitely in her forties, with caked on makeup, tired brown eyes, and pursed lips. She walks past you as you draw on a cigarrette, your lungs catching on fire. You had not picked up the habit, and it took every fiber of your being not to start a coughing fit there and then. As she turned around the corner, you cough like a chimney, go back into  the Field Office, sketch her likeness and enter it into the archive. (should carry big risk / big reward clue)
+
+Option B
+
+Writing only the presence of this Sonia in the report you keep on listening what happens in the Hassel flat. The Field Office puts in a word through Telex to inquire about a Sonia in the archives of the Ministry connected to Nadine Leitzka. There is a strong likelihood in the use of code names to further confuse proceedings, but that will have to wait. You observe Leitzka washing the teacup used by Sonia, and resume housework duties. 
+
+Nothing suspicious to observe and report for the next couple of hours.
+
+A phone call from the Party Office notifies you that Hassel has left the premises and is likely to return to the flats.
+
+He does not do so for at least 90 minutes more. 
+
+You observe Hassel entering the building, with a bags of groceries. This would explain his extended absence. However, you don't observe him enter his flat. Instead, he has gone somewhere else within the building.
+
+Fearing the worst of losing track of Hassel, you commandeer the rest of the surveillance equipment within the Field Office, you search for a screen. Any screen that could tell you where Hassel is. 
+
+Sure enough, he is two floors above his flat, exchanging pleasantries with a neighbor. The image is grainy but you see him exchanging something and recieving another thing in return. <- Clue
+
+The Field Office had not maintained surveillance lines properly there, so there was no way to record or observe the resulting conversation.
+
+You observe Hassel move away from view, and descend two floors to enter his flat, to be greeted by Leitzka.
+
+"So, it truly seems to be an honest mistake what happened." He says triumphantly.
+
+"Oh. is that so?" Leitzka asks, nonchalant. It's clear Lietzka does not belive Hassel.
+
+"Many a man can save himself if he admits he's done wrong and takes his punishment, as Ibsen would say." Hassel says, jubilant. "Even the great Party tars and feathers the wrong man once in a blue moon, how auspicious that it would be me... and you!" You observe that Hassel has not understood that he is not trusted.
+
+"Me?" Letizka asks, again with little energy. "Why would they want anything to do with me?"
+
+"Well," Hassel responds, putting on airs. "they were asking me not so much about my business, but yours, Nadine. They ask me why am I intending to leave the country with another person that's not my spouse. And I say, 'isn't that quite normal?' The party putz says 'no, it is not.' So it was you after all, dear! It was you! Sounds like someone needs to show face over there. So, guess what I said. Go on, guess." Hassel decidedly expects enthusiasm where there simply isn't any from Leitzka. She says nothing.
+
+"I said, that we were not married... yet!" Hassel says in between laughs.
+
+You observe Leitzka react harshly to this retort, she drops the plate she was washing right into the sink, causing a crashing sound that might just burst your eardrums.
+
+"You're saying you... you... want to-" Leitzka starts to ask in a much different tone.
+
+"Oh good heavens, it's a bit early to be saying that seriously Nadine. But if the lady herself wants to leave, this gentleman is only too willing to bend the truth for her benefit. That's all it takes Nadine, that's all it takes. And we get to leave on holiday!" Hassel hollers. Leitzka has no answer to give.
+
+After a brief and awkward silence, you observe Hassel trying to curry Leitzka's favor "Oh come on, darling. Even you have to admit that's ingenious, hm?" Leitzka responds with a silent nod, and remains motionless as Hassel embraces her.
+
+Lietzka finishes with housework and eat dinner with chitchat that is not relevant to the investigation. 
+
+Later that evening, they retire to Hassel's chamber where the microphone audio suggests undressing and the noises and grunts halmark of a prelude to copulation. 
+
+You hear Leitzka ask "Say Albert, if you got the visa tonight amd you could go anywhere. Where would you go? 
+
+Hassel responds "Well, I'd love to go away... but not too far. Can't get ahead of ourselves, can't get greedy. How about a nice beach in Riga, hm? Riga you still need a visa to go, but not that many checkpoints after that."
+
+"Riga? That's... Latvia, right?" Leitzka asks after a brief silence.
+
+"Really good place, I've heard. Worth visting after a good year of work." He says.
+
+"Albert, I... I am not in the mood. Not anymore. Sorry" Lietzka whispers.
+
+"Really?" Hassel says, a tone of mockery in his voice. "You get me all hot and bothered and you lose your attention at Latvia?"
+
+"I w-was forcing myself, really. I knew you had a bad going these past few days I wanted to give you something." Nadine says with tinge of nervousness.
+
+"Oh darling, You shouldn't do that. I'm in the mood, t-t-though that's fine. That's fine. You know what, that's ok. That's f-f-fine." Hassel responds, first annoyed, then conciliatory. "Let's just sleep then, I have deal with that bastard Kleiner tomorrow."
+
+No more activity to report past this hour.
 
 ### Day 4
 
@@ -250,9 +396,9 @@ When he has confirmed Leitzka left the premises, he sits on the sofa in silence,
 
 After finishing his cigarrette, you observe him pick up the phone and let it produce the open line tone. He starts speaking into the telephone as if somebody was on the other line, when there isn't. His breath is labored, presumably from the cigarrette he just smoked.
 
-Hassel: Are you listening? Of course you are, you are the State Security. Are you enjoying this? Did you watch me an Nadine going at it? Did you watch us eat breakfast and watch television? I hope it was worth it, I hope you got something out of it as much as you did you damn perverts. Always looking, always watching, I do wonder when did I catch your attention. Was it when she came in the apartment? Was it when she gave me that book to read? You know something, I loved it. I loved reading about, I loved reading about how you could actually make something out of yourself instead of a thumb made a million bureaucrats pushing you down. I work, and I work.... and I work until I'm a ragged doll and I will get a scoop of mud and a punch to the head for my troubles. But it's not enough is it? It's not enough for you, you also have to drink from my cup and eat from my plate, and watch me, watch me, watch us all take a dump, fall in love, have a thought. Watch us forever. Nadine wanted to leave so bad... Maybe I'd like to go too... To a place you can't find me, you can't watch me, you can't hear me you... You --hnnng-- f-f-f-fffuck-fucking professional perverts in the Stasi. Fuck you, fuck you all to hell.
+Hassel: Are you listening? Of course you are, you are the State Security. Are you enjoying this? Did you watch me an Nadine going at it? Did you watch us eat breakfast and watch television? I hope it was worth it, I hope you got something out of it as much as you did you damn perverts. Always looking, always watching, I do wonder when did I catch your attention. Was it when she came in the apartment? Was it when she gave me that book to read? You know something, I loved it. I loved reading about, I loved reading about how you could actually make something out of yourself instead of being a bug under the thumb made by a million bureaucrats. I work, and I work.... and I work until I'm a ragged doll and I will get a scoop of mud and a punch to the head for my troubles. But it's not enough is it? It's not enough for you, you also have to drink from my cup and eat from my plate, and watch me, watch me, watch us all take a dump, fall in love, have a thought. Watch us forever. Nadine wanted to leave so bad... Maybe I'd like to go too... To a place you can't find me, you can't watch me, you can't hear me you... You --hnnng-- f-f-f-fffuck-fucking professional perverts in the Stasi. Fuck you, fuck you all to hell.
 
-The one-sided conversation ended here.
+The one-sided conversation ended there.
 
 You put in a word at the local constabularies for the detainment of Albert Hassel should he exit a 30 meter perimeter from the low-rises. He is also at flight risk.
 

@@ -58,7 +58,7 @@ You observe both of them sit on the sofa and turn on the television set. They wa
 
 You observe Hassel break the silence. "I wish you'd tell me what's the rush in getting an exit visa. I know it's important, but these things th-the-they take time." 
 
-"I hope you're not one of those tattletale stooges in the Party who tell on every Dick and Jane in hopes to get a promotion. You're in too deep for that. I just want to leave in the same train you do. And for that I cook your meals, and I please you in bed. A fair agreement, I would say." <- Evasive language indicates subversive machinations. Ms. Leitzka is plying services  in exchange for an exit visa.
+"I hope you're not one of those tattletale stooges in the Party who tell on every Dick and Jane in hopes to get a promotion. You're in too deep for that. I just want to leave in the same train you do."
 
 You observe that after this conversation, Hassel does not say a word. Neither does Leitzka. They both retire to their rooms, with no further activity of note.
 

@@ -4,10 +4,15 @@ const linereader = require('line-reader');
 const rs = require("randomstring");
 const { hideBin } = require('yargs/helpers')
 const argv = yargs(hideBin(process.argv)).argv
+let letid = 'a';
 
 if((!argv.s && !argv.source) || (!argv.d && !argv.destination)){
     console.log('Missing either a source file or destination directory. Ending execution.');
     return;
+}
+
+if(argv.l || argv.idletter){
+    letid = argv.l || argv.idletter;
 }
 
 let sourceFile = argv.s || argv.source;
@@ -31,7 +36,6 @@ try {
 
 const randomIdentifier = rs.generate(5);
 
-console.log(destinationDirectory)
 const writeStream = fs.createWriteStream(`${destinationDirectory}\\script${randomIdentifier}.js`);
 let index = 1;
 
@@ -43,7 +47,7 @@ writeStream.write('const script = {\n');
 linereader.eachLine(sourceFile, (line, last) => {
     if(line.length > 0){
         let leen = line.replace(/\\([\s\S])|(")/g, "\\$1$2"); 
-        writeStream.write(`\t"a${index}": "[say]${leen}",\n`)
+        writeStream.write(`\t"${letid}${index}": "[say]${leen}",\n`)
         index++;
     }
     if(last){

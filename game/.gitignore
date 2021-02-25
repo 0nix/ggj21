@@ -1,4 +1,4 @@
 /node_modules/
 /public/build/
-
+/src/engine/tools/md-preprocessor/node_modules
 .DS_Store

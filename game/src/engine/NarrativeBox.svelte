@@ -33,7 +33,7 @@
     const decisionCallback = (content,opts) => {
         typeBox.setClickAdvance(false)
         typeBox.setFinishRunCallback(() => { decisionBox.hydrate(opts.choices) })
-        typeBox.printThisText(content, (opts.hasOwnProperty('character')) ? opts.character : null)   
+        typeBox.printThisText(content, (opts && opts.hasOwnProperty('character')) ? opts.character : null)   
     }
 
     const loadCallback = (scriptName,location) => {

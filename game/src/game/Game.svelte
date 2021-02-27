@@ -36,6 +36,10 @@
 
     onMount (async () => {
         scripts = await import('../script/scriptDepo.js');
+        vs.update((n) => {
+            n.memory = Object.assign({},scripts.starterValues);
+            return n;
+        });
         runScript = scripts.main;
         gameLoad = true;
     })
@@ -47,10 +51,10 @@
 </style>
 
 <div>
+    <section class:is-hidden="{gameStart == false}">
+        <NarrativeBox bind:this={mainNarrative} bind:script={runScript} bind:Events={ev} bind:VarStore={vs} on:load={loadScriptCallback}/>
+    </section>
     <section class="section">
-        <div class="container" class:is-hidden="{gameStart == false}">
-            <NarrativeBox bind:this={mainNarrative} bind:script={runScript} bind:Events={ev} bind:VarStore={vs} on:load={loadScriptCallback}/>
-        </div>
         {#if !gameStart && gameLoad}
             <StartScreen on:startGame={() => startGame()}/>
         {/if}

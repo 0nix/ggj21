@@ -39,7 +39,8 @@ class Parser {
 
     processLine(fullInstruction){
         if (!this.runningScript) return;
-        let instruction = null; 
+        let instruction = null;
+        let pureInstruction = null;
         let content = null;
         let line = fullInstruction
         let isObj = false;
@@ -48,32 +49,34 @@ class Parser {
             //hey 
             content = line.substring(instruction.length)
             instruction = instruction.substring(1, instruction.length - 1)
+            pureInstruction = instruction.endsWith('}') ? instruction.substring(0,instruction.indexOf('{')) : instruction;
         } else {
             instruction = line.instruction;
+            pureInstruction = line.instruction;
             isObj = true;
         }
-
+        console.log(pureInstruction);
         switch (true) {
-            case instruction == Parser.SAY_ACTION:
+            case pureInstruction == Parser.SAY_ACTION:
                 if (this.sayCallback) this.sayCallback(content)
-                break
-            case instruction === Parser.JMP_ACTION:
+                break;
+            case pureInstruction === Parser.JMP_ACTION:
                 this.queueLine(content);
                 this.processCurrentLine();
                 break;
-            case instruction === Parser.EXC_ACTION:
+            case pureInstruction === Parser.EXC_ACTION:
                 window.eval(content);
                 if (!this.awaitExecution) {
                     this.queueNextLine();
                     this.processCurrentLine();
                 }
                 break;
-            case instruction.includes(Parser.DIA_ACTION):
+            case pureInstruction === Parser.DIA_ACTION:
                 let charName = instruction.match(/{.*}/)[0]
                 charName = charName.substring(1, charName.length - 1)
                 if (this.sayCallback) this.sayCallback(content, charName)
                 break;
-            case instruction.includes(Parser.MSG_ACTION):
+            case pureInstruction === Parser.MSG_ACTION:
                 let category = instruction.match(/{.*}/)
                 if(this.evt) {
                     if (category != null) {
@@ -93,10 +96,10 @@ class Parser {
                     this.processCurrentLine();
                 }
                 break;
-            case instruction === Parser.DEC_ACTION && isObj:
+            case pureInstruction === Parser.DEC_ACTION && isObj:
                 if (this.decisionCallback) this.decisionCallback(line.content, line.opts);
                 break;
-            case instruction.includes(Parser.DEC_ACTION) && !isObj:
+            case pureInstruction === Parser.DEC_ACTION && !isObj:
                 let payload = {}
                 let character = instruction.match(/{.*}/)
                 if(character != null && character[0]) {
@@ -119,13 +122,13 @@ class Parser {
                 payload.choices = opts; 
                 if(this.decisionCallback) this.decisionCallback(prompt,payload);
                 break;
-            case instruction === Parser.END_ACTION:
+            case pureInstruction === Parser.END_ACTION:
                 this.runningScript = false;
                 this.evt.update(n => {
                     return { category: 'global', content: 'END' }
                 })
                 break;
-            case instruction.includes(Parser.STO_ACTION):
+            case pureInstruction === Parser.STO_ACTION:
                 let varName = instruction.match(/{.*}/)[0]
                 varName = varName.substring(1, varName.length - 1)
                 let numContent = Number(content); 
@@ -142,34 +145,34 @@ class Parser {
                     this.processCurrentLine();
                 }
                 break;
-            case instruction.includes(Parser.ADD_ACTION):
-            case instruction.includes(Parser.MUL_ACTION):
-            case instruction.includes(Parser.MOD_ACTION):
+            case pureInstruction === Parser.ADD_ACTION:
+            case pureInstruction === Parser.MUL_ACTION:
+            case pureInstruction === Parser.MOD_ACTION:
                 this.numericMemoryOperation(instruction,content)
                 if (!this.awaitExecution) {
                     this.queueNextLine();
                     this.processCurrentLine();
                 }
                 break;
-            case instruction.includes(Parser.EQ_ACTION):
-            case instruction.includes(Parser.NQ_ACTION):
-            case instruction.includes(Parser.GT_ACTION):
-            case instruction.includes(Parser.LT_ACTION):
-            case instruction.includes(Parser.GE_ACTION):
-            case instruction.includes(Parser.LE_ACTION):
+            case pureInstruction === Parser.EQ_ACTION:
+            case pureInstruction === Parser.NQ_ACTION:
+            case pureInstruction === Parser.GT_ACTION:
+            case pureInstruction === Parser.LT_ACTION:
+            case pureInstruction === Parser.GE_ACTION:
+            case pureInstruction === Parser.LE_ACTION:
                 this.comparisonMemoryOperation(instruction,content);
                 break;
-            case instruction.includes(Parser.LXS_ACTION):
+            case pureInstruction === Parser.LXS_ACTION:
                 let location = instruction.match(/{.*}/)
                 location = (location) ? location[0].substring(1, location[0].length - 1) : null
                 if(this.loadCallback) this.loadCallback(content,location);
                 break;
-            case instruction == Parser.AWT_ACTION:
+            case pureInstruction === Parser.AWT_ACTION:
                 content = content.replace('<','[').replace('>',']');
                 this.awaitExecution = true;
                 this.processLine(content);
                 break;
-            case instruction == Parser.RES_ACTION:
+            case pureInstruction === Parser.RES_ACTION:
                 this.awaitExecution = false;
                 this.queueNextLine();
                 this.processCurrentLine();

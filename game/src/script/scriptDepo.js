@@ -1,5 +1,7 @@
 import mainScript from './mainline'
-import scriptA from './scriptA'
+import script from './start';
+import scriptA from './scriptA';
+import starterValues from './starterValues';
 
 
-export{ mainScript as main, scriptA as scriptA }
+export{ script as main, starterValues as starterValues, scriptA as scriptA }

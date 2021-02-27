@@ -79,7 +79,8 @@
 
 <style>
     div {
-        height: 100px;
+        min-height: 100px;
+        height: fit-content;
         cursor: pointer;
     }
 

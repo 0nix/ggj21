@@ -1,5 +1,6 @@
 <script>
     import {createEventDispatcher} from 'svelte';
+import { space } from 'svelte/internal';
     import Typed from 'typed.js'
 
     let ptext
@@ -8,6 +9,7 @@
     let _text = null
     let isRunning = false
     let clickToAdvance = true
+    let wasAborted = false
     let finishRunCallback = null
     const dispatch  = createEventDispatcher();
 
@@ -32,6 +34,7 @@
         stopNow();
         ptext.innerHTML = '';
         ptext.innerHTML = _text
+        wasAborted = true
     }
 
     export function stopNow() {
@@ -44,6 +47,7 @@
     }
 
     export function printThisText(text, _charName = null) {
+        wasAborted = false
         isRunning = true
         _text = text;
         this.clear();
@@ -75,6 +79,7 @@
 <div on:mousedown="{() => clickOnBox()}">
     <h3 class="title is-6 charName" bind:this={charName}></h3>
     <p bind:this={ptext}></p>
+    <span class="typed-cursor typed-cursor--blink" class:is-hidden={!wasAborted}>*</span>
 </div>
 
 <style>
@@ -82,6 +87,8 @@
         min-height: 100px;
         height: fit-content;
         cursor: pointer;
+        padding: 1em;
+        background-color: hsl(0, 0%, 6%);
     }
 
     .charName {
@@ -92,5 +99,11 @@
         -moz-user-select: none; /* Firefox */
         -ms-user-select: none; /* IE10+/Edge */
         user-select: none; /* Standard */
+        color: hsl(0, 0%, 96%);
+        text-shadow:
+            0 0 5px hsl(0, 0%, 70%),
+            0 0 10px hsl(0, 0%, 70%),
+            0 0 20px hsl(0, 0%, 70%);
+
     }
 </style>

@@ -58,4 +58,12 @@
 </script>
 
 <TypeBox bind:this={typeBox} on:consumedTextBox={onTextConsumed}/>
+<div class="decisionbox">
 <DecisionBox bind:this={decisionBox} on:consumedChoice={onChoiceConsumed}/>
+</div>
+
+<style>
+    .decisionbox{
+        margin-top: 2.5rem;
+    }
+</style>

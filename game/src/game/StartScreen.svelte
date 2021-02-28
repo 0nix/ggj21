@@ -1,9 +1,19 @@
 <script>
 import {createEventDispatcher, onMount} from 'svelte';
 import Typed from 'typed.js'
+import Hoverable from './Hoverable.svelte';
 
 const dispatch = createEventDispatcher();
 let hasTyped = false
+let menuItems = [
+    {evt:'startGame', text:'Start Game', ishovered:false},
+    {evt:'credits', text:'Credits', ishovered:false},
+    
+]
+
+let m = (item) => {
+    console.log(item);
+}
 
 onMount(() => {
   let typed = new Typed('#typed-title', {
@@ -19,9 +29,8 @@ onMount(() => {
                                             MM                                                    
                                           .JMML.                                                  
 `],
-    showCursor: true,
+    showCursor: false,
     typeSpeed: 1,
-    cursorChar: '*',
     onComplete: () => {
         hasTyped = true
     }
@@ -66,6 +75,18 @@ color: orange;
 .hide{
     display:none;
 }
+
+.choices{
+    color: hsl(0, 0%, 4%);
+    background-color: hsl(0, 0%, 96%);
+}
+.choices:hover{
+    background-color: orangered;
+    color: hsl(0, 0%, 96%);
+}
+.hide-star{
+    color: hsl(0, 0%, 4%);
+}
 </style>
 
 <div class="container">
@@ -74,10 +95,18 @@ color: orange;
             <pre id="typed-title" class="ascii-art horizontal-center" class:glow="{hasTyped}">
             </pre>
             <p style="margin-bottom: 1.5rem;"class="has-text-centered other-text" class:glow="{hasTyped}">a game by Asobu Lab</p>
-                <ul class="has-text-centered">
-                    <li><button on:click="{() => dispatch('startGame')}" class="button is-dark">Start Game</button></li>
-                    <li><button on:click="{() => dispatch('startGame')}" class="button is-dark">Credits</button></li>
-                </ul>
+            <div class="horizontal-center" style="width: 150px;">
+            <ul>
+                {#each menuItems as menu}
+                    <Hoverable let:hovering={active}>
+                        <li>
+                            <span class:typed-cursor={active} class:typed-cursor--blink={active} class:hide-star={!active}>*</span>     <a class="choices" on:click="{() => dispatch(menu.evt)}">{menu.text}</a>
+                        </li>
+                    </Hoverable>
+                {/each}
+            </ul>
+            </div>
         </div>
     </section>
 </div>
+

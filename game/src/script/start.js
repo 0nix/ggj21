@@ -1,7 +1,7 @@
 const script = {
     "e": {
         instruction: "dec",
-        content: "The disembodied voice chimes in with a flat tone, carefuly manicured to not reflect any kind of emotion from the speaker box on the hallway.\nDesignation. State Protection Agent.\nIdentifier. Eight-Red-Zero-Whiskey-One-Seven-One-Three. Acknowledge.",
+        content: "The disembodied voice chimes in with a flat tone, carefuly manicured to not reflect any kind of emotion from the speaker box on the hallway.<br/><br/>Designation. State Protection Agent.<br/><br/>Identifier. Eight-Red-Zero-Whiskey-One-Seven-One-Three. Acknowledge.",
             opts: {
                 choices: [
                     {
@@ -18,7 +18,7 @@ const script = {
     "decEnd": "[add{lambda_leader_player}]-1",
     "lp": {
         instruction: "dec",
-        content: `After a brief silence, the disembodied monotone voice chimes in again.\n"To continue with State Security Proceeding 1138, Agent must identify to proceed. In accordance with State Security Ministry Protocol Alpha-Charlie-One-One-Five Dot Four-Five-Zulu."\n"Designation. State Protection Agent."\n"Identifier. Eight-Red-Zero-Whiskey-One-Seven-Three. Acknowledge."`,
+        content: `After a brief silence, the disembodied monotone voice chimes in again.<br/><br/>"To continue with State Security Proceeding 1138, Agent must identify to proceed. In accordance with State Security Ministry Protocol Alpha-Charlie-One-One-Five Dot Four-Five-Zulu."<br/><br/>"Designation. State Protection Agent."<br/><br/>"Identifier. Eight-Red-Zero-Whiskey-One-Seven-Three. Acknowledge."`,
         opts: {
             choices: [
                 {
@@ -34,7 +34,7 @@ const script = {
     },
     "n1": {
         instruction:"dec",
-        content:`A loud buzz drones in your ears, and an equally heavy mechanical latch spring to life, signaling that you were allowed entry. It's a room painted a milky white with a metal table and two chairs on oppsite ends. The light pouring in from the cube-glass window allowing you to see the person on the other side of the room. \nIt's a man clad in olive green, a perfectly pressed military uniform. However, he did not carry the patches or the insignias that followed his authority. He didn't even look authoritative himself: A cueball head without a hair sticking out, with a face like a crow framed by small circular spectacles, and eyes sunken in so deep you can barely see the color in his pupils.\nNo patches to identify him.\nBecause he didn't need to be.`,
+        content:`A loud buzz drones in your ears, and an equally heavy mechanical latch spring to life, signaling that you were allowed entry. It's a room painted a milky white with a metal table and two chairs on oppsite ends. The light pouring in from the cube-glass window allowing you to see the person on the other side of the room. <br/><br/>It's a man clad in olive green, a perfectly pressed military uniform. However, he did not carry the patches or the insignias that followed his authority. He didn't even look authoritative himself: A cueball head without a hair sticking out, with a face like a crow framed by small circular spectacles, and eyes sunken in so deep you can barely see the color in his pupils.<br/><br/>No patches to identify him.<br/><br/>Because he didn't need to be.`,
         opts: {
             choices: [
                 {
@@ -48,13 +48,13 @@ const script = {
             ]
         }
     },
-    "lp1a": `[say]The man in the olive green uniform stares at you from across the table. His lips unmoveable, his eyes boring into the wall behind your head. \n Not a word is exachanged for a few minutes that felt like an eternity. \n He clears his throat, and lick his lips.From how he's leaning forward, there is a note of displeasure about him. \n"Well, Agent. I did not expect to be disrespected by a common operative today, but it seems that today is a day of surprises for me. I would advise you that the surprises I have in store will not be of your liking either. You apologize.\n Bryce nods.\n"Hm yes, very well. To the subject at hand."`,
+    "lp1a": `[say]The man in the olive green uniform stares at you from across the table. His lips unmoveable, his eyes boring into the wall behind your head. <br/><br/> Not a word is exachanged for a few minutes that felt like an eternity. <br/><br/> He clears his throat, and lick his lips.From how he's leaning forward, there is a note of displeasure about him. <br/><br/>"Well, Agent. I did not expect to be disrespected by a common operative today, but it seems that today is a day of surprises for me. I would advise you that the surprises I have in store will not be of your liking either. You apologize.<br/><br/> Bryce nods.<br/><br/>"Hm yes, very well. To the subject at hand."`,
     "lp2a": "[dia{The voice of Reason}]<i>Your actions will have irreversible consequences on the reputation you have with certain characters in the game. The Ministry for State Security is not kind to breaches in protocol, nor sub-standard performance. However, the right choices will ingratiate you to your superiors.</i>",
     "lp3a": "[add{lambda_leader_player}]-1",
     "lp4a":"[sto{diag_choices_clear}]1",
     "ce": {
         instruction: "dec",
-        content: `Lieutenant Bryce produces a manila folder from his coat, and opens with delicacy. "Agent Eight-Red-Zero-Whiskey-One-Seven-One-Three... " he murmurs.\n"8R0W..1713" he muses, eyeing over what no doubt is your previous record at the Ministry. He smirks.\n"They actually spelled something your designation, Agent. Brownie, right? It spells Brownie." He chuckles lightly.\n"What do you think, *Brownie*?" He asks you, mockery in his tongue, leaning into that word like a drunk idiot onto a wall.`,
+        content: `Lieutenant Bryce produces a manila folder from his coat, and opens with delicacy. "Agent Eight-Red-Zero-Whiskey-One-Seven-One-Three... " he murmurs.<br/><br/>"8R0W..1713" he muses, eyeing over what no doubt is your previous record at the Ministry. He smirks.<br/><br/>"They actually spelled something your designation, Agent. Brownie, right? It spells Brownie." He chuckles lightly.<br/><br/>"What do you think, *Brownie*?" He asks you, mockery in his tongue, leaning into that word like a drunk idiot onto a wall.`,
         opts: {
             choices: [
                 {
@@ -68,11 +68,11 @@ const script = {
             ]
         }
     },
-    "cebb": "[say]You sit there, quiet as a rock. Lieutenant Bryce sits in that silence with you, a comedian waiting for an audience to react to a joke that had no reaction whatsoever.\nAfter a solid 20 seconds, he coughs and proceeds with the briefing.\nHe picks up a couple of papers attached together with a clip and slid them across the table to you.",
+    "cebb": "[say]You sit there, quiet as a rock. Lieutenant Bryce sits in that silence with you, a comedian waiting for an audience to react to a joke that had no reaction whatsoever.<br/><br/>After a solid 20 seconds, he coughs and proceeds with the briefing.<br/><br/>He picks up a couple of papers attached together with a clip and slid them across the table to you.",
     "cebb2b":"[add{lambda_leader_player}]-1",
     "cebb3b":"[eq{diag_choices_clear}]1=<jmp>ceb",
     "cebb4b": "[dia{The voice of Reason}]<i>Your actions will have irreversible consequences on the reputation you have with certain characters in the game. The Ministry for State Security is not kind to breaches in protocol, nor sub-standard performance. However, the right choices will ingratiate you to your superiors.</i>",
-    "ceb": `[say]With a brief chuckle, you respond. "I had not thought about that sir, Services has quite the sense of humor then."\nBryce grunted in approval. He picked up a couple of papers attached together with a clip and slid them across the table to you.`,
+    "ceb": `[say]With a brief chuckle, you respond. "I had not thought about that sir, Services has quite the sense of humor then."<br/><br/>Bryce grunted in approval. He picked up a couple of papers attached together with a clip and slid them across the table to you.`,
     "ceb1a": "[add{lambda_leader_player}]1",
     "ceb2a": "[eq{diag_choices_clear}]1=<jmp>f",
     "ceb3a": "[dia{The voice of Reason}]<i>Your actions will have irreversible consequences on the reputation you have with certain characters in the game. The Ministry for State Security is not kind to breaches in protocol, nor sub-standard performance. However, the right choices will ingratiate you to your superiors.</i>",
@@ -103,7 +103,7 @@ const script = {
     "f4b":"[add{lambda_super_player}]-1",
     "f5b":"[jmp]g1a",
     "f1c":`[say]Lieutenant Bryce grunts, annoyed. "If this were a year or two ago, Brownie, I wouldn't even bother with it. But I'm in no mood to anger Sargeant Bayer with warrantless arrests. After all, the Party wants results, as if we didn't get them already." Spite laced his last words.`,
-    "f2c":`[say]He stops a moment and looks at you in the eye, "As much as I'd like to simply arrest the man, Bayer won't have it. And, as it so happens, you will have to make his well wishes and fairy tales into reality. We will need enough evidence for a formal arrest in three days and you will provide it Brownie."\nHe paused just to let that sting in a bit deeper. "No pressure, though." Bryce snides.`,
+    "f2c":`[say]He stops a moment and looks at you in the eye, "As much as I'd like to simply arrest the man, Bayer won't have it. And, as it so happens, you will have to make his well wishes and fairy tales into reality. We will need enough evidence for a formal arrest in three days and you will provide it Brownie."<br/><br/>He paused just to let that sting in a bit deeper. "No pressure, though." Bryce snides.`,
     "f3c": "[add{lambda_super_player}]1",
     "g1a": `[say]Leiutenant Bryce gets up, the metal chair making an extremely nasty noise as he rises. You get up as well.`,
     "g2a": `[say]"Four days, Brownie. I need evidence on Mr. Hassell to rid this nation from the pest of subversion. You have this country and Ms. Leitzka to save." He declares.`,

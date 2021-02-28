@@ -47,11 +47,13 @@
 </script>
 
 <style>
-
+    .gameScreen{
+        width: 875px;
+    }
 </style>
 
 <div>
-    <section class:is-hidden="{gameStart == false}">
+    <section class:is-hidden="{gameStart == false}" class="gameScreen horizontal-center">
         <NarrativeBox bind:this={mainNarrative} bind:script={runScript} bind:Events={ev} bind:VarStore={vs} on:load={loadScriptCallback}/>
     </section>
     <section class="section">

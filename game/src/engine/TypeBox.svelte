@@ -76,19 +76,20 @@ import { space } from 'svelte/internal';
 
 </script>
 
-<div on:mousedown="{() => clickOnBox()}">
+<div class="contain" on:mousedown="{() => clickOnBox()}">
     <h3 class="title is-6 charName" bind:this={charName}></h3>
     <p bind:this={ptext}></p>
     <span class="typed-cursor typed-cursor--blink" class:is-hidden={!wasAborted}>*</span>
 </div>
 
 <style>
-    div {
-        min-height: 100px;
+    .contain {
+        min-height: 300px;
         height: fit-content;
         cursor: pointer;
         padding: 1em;
         background-color: hsl(0, 0%, 6%);
+        border-radius: 25px;
     }
 
     .charName {

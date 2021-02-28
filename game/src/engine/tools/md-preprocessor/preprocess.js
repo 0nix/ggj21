@@ -47,7 +47,7 @@ writeStream.write('const script = {\n');
 linereader.eachLine(sourceFile, (line, last) => {
     if(line.length > 0){
         let leen = line.replace(/\\([\s\S])|(")/g, "\\$1$2"); 
-        writeStream.write(`\t"${letid}${index}": "[say]${leen}",\n`)
+        writeStream.write(`\t"${letid}${index}${letid}": "[say]${leen}",\n`)
         index++;
     }
     if(last){

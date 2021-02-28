@@ -25,7 +25,7 @@
         <div class="column">
             <ul>
                 {#each choices as c}
-                    <li><a class="noselect choices" on:mouseover="{() => rolledOverChoice = c}" on:mouseout="{() => rolledOverChoice = null}"  on:click="{choose(c)}">{c.content}</a></li>
+                    <li class="choice-container"><a class="noselect choices" on:mouseover="{() => rolledOverChoice = c}" on:mouseout="{() => rolledOverChoice = null}"  on:click="{choose(c)}">{c.content}</a></li>
                 {/each}
             </ul>
         </div>
@@ -44,7 +44,9 @@
         -ms-user-select: none; /* IE10+/Edge */
         user-select: none; /* Standard */
     }
-
+    .choice-container{
+        margin-bottom: 0.65rem;
+    }
     .choices{
         color: hsl(0, 0%, 4%);
         background-color: hsl(0, 0%, 96%);

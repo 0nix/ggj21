@@ -138,6 +138,7 @@ const script = {
     "h2a":`[say]He stops a moment to think, leans forward and adopts a much more serious façade.`,
     "h3a":`[say]"Agent 8R0W713, you are hererby assigned an additional task. It is clear that Bryce wants something more than the safety of this country, and he has been personally compromised. As you report at the end of every workday in the surveillance of this Mr. Hassel and Ms. Leitzka I will join the briefing. I expect you to truthful of what you see, and find evidence of Bryce's personal involvement in this affair. I am sure Bryce is using the State as his personal cudgel and I will need require evidence for this crime. Same standards apply. Counter-intelligence would be thrilled to find a little tyrant in the company, and you will be rewarded for it.`,
     "h4a":`[say]He produces the permission slip you need from a drawer under his desks, signs it, stamps it, and hands it over to you.`,
-    "h5a":`[say]"We are the sword and shield of the State, Agent 8R0W713. Not a roving band of thugs."`
+    "h5a":`[say]"We are the sword and shield of the State, Agent 8R0W713. Not a roving band of thugs."`,
+    "h6a":"[lxs]day1"
 }
 export default script;

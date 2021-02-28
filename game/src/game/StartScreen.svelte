@@ -11,10 +11,6 @@ let menuItems = [
     
 ]
 
-let m = (item) => {
-    console.log(item);
-}
-
 onMount(() => {
   let typed = new Typed('#typed-title', {
     strings: [`                                                                                                    
@@ -87,6 +83,13 @@ color: orange;
 .hide-star{
     color: hsl(0, 0%, 4%);
 }
+.menu-item{
+    margin-bottom: 0.65rem;
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
 </style>
 
 <div class="container">
@@ -99,7 +102,7 @@ color: orange;
             <ul>
                 {#each menuItems as menu}
                     <Hoverable let:hovering={active}>
-                        <li>
+                        <li class="menu-item">
                             <span class:typed-cursor={active} class:typed-cursor--blink={active} class:hide-star={!active}>*</span>     <a class="choices" on:click="{() => dispatch(menu.evt)}">{menu.text}</a>
                         </li>
                     </Hoverable>

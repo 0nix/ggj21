@@ -170,10 +170,16 @@ class Parser {
             case pureInstruction === Parser.AWT_ACTION:
                 content = content.replace('<','[').replace('>',']');
                 this.awaitExecution = true;
+                this.evt.update(n => {
+                    return { category: 'AWAIT', content: true }
+                })
                 this.processLine(content);
                 break;
             case pureInstruction === Parser.RES_ACTION:
                 this.awaitExecution = false;
+                this.evt.update(n => {
+                    return { category: 'AWAIT', content: false }
+                })
                 this.queueNextLine();
                 this.processCurrentLine();
                 break;

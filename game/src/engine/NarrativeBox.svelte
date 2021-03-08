@@ -3,7 +3,8 @@
     import TypeBox from './TypeBox.svelte'
     import DecisionBox from './DecisionBox.svelte'
     import Parser from './Parser'
-    let typeBox, decisionBox, _parser
+    let typeBox, decisionBox, _parser;
+    let nextLineEnabled = true;
     export let script
     export let Events
     export let VarStore
@@ -22,8 +23,12 @@
     }
 
     const nextLine = () => {
-        _parser.queueNextLine();
-        _parser.processCurrentLine();
+        if(nextLineEnabled) {
+            _parser.queueNextLine();
+            _parser.processCurrentLine();
+        } else {
+            console.log("disabled");
+        }
     }
 
     const sayBox = (args,charName = null) =>{
@@ -49,6 +54,14 @@
         }
     }
 
+    export function setNextLineEnabled(input){
+        nextLineEnabled = input;
+    }
+
+    export function forceNextLine() {
+        _parser.queueNextLine();
+        _parser.processCurrentLine();
+    }
 
     export function start(lineIdentifier = null){
         _parser = new Parser(script, Events, VarStore, lineIdentifier, sayBox,decisionCallback,loadCallback);
@@ -58,12 +71,13 @@
 </script>
 
 <TypeBox bind:this={typeBox} on:consumedTextBox={onTextConsumed}/>
+<slot name="TypeBoxFooter"></slot>
 <div class="decisionbox">
 <DecisionBox bind:this={decisionBox} on:consumedChoice={onChoiceConsumed}/>
 </div>
 
 <style>
     .decisionbox{
-        margin-top: 2.5rem;
+        margin-top: 1.25rem;
     }
 </style>

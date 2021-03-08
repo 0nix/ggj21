@@ -1,7 +1,7 @@
 import {writable} from 'svelte/store';
 
 const VarStore = writable({
-    inventory: {},
+    inventory: [],
     memory: {},
 });
 

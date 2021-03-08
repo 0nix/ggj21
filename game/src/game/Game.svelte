@@ -4,8 +4,11 @@
     import {VarStore,Events} from '../engine/Store'
     import StartScreen from './StartScreen.svelte'
     import Credits from './Credits.svelte'
+    import Inventory from './Inventory.svelte'
+import Parser from '../engine/Parser';
 
     let mainNarrative
+    let inventory
     let credits
     let scripts
     let runScript = null
@@ -13,10 +16,24 @@
     let ev = Events
     let gameStart = false
     let gameLoad = false
-    const STARTSCRIPT = 'main'
+    let awaitMode = false;
+    const STARTSCRIPT = 'day1'
+    let INVENTORYLIMIT = 3
 
-    vs.subscribe(val =>{ console.log(val)})
-    ev.subscribe(ev => {console.log(ev) });
+    vs.subscribe(val =>{ 
+        console.log(val)
+    })
+    ev.subscribe(ev => {
+        switch(ev.category){
+            case 'AWAIT':
+                mainNarrative.setNextLineEnabled(!ev.content);
+                awaitMode = ev.content;
+                break;
+            default:
+                console.log(ev);
+                break;
+        }
+    });
 
     const startGame = (opts) => {
         gameStart = true
@@ -41,6 +58,12 @@
         }
     }
 
+    const inventoryDoneCallback = () => {
+        if(awaitMode){
+            mainNarrative.forceNextLine()
+        }
+    }
+
     onMount (async () => {
         scripts = await import('../script/scriptDepo.js');
         vs.update((n) => {
@@ -61,10 +84,16 @@
     }
 </style>
 
-<div>
-    <section class:is-hidden="{gameStart == false}" class="gameScreen horizontal-center view">
-        <NarrativeBox bind:this={mainNarrative} bind:script={runScript} bind:Events={ev} bind:VarStore={vs} on:load={loadScriptCallback}/>
-    </section>
+<div class="game-container">
+    <div class:is-hidden="{gameStart == false}" class="game">
+        <section class="gameScreen horizontal-center view">
+            <NarrativeBox bind:this={mainNarrative} bind:script={runScript} bind:Events={ev} bind:VarStore={vs} on:load={loadScriptCallback}>
+                <div slot="TypeBoxFooter">
+                    <Inventory bind:this={inventory} bind:VarStore={vs} bind:Events={ev} bind:InventoryLimit={INVENTORYLIMIT} on:inventoryDone={inventoryDoneCallback}/>
+                </div>
+            </NarrativeBox>
+        </section>
+    </div>
     <section class="section">
         <Credits bind:this={credits}/>
         {#if !gameStart && gameLoad}

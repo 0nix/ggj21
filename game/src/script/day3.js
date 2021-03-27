@@ -1,5 +1,7 @@
 const script = {
   a81a: "[say]Surveillance start at 0500 hours on Thursday, March 11th.",
+  a81b:
+    "[say(if retrieved MAP)]Greeting you first thing in the morning was the Ministry teletype, an analysis of the scribbled map that you found on Nadine Leitzka's briefcase. Preliminary analysis is that it's a rudimentary depiction of an area of the Inner Border on the banks of the Saale. It would be accurate to intuit by the posession of this map, and it's circunspect markings and fabrication that it is a map created with the purpose to aid a person to cross the border through the river illegaly.",
   a82a:
     "[say]At around 0600, you observe a phone call is made to Hassel's residence. The phone ring wakes up Hassel and Leitzka, forcing Hassel to get out of bed earlier than previously observed. Previous surveillance indicates the call is from The People's Electronics Fabricant, approximately 700 meters away from the Hassel surveillance site, Hassel's workplace. On the other line is Hassel's boss, citizen Gerhart Kleiner, Head of Day-Shift Production. The conversation is as follows:",
   a83a: "[say]Hassel (H): Who in the hell is ca-",
@@ -86,7 +88,7 @@ const script = {
   a133a:
     "[say]You ask around in the Field Office if they had any concealed camera equipment on board, but the silence that followed your inquiry confirmed that there wasn't any. You curse your lack of preparedness for this moment. Usually State Security's intel is more or less airtight.",
   a134a:
-    '[say]You observe an oddly clothed person go up to the porch, and press the buzzer that corresponds to Hassel\'s flat. Presumably, this "Sonia" person. An electric buzz lets her in, without you being able to take a picture of this person. What a shame.',
+    '[say]You observe an oddly shaped black blob go up to the porch, and press the buzzer that corresponds to Hassel\'s flat. Presumably, this "Sonia" person. An electric buzz lets her in, without you being able to take a picture of this person. What a shame.',
   a135a: `[say]Thirty seconds later, you hear a knock on Hassel's door, Leitzka opens it and greets who you presume to be "Sonia" bidding her to enter and to sit down in the kitchen. You observe Leitzka starting to address her, but you clearly observe this person stopping her with a hand gesture, and at the same time turn on a radio loudly. <- Evasive tactics means this person suspects being followed or monitored.`,
   a136a:
     "[say]Luckily for you, the upgrade on surveillance in Hassel's apartments provided the coverage you needed to hear them even above the racket that Bluejay had created. Nothing escapes the eyes of the State.",
@@ -107,12 +109,12 @@ const script = {
     '[say]"Yes, yes. I believe I gave you that one and others." Sonia says. "But, I believe it\'s time to be decisive. You can always come back to the fold. We need people like you. You know he\'d like it, we would too." ',
   a145a: "[say]A brief silence falls in the room. ",
   a146a:
-    '[say]"Th-then are you sure? Do you know I can see them again?" Nadine says, barely above a whisper that the microphone could pick up over the racket. ',
+    '[say]"Th-then are you sure? Do you know I can see them again? Can I go to them?" Nadine says, barely above a whisper that the microphone could pick up over the racket. ',
   a147a:
     '[say]On this question, Sonia downs her cup of chamomille tea and turns down the radio, removing the racket making surveillance challenging. "You know what to do, love. The rest is up to you."',
   a148a:
     "[say]With this statement, Sonia stands up, and leaves the apartment. You scramble to at least get a good look at this woman before she becomes a dead end in the investigation. Leaving your post would be ill advised at this point in the investigation but you risk leaving a significative loose end.",
-  a149a: "[say]Option A",
+  a149a: "[say (activate Sonia dialogue puzzle)]Option A",
   a150a:
     "[say]You leave the Field Office as quietly as you can to have a smoke outside the flats and catch a glimpse of this character. Surely enough, twenty seconds later you observe this oddly dressed woman leave the building. Her wide brimmed hat obscures the view, most likely a luxury item from the Intershop. Definitely in her forties, with caked on makeup, tired brown eyes, and pursed lips. She walks past you as you draw on a cigarrette, your lungs catching on fire. You had not picked up the habit, and it took every fiber of your being not to start a coughing fit there and then. As she turned around the corner, you cough like a chimney, go back into  the Field Office, sketch her likeness and enter it into the archive. (should carry big risk / big reward clue)",
   a151a: "[say]Option B",
@@ -124,7 +126,7 @@ const script = {
     "[say]A phone call from the Party Office notifies you that Hassel has left the premises and is likely to return to the flats.",
   a155a: "[say]He does not do so for at least 90 minutes more. ",
   a156a:
-    "[say]You observe Hassel entering the building, with a bags of groceries. This would explain his extended absence. However, you don't observe him enter his flat. Instead, he has gone somewhere else within the building.",
+    "[say]You observe Hassel entering the building, with bags of groceries. This would explain his extended absence. However, you don't observe him enter his flat. Instead, he has gone somewhere else within the building.",
   a157a:
     "[say]Fearing the worst of losing track of Hassel, you commandeer the rest of the surveillance equipment within the Field Office, you search for a screen. Any screen that could tell you where Hassel is. ",
   a158a:

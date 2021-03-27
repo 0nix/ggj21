@@ -12,7 +12,7 @@ A car ride and the standard security checks later, you are in an interrogation r
 
 "Well then, Brownie." Lt. Bryce barks with discomfort. "We have Sgt. Bayer here to thank for a Delta-Sierra style interrogatory. Can't say I'm thrilled to be away from my Marta at this hour, but I am loathe to agree with Bayer. One cannot have too much scrutiny."
 
-"Well, Bryce," Sgt. Bayer responds, with some annoyance. "Our time needs to be spent efficiently and concietiously. Of course, we cannot allow our enemies to go astray but dilligence is the norm or we're no different from those uncouth bastards on the West."
+"Lieutant Bryce," Sgt. Bayer responds, with some annoyance. "Our time needs to be spent efficiently and concietiously. Of course, we cannot allow our enemies to go astray but dilligence is the norm or we're no different from those uncouth bastards on the West."
 
 Bryce grimaces at that comment, though he does so with his eyes directly fixed upon you. 
 
@@ -156,3 +156,78 @@ Having heard everything you had to report, both men get up from their seats. You
 
 And with that, they leave, leaving you completely alone. 
 
+## Day 2 
+
+### Previous to questioning
+
+As you take off your heavy hadphones and prepare the desk for your night shift surveillance partner, you recieve a phone call from the internal Ministry network. The voice on the other end is the same monotone that had preluded the interrogation from yesterday.
+
+"Agent Designation: Eight-Red-Zero-Whiskey-One-Seven-One-Three. You are required to present yourself at once to Central for dossier review following every day of operation while on assignment. Authorization. Delta-Sierra-Charlie-Hotel. Review of dossier will be conducted by Operations managers. Confirm reciept."
+
+You respond affirmatively. Fifteen minutes later, in the same office, in the same building, with the same yellow light illuminating a balding crow and a stoic rock. Two men who will decide the merits of your investigaiton.
+
+"Delta-Sierra interrogation day number two. I do hope that the evidence presented to day will be more fortitous and conducive to establishing any and all culpability for Mr. Hassel." Bryce says, chewing something before spitting it out in a nearby bin.
+
+"Plausible culpability, Lietuant Bryce." Bayer says with a stern tone. "Plausible culpability."
+
+"Excuse me, how many years have you been in service to the Ministry Sargeant Bayer?" Bryce responds, offended.
+
+"Enough to have out ranked you, Lietuant." Bayer says in low tones, unmoved by Bryce's accusations.
+
+### No evidence presented
+
+Bryce and Bayer sit on a pregnant silence as you explain that, despite what the surveillance might suggest, there was no evidence of malfeacance or wrongdoing on part of either Albert Hassel or Nadine Leitzka. They appeared to be a perfectly normal, perfectly fine couple. 
+
+"Agent, I'm sure that setting up an operation on such short notice is not something you may want to do every day," Bayer quizes. "But, I find it hard to believe, even after two days of surveillance, that there was a complete lack of any evidence on either party under surveillance."
+
+"I find your lack of work to be disturbing at best, and worthy of being accused of constituing sabotage at worst." Bryce added, growling like a dog. 
+
+### 2.1 Promotion
+
+You report on a subject of the investigation, Albert Hassel, reportedly getting promoted to Engineer Team Lead at the State Electronic Fabricator Plant no. 3, supervised by one Gerhart Kleiner. Electronic Fabricator Plant no. 3 currently produces boards and chip sets for the state's Official Computer Manufacture that provides support and tools to offices both domestic and in allied countries. While not absolutely critical, the Fabricator Plant is an important sector of enterprise in the State, and it's organizational structure is cleared and reviewed constantly by the Ministry itself.
+
+"Well, there you go Bayer." Bryce says with a bit of a grin. "You have been asking over and over for a justification for this surveillance operation on Hassel. I'd say this is it. If Division XX has a reason to direct further work on the newest member of Worker Management, I don't see why wouldn't we."
+
+Bayer furrows his brow, puzzled. "I get that, I get that." He mutters. "It's not clear to me that we have had this level of mid management, specially if it's something that..." He trails off in thought.
+
+"Specially if what, Sargeant? Be more specific, please." Bryce responds through gritted teeth.
+
+"I don't see this much scrutiny over a move that, frankly sounds like a fat accompli. Frankly, from the way the conversation has been recorded and presented to us, Hassel's promotion is something that has already gone through the proper scrutiny channels, at the appropriate levels." Bayer says, scratching his chin still in a pensieve mood.
+
+"Are you saying that Division XX has engaged in dubious intelligence, Sgt. Bayer? If so, that is a very tall accusation that requires some ev-" Bryce accuses.
+
+"And my question to you Bayer is, do you have someone in Division XX you care this much?" Bayer responds, with that particular tone people use when they want to re-establish their authority. "They're good Lieutenant, but they're not gods. They're not infallible. Your defensiveness is becoming unreasonable, comrade and you are constantly forgetting yourself."
+
+The Sargeant turns to you and says. "At any rate, I think this is still useful Agent. We should look into this Gerhart Kleiner, and his relationship with Hassel as well as who cleared the usual check on his promotion."
+
+"I agree with the Sargeant on that matter, Agent. Even if I... disagree with his thoughts at the moment." Bryce says with a heavy sigh.
+
+"We have to decide on angle," Bayer mutters, playing with the papers on the desk. Bryce as always sits back, his hands crossed and his beady eyes looking directly at you.
+
+[Argue to investigate the Division XX background check]
+
+You say that a perfectly fine citizen who is being slated to be promoted within state business must have had a record check done with a level of thoroughness that would have been all that was necessary to establish prosecutable offenses. That this individual is now under dedicated surveillance is not protocol. /n/n Sargeant Bayer grunts in agreement and takes a note.
+
+(lambda superleader +1)
+
+[Argue to investigate Kleiner and the factory]
+
+You say that the involvement of a factory supervisor of a state-owned operation adds an additional wrinkle to the surveillance operation, since such a position would allow a potential subversive element into sabotaging larger state interests and industries. The question the follows if Kleiner is involved into the matters that Hassel is being suspected of, and as such has become a suspect himself. Out of an abundance of caution, he and the factory operation should be investigated /n/n Lieutenant Bryce smriks, and looks at Sargeant Bayer with some manner of contempt.
+
+(lambda leader +1)
+
+### 2.2 Lying about meeting production quotas
+
+
+
+### 2.3 Owning Wealth of Nations
+
+### 2.4 Nadine Leitzka's Family Picture
+
+### 2.5 Hastily scribbled map
+
+### 2.6 Mystery Package
+
+### 2.x Conclusion
+
+<u></u>

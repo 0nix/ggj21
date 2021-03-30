@@ -123,6 +123,7 @@ const script = {
   a31a:
     "[say]\"I hope you're not one of those tattletale stooges in the Party who tell on every Dick and Jane in hopes to get a promotion. You're in too deep for that. I just want to leave in the same train you do.\"",
   a32a:
-    "[say]You observe that after this conversation, Hassel does not say a word. Neither does Leitzka. They both retire to their rooms, with no further activity of note.",
-};
+    "[say]You observe that after this conversation, Hassel does not say a word. Neither does Leitzka. They both retire to their room, with no further activity of note.",
+  a33a:"[end]"
+  };
 export default script;

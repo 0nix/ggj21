@@ -4,7 +4,6 @@
         show = true;
     }
     export function hideModal() {
-        console.log('aaa')
         show = false;
     }
     /*

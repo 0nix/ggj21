@@ -5,12 +5,14 @@
     import StartScreen from './StartScreen.svelte'
     import Credits from './Credits.svelte'
     import Inventory from './Inventory.svelte'
-import Parser from '../engine/Parser';
+    import dictionary from '../script/stringDictionary'
+    import Parser from '../engine/Parser';
 
     let mainNarrative
     let inventory
     let credits
     let scripts
+    let strings
     let runScript = null
     let vs = VarStore
     let ev = Events
@@ -19,6 +21,7 @@ import Parser from '../engine/Parser';
     let awaitMode = false;
     const STARTSCRIPT = 'day1'
     let INVENTORYLIMIT = 3
+    let stringDictionary = dictionary;
 
     vs.subscribe(val =>{ 
         console.log(val)
@@ -66,6 +69,7 @@ import Parser from '../engine/Parser';
 
     onMount (async () => {
         scripts = await import('../script/scriptDepo.js');
+        
         vs.update((n) => {
             n.memory = Object.assign({},scripts.starterValues);
             return n;
@@ -89,7 +93,7 @@ import Parser from '../engine/Parser';
         <section class="gameScreen horizontal-center view">
             <NarrativeBox bind:this={mainNarrative} bind:script={runScript} bind:Events={ev} bind:VarStore={vs} on:load={loadScriptCallback}>
                 <div slot="TypeBoxFooter">
-                    <Inventory bind:this={inventory} bind:VarStore={vs} bind:Events={ev} bind:InventoryLimit={INVENTORYLIMIT} on:inventoryDone={inventoryDoneCallback}/>
+                    <Inventory bind:this={inventory} bind:Strings={stringDictionary} bind:VarStore={vs} bind:Events={ev} bind:InventoryLimit={INVENTORYLIMIT} on:inventoryDone={inventoryDoneCallback}/>
                 </div>
             </NarrativeBox>
         </section>

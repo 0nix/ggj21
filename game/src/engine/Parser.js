@@ -55,7 +55,6 @@ class Parser {
             pureInstruction = line.instruction;
             isObj = true;
         }
-        console.log(pureInstruction);
         switch (true) {
             case pureInstruction == Parser.SAY_ACTION:
                 if (this.sayCallback) this.sayCallback(content)

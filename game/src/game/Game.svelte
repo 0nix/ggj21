@@ -24,13 +24,36 @@
     let stringDictionary = dictionary;
 
     vs.subscribe(val =>{ 
-        console.log(val)
+        console.log(val);
     })
     ev.subscribe(ev => {
         switch(ev.category){
             case 'AWAIT':
                 mainNarrative.setNextLineEnabled(!ev.content);
                 awaitMode = ev.content;
+                break;
+            case 'SETCHAR':
+                let char = (dictionary.hasOwnProperty(ev.content) ? dictionary[ev.content] : ev.content);
+                mainNarrative.setCharacterText(char);
+                break;
+            case 'UNLOCKCHAR':
+                mainNarrative.unlockCharacterText();
+                break;
+            case 'LOCKCHAR':
+                console.log(ev)
+                mainNarrative.lockCharacterText();
+                break;
+            case 'flushInventory':
+                 vs.update((currentStore) => {
+                        let newVars = {}
+                        for(let i of currentStore.inventory){
+                            newVars[i] = true
+                        }
+                        newVars.numberItems = currentStore.inventory.length;
+                        currentStore.memory = Object.assign(currentStore.memory,newVars)
+                        currentStore.inventory = [];
+                        return currentStore;
+                    })
                 break;
             default:
                 console.log(ev);

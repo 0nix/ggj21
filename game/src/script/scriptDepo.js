@@ -6,6 +6,7 @@ import day4 from './day4'
 import script from './start';
 import scriptA from './scriptA';
 import starterValues from './starterValues';
+import day1interrogatory from './day1interrogatory';
 
 
 export{ 
@@ -15,5 +16,6 @@ export{
     day1 as day1,
     day2 as day2,
     day3 as day3,
-    day4 as day4
+    day4 as day4,
+    day1interrogatory as day1interrogatory
 };

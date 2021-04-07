@@ -63,6 +63,18 @@
         _parser.processCurrentLine();
     }
 
+    export function setCharacterText(input){
+        typeBox.setCharacterText(input);
+    }
+
+    export function lockCharacterText(){
+        typeBox.setLockCharacterText(true);
+    }
+
+    export function unlockCharacterText(){
+        typeBox.setLockCharacterText(false);
+    }
+
     export function start(lineIdentifier = null){
         _parser = new Parser(script, Events, VarStore, lineIdentifier, sayBox,decisionCallback,loadCallback);
         _parser.processCurrentLine()

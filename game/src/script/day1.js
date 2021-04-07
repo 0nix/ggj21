@@ -124,6 +124,16 @@ const script = {
     "[say]\"I hope you're not one of those tattletale stooges in the Party who tell on every Dick and Jane in hopes to get a promotion. You're in too deep for that. I just want to leave in the same train you do.\"",
   a32a:
     "[say]You observe that after this conversation, Hassel does not say a word. Neither does Leitzka. They both retire to their room, with no further activity of note.",
-  a33a:"[end]"
+  a33a: "[say]As you prepare your dossier for the day's activities, you recieve a phone call from the internal Ministry network. The voice on the other end is monotone, almost sepulchral in it's lack of tone:",
+  a34a: `[say]"Agent Designation: Eight-Red-Zero-Whiskey-One-Seven-One-Three. You are required to present yourself at once to Central for dossier review following every day of operation while on assignment. Authorization. Delta-Sierra-Charlie-Hotel. Review of dossier will be conducted by Operations managers. Confirm reciept."`,
+  a35a: "[say]You confirm. Everything about this operation is strange. The timing of the operation, the rushed nature of your briefing, the fact that so many resources were being spent on two people that you had never even heard of being spoken of at any level within the Ministry. Even when everyone is subject to some form of vigilance, a line worker at a factory and his paramore are usually not subject to this much scrutiny. <br/><br/> Even so, an order is an order.",
+  a36a: "[say]A car ride and the standard security checks later, you are in an interrogation room that is usually for crime suspects. You've been on the side of the metal table where both Lt. Bryce and Sgt. Bayer are looking from. You've also been on this side as a part of counter-intelligence training. Nevertheless, the position you're in does not allow you to feel completely at ease. At least there isn't a scent pad on the bottom of the chair. You're spared persecution from the canine unit, for now.",
+  a37a: `[say]"Well then, Brownie." Lt. Bryce barks with discomfort. "We have Sgt. Bayer here to thank for a Delta-Sierra style interrogatory. Can't say I'm thrilled to be away from my Marta at this hour, but I am loathe to agree with Bayer. One cannot have too much scrutiny."`,
+  a38a: `[say]"Lieutant Bryce," Sgt. Bayer responds, with some annoyance. "Our time needs to be spent efficiently and concietiously. Of course, we cannot allow our enemies to go astray but dilligence is the norm or we're no different from those uncouth bastards on the West."`,
+  a39a: "[say]Bryce grimaces at that comment, though he does so with his eyes directly fixed upon you. ",
+  a40a: `[say]"Agent, you may proceed with the dossier review." Bayer commands.`,
+  a41a:"[flushInventory]",
+  a42a:"[lxs]day1interrogatory",
+  a43a:"[end]"
   };
 export default script;

@@ -6,7 +6,6 @@
     import Credits from './Credits.svelte'
     import Inventory from './Inventory.svelte'
     import dictionary from '../script/stringDictionary'
-    import Parser from '../engine/Parser';
 
     let mainNarrative
     let inventory

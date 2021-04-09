@@ -35,14 +35,48 @@ const script = {
     "[say]K: Does that sound like my problem, Hassel? I am giving you a courtesy call, that should be enough for you.",
   a52a:
     "[say]H: That's fine Kleiner, always a pleasure talking to you and thank you for the heads up.",
-  a53a:
-    '[say]Before hanging up, the microphone on the phone picks up Hassel muttering "Little tyrant..." <- Prospect for a promotion does not really reflect a subersive element for the intergity of the State.',
+  a53a: {
+    instruction: "dec",
+    content:
+      `Before hanging up, the microphone on the phone picks up Hassel muttering "Little tyrant..." <br/><br/> <i>Prospect for a promotion does not really reflect a subersive element for the intergity of the State.</i>`,
+    opts: {
+      choices: [
+        {
+          content: `You document the evidence.`,
+          line: "[awt]<jmp>a1b",
+        },
+        {
+          content: `You let it go.`,
+          line: "[jmp]a54a",
+        },
+      ],
+    },
+  },
+  a1b:"[msg{INV}]EV2-1",
+  a2b:"[res]",
   a54a:
     '[say]You observe Lietzka take notice of the conversation that just transpired. "Good news, from the looks of it." She comments.',
   a55a:
     '[say]Hassel sits down and takes a bite of his nondescript breakfast. "Uhm, yes. Looks like I will be getting a promotion come June. Before that I have to make good with the Party. If I show up we might actually see those exit visas, finally." He responds.',
-  a56a:
-    '[say]"Well that\'s dandy." Lietzka says. This is the first time you have observed her smile since coming across her dossier and surveillance started. "I guess you and that Gerhart made like thieves with the production numbers, if they\'re so good they\'re giving off holidays like they were bargains." She comments. <- Lying about meeting production quotas is a serious offense and classifed as a cause for sedition accusations. However, the investigation to prove subversion to the state through industry will not suffice the needs of the surveillance investigation.',
+  a56a: {
+    instruction: "dec",
+    content:
+      `Well that\'s dandy." Lietzka says. This is the first time you have observed her smile since coming across her dossier and surveillance started. "I guess you and that Gerhart made like thieves with the production numbers, if they\'re so good they\'re giving off holidays like they were bargains." She comments.  <br/><br/> <i>Lying about meeting production quotas is a serious offense and classifed as a cause for sedition accusations. However, the investigation to prove subversion to the state through industry will not suffice the needs of the surveillance investigation.</i>`,
+    opts: {
+      choices: [
+        {
+          content: `You document the evidence.`,
+          line: "[awt]<jmp>a1c",
+        },
+        {
+          content: `You let it go.`,
+          line: "[jmp]a57a",
+        },
+      ],
+    },
+  },
+  a1c: "[msg{INV}]EV2-2",
+  a2c: "[res]",
   a57a:
     '[say]"For once, woud it kill you to be happy for me Nadine?" Hassel says, with a tinge of annoyance. "We have our numbers, everyone at the factory gets a new thing to put on their tables, and for once we\'re producing what we actually need to produce instead of brand new boards just sitting in warehouses where they won\'t go anywhere.  Hon-hon-honestly, it frustrates me to no end seeing something I worked so hard on sit there doing... nothing. If there is a surplus of demand, then the market will adjust if it can\'t go anywhere."',
   a58a: '[say]Leitzka smirks. "I see you\'ve been reading lover-boy." ',
@@ -65,26 +99,144 @@ const script = {
     "[say]Surveillance around the building, provided by the same Field Office, indicates that she did not visit her neighbor Laurie Weiss.One of the other agents in the Field Office noticed that she instead she decided to sit down at the nearby park and playground and pass the time in silence there. A perfect time to improve the surveillance equipment on the premises, and search for any materials that could build a case for the investigation. ",
   a68a:
     "[say]You phone the local Coordination Office and ask for a team of surveillance setups at the earliest notice. The operation has the approval from Bayer to be top priority, so they assemble who they can and send them to you. In a matter of 10 minutes, you can hear the sirens of a modified fire truck, with a distinct variation in alarm pattern, meaning it's a Stasi covert car. Ten seconds later, the team knocks on the door of the Field Office, and present themselves to you, ready to work.",
-  a69a: "[say]Enter the flat.",
-  a70a:
-    "[say]The surveillance team enters the flat. At your direction, they install cameras in the remaining two bedrooms of the flat. As it happens, the map you were given was incorrect, and there is only one additional room that is not surveyed, and a bathroom that is not surveyed. Construction of the flat don't make it feasible to incorporate additional cameras without concelament in a reasonable amount of time, more microphones are placed in using the wires of existing equipment. On the living room there are two objects of interest. A book on top of the coffee table, and the briefcase Leitzka had taken from under the sofa.",
-  a71a:
-    "[say]Look at the book: The cover seems to indicate a perfectly normal cooking book, but one the dust jacket is removed, the true contents reveal themselves to be Freedom of Nations by Adam Smith. <- Hiding the contents of a published work is suspicious enough, the fact that it is western propaganda is even more disturbing. The publisher house on the first page of the cover is from a company in the West. This was clearly not produced here, nor was it authorized for sell in the Intershops. This is posession of unauthorized public goods.",
-  a72a:
-    "[say]Look at the briefcase: The briefcase reveals itself to be an assortments of various knick knacks of personal siginficance to Leitzka. On top of the pile, two items of interest. You snap a picture for the evidence file.",
-  a73a:
-    "[say]A picture: A faded, sepia tone picture of a woman holding two children. The picture seems to have been taken some time ago. You take out a pocket camera and snap a picture that will record what the photo is. Given that the picture was still somewhat warm, this is most likely the object Nadine Lietzka was crying over. <- Further analysis should uncover who these people are and how are they relevant to Lietzka.",
-  a74a:
-    "[say]A scribbled map: A hastily scribbled diagram which is some sort of map on slight aged graphing paper. It seem to indicate a series of roads and sewer tunnels. You take out a pocket camera and snap a picture of that diagram. <- Sending the diagram for analysis should ellucidate what is this location referring to.",
+  a71a: {
+    instruction: "dec",
+    content:
+      `The surveillance team enters the flat. At your direction, they install cameras in the remaining two bedrooms of the flat. As it happens, the map you were given was incorrect, and there is only one additional room that is not surveyed, and a bathroom that is not surveyed. Construction of the flat don't make it feasible to incorporate additional cameras without concelament in a reasonable amount of time, more microphones are placed in using the wires of existing equipment. On the living room there are two objects of interest. A book on top of the coffee table, and the briefcase Leitzka had taken from under the sofa.`,
+    opts: {
+      choices: [
+        {
+          content: `You look at the book.`,
+          line: "[jmp]a1d",
+        },
+        {
+          content: `You look at the briefcase.`,
+          line: "[jmp]a1e",
+        },
+        {
+          content: `You leave the apartment`,
+          line: "[jmp]a75a"
+        }
+      ],
+    },
+  },
+  a1d: {
+    instruction: "dec",
+    content:
+      `The cover seems to indicate a perfectly normal cooking book, but one the dust jacket is removed, the true contents reveal themselves to be Freedom of Nations by Adam Smith.<br/><br/> <i>Hiding the contents of a published work is suspicious enough, the fact that it is western propaganda is even more disturbing. The publisher house on the first page of the cover is from a company in the West. This was clearly not produced here, nor was it authorized for sell in the Intershops. This is posession of unauthorized public goods.</i>`,
+    opts: {
+      choices: [
+        {
+          content: `You document the evidence.`,
+          line: "[awt]<jmp>a2d",
+        },
+        {
+          content: `You let it go.`,
+          line: "[jmp]a71a",
+        },
+      ],
+    },
+  },
+  a2d:"[msg{INV}]EV2-3",
+  a3d:"[res]",
+  a4d:"[jmp]a71a",
+  a1e:{
+    instruction: "dec",
+    content:
+      `The briefcase reveals itself to be an assortments of various knick knacks of personal siginficance to Leitzka. On top of the pile, two items of interest. You snap a picture for the evidence file.`,
+    opts: {
+      choices: [
+        {
+          content: `There's a faded picture.`,
+          line: "[jmp]a1f",
+        },
+        {
+          content: `There's a scribbled paper.`,
+          line: "[jmp]a1g",
+        },
+        {
+          content: `You close the briefcase`,
+          line: "[jmp]a71a"
+        }
+      ],
+    },
+  },
+  a1f: {
+    instruction: "dec",
+    content:
+      `A faded, sepia tone picture of a woman holding two children. The picture seems to have been taken some time ago. You take out a pocket camera and snap a picture that will record what the photo is. Given that the picture was still somewhat warm, this is most likely the object Nadine Lietzka was crying over. <br/><br/> <i>Further analysis should uncover who these people are and how are they relevant to Lietzka.</i>`,
+    opts: {
+      choices: [
+        {
+          content: `You document the evidence.`,
+          line: "[awt]<jmp>a2f",
+        },
+        {
+          content: `You let it go.`,
+          line: "[jmp]a1e",
+        },
+      ],
+    },
+  },
+  a2f:"[msg{INV}]EV2-4",
+  a3f:"[res]",
+  a4f:"[jmp]a1e",
+  a1g:{
+    instruction: "dec",
+    content:
+      `A scribbled map: A hastily scribbled diagram which is some sort of map on slight aged graphing paper. It seem to indicate a series of roads and sewer tunnels. You take out a pocket camera and snap a picture of that diagram.<br/><br/> <i>Sending the diagram for analysis should ellucidate what is this location referring to.</i>`,
+    opts: {
+      choices: [
+        {
+          content: `You document the evidence.`,
+          line: "[awt]<jmp>a2g",
+        },
+        {
+          content: `You let it go.`,
+          line: "[jmp]a1e",
+        },
+      ],
+    },
+  },
+  a2g: "[msg{INV}]EV2-5",
+  a3g: "[res]",
+  a4g: "[jmp]a1e",
+
   a75a:
     "[say]You return the objects to their previous state and exit the premises with care to not have been seen inside or leave any trace of yourselves. ",
-  a76a:
-    "[say]Several hours later, Hassel returns to the flat with a package under his arm and places it on the kitchen table. Cameras are not able to distinguish who is the package for or what it contains. <- Subjects under direct surveillance of the Ministry of State Safety are by policy not allowed to recieve any mail unless already examined and reported to the acting surveillance Agent. This is a break in procedure.",
+  a76a: {
+    instruction: "dec",
+    content:
+      `Several hours later, Hassel returns to the flat with a package under his arm and places it on the kitchen table. Cameras are not able to distinguish who is the package for or what it contains.<br/><br/> <i>Subjects under direct surveillance of the Ministry of State Safety are by policy not allowed to recieve any mail unless already examined and reported to the acting surveillance Agent. This is a break in procedure.</i>`,
+    opts: {
+      choices: [
+        {
+          content: `You document the evidence.`,
+          line: "[awt]<jmp>a2h",
+        },
+        {
+          content: `You let it go.`,
+          line: "[jmp]a77a",
+        },
+      ],
+    },
+  },
+  a2h: "[msg{INV}]EV2-5",
+  a3h: "[res]",
   a77a:
     "[say]You phone in immediately to Division XIX to ask for a status report.",
   a78a:
     "[say]Division XIX reports no parcels were addressed to Albert Hassel or Nadine Leitzka therefore there was nothing to intercept. ",
   a79a:
     "[say]Nadine Leitzka does not return until late in the evening, after Hassel had already eaten and gone to bed. You do not detect any night time activities between the two of them.",
+  a80a:"[say]As you take off your heavy hadphones and prepare the desk for your night shift surveillance partner, you recieve a phone call from the internal Ministry network. The voice on the other end is the same monotone that had preluded the interrogation from yesterday.",
+  a81a:`[say]"Agent Designation: Eight-Red-Zero-Whiskey-One-Seven-One-Three. You are required to present yourself at once to Central for dossier review following every day of operation while on assignment. Authorization. Delta-Sierra-Charlie-Hotel. Review of dossier will be conducted by Operations managers. Confirm reciept."`,
+  a82a:`[say]You respond affirmatively. Fifteen minutes later, in the same office, in the same building, with the same yellow light illuminating a balding crow and a stoic rock. Two men who will decide the merits of your investigaiton.`,
+  a83a:`[say]"Delta-Sierra interrogation day number two. I do hope that the evidence presented to day will be more fortitous and conducive to establishing any and all culpability for Mr. Hassel." Bryce says, chewing something before spitting it out in a nearby bin.`,
+  a84a:`[say]"Plausible culpability, Lietuant Bryce." Bayer says with a stern tone. "Plausible culpability."`,
+  a85a:`[say]"Excuse me, how many years have you been in service to the Ministry Sargeant Bayer?" Bryce responds, offended.`,
+  a86a:`[say]"Enough to have out ranked you, Lietuant." Bayer says in low tones, unmoved by Bryce's accusations.`,
+  a87a: `[end]`,
+
 };
 export default script;

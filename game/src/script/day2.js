@@ -1,5 +1,4 @@
 const script = {
-  a33a: "[say]#### Day 2",
   a34a: "[say]Surveillance start at 0500 hours on Wednesday, March 10th.",
   a35a:
     "[say]Hassel wakes up at 0630 hours, followed by Lietzka shortly thereafter.",

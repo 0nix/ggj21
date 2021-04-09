@@ -62,9 +62,6 @@ color: orange;
     0 0 5px orangered,
     0 0 10px orangered,
     0 0 20px orangered,
-    0 0 40px orange,
-    0 0 80px orange,
-    0 0 90px orangered,
     0 0 100px orangered,
     0 0 150px red;
 }

@@ -42,7 +42,6 @@ const script = {
     c1a:`[nq{EV1-2}]1=<jmp>d1a`,
     c2a: "[LOCKCHAR]",
     c3a: "[SETCHAR]EV1-2",
-    c4a: "[say]Using a Radio content",
     c5a: `[say]Bryce and Bayer hear your reports about Leitzka and Hassel having a conversation that seems to be deliberately drowned out with a radio broadcast.`,
     c6a: `[say]After a pause, Bryce asks "What time did this broadcast happen?"`,
     c7a: `[say]You answer that it was around 0900 hours.`,

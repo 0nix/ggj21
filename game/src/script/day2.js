@@ -1,5 +1,5 @@
 const script = {
-  a34a: "[say]Surveillance start at 0500 hours on Wednesday, March 10th.",
+  a34a: "[say]Surveillance starts at 0500 hours on Wednesday, March 10th.",
   a35a:
     "[say]Hassel wakes up at 0630 hours, followed by Lietzka shortly thereafter.",
   a36a:
@@ -221,7 +221,7 @@ const script = {
       ],
     },
   },
-  a2h: "[msg{INV}]EV2-5",
+  a2h: "[msg{INV}]EV2-6",
   a3h: "[res]",
   a77a:
     "[say]You phone in immediately to Division XIX to ask for a status report.",

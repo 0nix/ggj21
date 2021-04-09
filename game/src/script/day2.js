@@ -184,7 +184,7 @@ const script = {
   a1g:{
     instruction: "dec",
     content:
-      `A scribbled map: A hastily scribbled diagram which is some sort of map on slight aged graphing paper. It seem to indicate a series of roads and sewer tunnels. You take out a pocket camera and snap a picture of that diagram.<br/><br/> <i>Sending the diagram for analysis should ellucidate what is this location referring to.</i>`,
+      `A hastily scribbled diagram which is some sort of map on slight aged graphing paper. It seem to indicate a series of roads and sewer tunnels. You take out a pocket camera and snap a picture of that diagram.<br/><br/> <i>Sending the diagram for analysis should ellucidate what is this location referring to.</i>`,
     opts: {
       choices: [
         {

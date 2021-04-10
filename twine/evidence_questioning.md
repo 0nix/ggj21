@@ -216,18 +216,60 @@ You say that the involvement of a factory supervisor of a state-owned operation 
 
 (lambda leader +1)
 
-### 2.2 Lying about meeting production quotas
+### 2.2 Lying about meeting production quotas (super leader -1 AND leader +1)
 
 
 
-### 2.3 Owning Wealth of Nations
+### 2.3 Owning Wealth of Nations (super leader +1 OR leader +1)
 
-### 2.4 Nadine Leitzka's Family Picture
+### 2.4 Nadine Leitzka's Family Picture (super leader +1 AND leader +1)
 
-### 2.5 Hastily scribbled map
+### 2.5 Hastily scribbled map (super leader -1 OR leader +1)
 
-### 2.6 Mystery Package
+### 2.6 Mystery Package (super leader -1 AND leader +1)
 
 ### 2.x Conclusion
 
-<u></u>
+
+## Day 3
+
+### Previous to questioning
+
+### 3.1 No evidence presented
+
+### 3.2 Mystery Package is for Nadine (super leader +1 and leader +1)
+
+### 3.3 Missed Phone Call (super leader -1 or leader -1)
+
+### 3.4 Unfamiliar person to investigation was not in surveillance (super leader +1 and leader -1, no argument needed, passthrough)
+
+### 3.5 Evasive "Sonia" (super leader -1 and leader +1) 
+
+### 3.6 SONIA DIALOGUE PUZZLE
+
+
+### Conclusion
+## Day 4
+
+### Previous to questioning
+
+### 4.1 No evidence presented
+### 4.2 Mystery Package was passed through (super leader +1 and leader -1 no argument needed passthrough)
+
+### 4.3 Leitzka leaves without telling anyone where (super leader -1 and leader +1)
+
+
+### 4.4 Hassel did not report Leitzka (super leader +1 and leader -1 OR super leader -1 and leader +1)
+
+### 4.5 Conclusions
+
+## Endings
+
+### Ending A: Insufficient evidence, operation cancelled, protagonist is killed.
+
+### Ending B: Hassel is convicted
+
+### Ending C: Leitzka is convicted, protagonist is killed
+
+
+### Ending D: Leitzka is convicted, Bryce is processed for misusing state authority.

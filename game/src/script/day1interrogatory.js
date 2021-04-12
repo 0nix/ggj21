@@ -130,7 +130,7 @@ const script = {
     e9a: `[add{lambda_leader_player}]1`,
     e10a: `[jmp]e999a`,
     e22a: `[say]Bayer hums with a bit of a humorous tone. "In his position I'd be upset too."`,
-    e23a: `[say][add{lambda_leader_player}]1`,
+    e23a: `[add{lambda_super_player}]1`,
     e999a: "[UNLOCKCHAR]",
 
     z1a: "[say]Having heard everything you had to report, both men get up from their seats. You respond with a standing salute.",

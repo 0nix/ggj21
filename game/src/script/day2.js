@@ -168,7 +168,7 @@ const script = {
     opts: {
       choices: [
         {
-          content: `You document the evidence.`,
+          content: `You document the evidence with your instant camera.`,
           line: "[awt]<jmp>a2f",
         },
         {

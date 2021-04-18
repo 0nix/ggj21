@@ -1,7 +1,7 @@
 const script = {
     a1a:"[nq{numItems}]0=<jmp>b1a",
-    a2a:`[say]Bryce and Bayer sit on a pregnant silence as you explain that, despite what the surveillance might suggest, there was no evidence of malfeacance or wrongdoing on part of either Albert Hassel or Nadine Leitzka. They appeared to be a perfectly normal, perfectly fine couple.`,
-    a3a:`[say]"Agent, I'm sure that setting up an operation on such short notice is not something you may want to do every day," Bayer quizes. "But, I find it hard to believe, even after two days of surveillance, that there was a complete lack of any evidence on either party under surveillance."<br/><br/>"I find your lack of work to be disturbing at best, and worthy of being accused of constituing sabotage at worst." Bryce added, growling like a dog. `,
+    a2a:`[say]Bryce and Bayer sit on a pregnant silence as you explain that, despite what the surveillance might suggest, there was no evidence of malfeasance or wrongdoing on part of either Albert Hassel or Nadine Leitzka. They appeared to be a perfectly normal, perfectly fine couple.`,
+    a3a:`[say]"Agent, I'm sure that setting up an operation on such short notice is not something you may want to do every day," Bayer quizzes. "But, I find it hard to believe, even after two days of surveillance, that there was a complete lack of any evidence on either party under surveillance."<br/><br/>"I find your lack of work to be disturbing at best, and worthy of being accused of constituting sabotage." Bryce added, growling like a dog.`,
     a7a: "[jmp]z1a",
     
     b1a:`[nq{EV2-1}]1=<jmp>c1a`,
@@ -12,7 +12,7 @@ const script = {
     b8a:`[say]Bayer furrows his brow, puzzled. "I get that, I get that." He mutters. "It's not clear to me that we have had this level of mid management, specially if it's something that..." He trails off in thought.`,
     b10a:`[say]"Specially if what, Sargeant? Be more specific, please." Bryce responds through gritted teeth.`,
     b12a:`[say]"I don't see this much scrutiny over a move that, frankly sounds like a fat accompli. Frankly, from the way the conversation has been recorded and presented to us, Hassel's promotion is something that has already gone through the proper scrutiny channels, at the appropriate levels." Bayer says, scratching his chin still in a pensieve mood.`,
-    b14a: `[say]"Are you saying that Division XX has engaged in dubious intelligence, Sgt. Bayer? If so, that is a very tall accusation that requires some ev-" Bryce accuses.`,
+    b14a: `[say]"Are you saying that Division XX has engaged in dubious intelligence, Sergeant Bayer? If so, that is a very tall accusation that requires some ev-" Bryce accuses.`,
     b16a: `[say]"And my question to you Bayer is, do you have someone in Division XX you care this much?" Bayer responds, with that particular tone people use when they want to re-establish their authority. "They're good Lieutenant, but they're not gods. They're not infallible. Your defensiveness is becoming unreasonable, comrade and you are constantly forgetting yourself."`,
     b18a: `[say]The Sargeant turns to you and says. "At any rate, I think this is still useful Agent. We should look into this Gerhart Kleiner, and his relationship with Hassel as well as who cleared the usual check on his promotion."`,
     b20a: `[say]"I agree with the Sargeant on that matter, Agent. Even if I... disagree with his thoughts at the moment." Bryce says with a heavy sigh.`,

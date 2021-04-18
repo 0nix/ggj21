@@ -229,13 +229,13 @@ const script = {
     "[say]Division XIX reports no parcels were addressed to Albert Hassel or Nadine Leitzka therefore there was nothing to intercept. ",
   a79a:
     "[say]Nadine Leitzka does not return until late in the evening, after Hassel had already eaten and gone to bed. You do not detect any night time activities between the two of them.",
-  a80a:"[say]As you take off your heavy hadphones and prepare the desk for your night shift surveillance partner, you recieve a phone call from the internal Ministry network. The voice on the other end is the same monotone that had preluded the interrogation from yesterday.",
-  a81a:`[say]"Agent Designation: Eight-Red-Zero-Whiskey-One-Seven-One-Three. You are required to present yourself at once to Central for dossier review following every day of operation while on assignment. Authorization. Delta-Sierra-Charlie-Hotel. Review of dossier will be conducted by Operations managers. Confirm reciept."`,
-  a82a:`[say]You respond affirmatively. Fifteen minutes later, in the same office, in the same building, with the same yellow light illuminating a balding crow and a stoic rock. Two men who will decide the merits of your investigaiton.`,
-  a83a:`[say]"Delta-Sierra interrogation day number two. I do hope that the evidence presented to day will be more fortitous and conducive to establishing any and all culpability for Mr. Hassel." Bryce says, chewing something before spitting it out in a nearby bin.`,
-  a84a:`[say]"Plausible culpability, Lietuant Bryce." Bayer says with a stern tone. "Plausible culpability."`,
-  a85a:`[say]"Excuse me, how many years have you been in service to the Ministry Sargeant Bayer?" Bryce responds, offended.`,
-  a86a:`[say]"Enough to have out ranked you, Lietuant." Bayer says in low tones, unmoved by Bryce's accusations.`,
+  a80a:"[say]As you take off your heavy headphones and prepare the desk for your night shift surveillance partner, you receive a phone call from the internal Ministry network. The voice on the other end is the same monotone that had preluded the interrogation from yesterday.",
+  a81a:`[say]"Agent Designation: Eight-Red-Zero-Whiskey-One-Seven-One-Three. You are required to present yourself at once to Central for dossier review following every day of operation while on assignment. Authorization. Delta-Sierra-Charlie-Hotel. Review of dossier will be conducted by Operations managers. Confirm receipt."`,
+  a82a:`[say]You respond affirmatively. Fifteen minutes later, in the same office, in the same building, with the same yellow light illuminating a balding crow and a stoic rock. Two men who will decide the merits of your investigation.`,
+  a83a:`[say]"Delta-Sierra interrogation day number two. I do hope that the evidence presented to day will be more fortuitous and conducive to establishing any and all culpability for Mr. Hassel." Bryce says, chewing something before spitting it out in a nearby bin.`,
+  a84a:`[say]"Plausible culpability, Lieutenant Bryce." Bayer says with a stern tone. "Plausible culpability."`,
+  a85a:`[say]"Excuse me, how many years have you been in service to the Ministry Sergeant Bayer?" Bryce responds, offended.`,
+  a86a:`[say]"Enough to have out ranked you, Lieutenant." Bayer says in low tones, unmoved by Bryce's accusations.`,
   a87a: `[end]`,
 
 };

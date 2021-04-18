@@ -11,16 +11,16 @@
     let inventory
     let credits
     let scripts
-    let strings
     let runScript = null
     let vs = VarStore
     let ev = Events
     let gameStart = false
     let gameLoad = false
-    let awaitMode = false;
+    let awaitMode = false
+    let debugMenuOpen = false
     const STARTSCRIPT = 'day1'
     let INVENTORYLIMIT = 3
-    let stringDictionary = dictionary;
+    let stringDictionary = dictionary
 
     vs.subscribe(val =>{ 
         console.log(val);
@@ -98,6 +98,9 @@
         });
         runScript = scripts[STARTSCRIPT];
         gameLoad = true;
+        cheet('b u g', function () {
+            debugMenuOpen = true
+        });
     })
 </script>
 

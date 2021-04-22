@@ -227,7 +227,9 @@
         <br/>
         <input bind:value="{debugRemoveInventory}" type="text" class='input debugItems is-small'/> <button on:click={() => removeFromInventory() }>Remove from Inventory</button>
         <br/>
+        <span>Key</span>
         <input bind:value="{debugValKey}" type="text" class='input debugItems is-small'/>
+        <span>Value</span>
         <input bind:value="{debugValSet}" type="text" class='input debugItems is-small'/>
         <button on:click={() => setMemoryValue() }>Set Memory Value</button>
 

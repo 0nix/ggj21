@@ -21,7 +21,7 @@
     let gameLoad = false
     let awaitMode = false
     let debugMenuOpen = false
-    const STARTSCRIPT = 'day1'
+    const STARTSCRIPT = 'main'
     let INVENTORYLIMIT = 3
     let stringDictionary = dictionary
 

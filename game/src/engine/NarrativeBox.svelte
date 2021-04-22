@@ -8,6 +8,7 @@
     export let script
     export let Events
     export let VarStore
+    export let Debug
     const dispatch  = createEventDispatcher();
 
     const onTextConsumed = () => {
@@ -76,8 +77,13 @@
     }
 
     export function start(lineIdentifier = null){
-        _parser = new Parser(script, Events, VarStore, lineIdentifier, sayBox,decisionCallback,loadCallback);
+        _parser = new Parser(script, Events, VarStore, lineIdentifier, sayBox,decisionCallback,loadCallback, Debug);
         _parser.processCurrentLine()
+    }
+
+    export function destroyDecisionBox(){
+        typeBox.setClickAdvance(true)
+        decisionBox.dehydrate();
     }
 
 </script>

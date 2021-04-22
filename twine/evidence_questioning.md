@@ -435,7 +435,9 @@ And with that, they leave. You are now completely alone.
 
 ### Previous to questioning
 
+As you take off your heavy headphones and prepare the desk for your night shift surveillance partner, you receive a phone call from the internal Ministry network. The voice on the other end is the same monotone that had preluded the interrogation from yesterday.
 
+"Agent Designation: Eight-Red-Zero-Whiskey-One-Seven-One-Three. You are required to present yourself at once to Central for dossier review following every day of operation while on assignment. Authorization. Delta-Sierra-Charlie-Hotel. Review of dossier will be conducted by Operations managers. Confirm receipt."
 
 ### 3.1 No evidence presented
 

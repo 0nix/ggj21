@@ -7,4 +7,6 @@ const VarStore = writable({
 
 const Events = writable({})
 
-export {VarStore, Events};
+const Debug = writable({})
+
+export {VarStore, Events, Debug};

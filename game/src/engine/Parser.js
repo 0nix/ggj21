@@ -24,7 +24,7 @@ class Parser {
     //any message that does not match any of these operators will be treated as a message operator with the instruction as the category
     //i.e. the instruction [foo]bar will be processed as a message of category foo, with the instruction bar.
 
-    constructor(mainScript, evtService = null, store = null, loadScriptAt = null, sayCallback = null,decisionCallback=null,loadCallback = null){
+    constructor(mainScript, evtService = null, store = null, loadScriptAt = null, sayCallback = null,decisionCallback=null,loadCallback = null, debugService = null){
         this.mainScript = mainScript;
         this.evt = evtService;
         this.mainScriptIdentifiers = Object.getOwnPropertyNames(mainScript);
@@ -35,6 +35,7 @@ class Parser {
         this.runningScript = true;
         this.store = store;
         this.awaitExecution = false;
+        this.debugService = debugService;
     }
 
     processLine(fullInstruction){
@@ -268,6 +269,9 @@ class Parser {
 
     processCurrentLine(goToNextLine = true){
         if (!this.runningScript) return;
+        this.debugService.update(n => {
+            return { category: 'line', content: this.currentLine };
+        })
         let line = this.mainScript[this.currentLine];
         this.processLine(line);
     }

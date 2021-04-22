@@ -37,7 +37,7 @@
         <p>Game Design, Game Scenario, Game and Tool Development, Art, and Music</p>
         <p>by Asobu Lab</p>
         <br/>
-        <p>With special thanks to: Global Game Jam, The GitGud Group, ThatMaestroGuy, WreckoGekko, SlotterOtter, Aarón Cortés, Devin McCullough, Marco Antonio Solís, my parents, my Twitch followers, and you for playing my game.</p>
+        <p>With special thanks to: Global Game Jam, The GitGud Group, ThatMaestroGuy, WreckoGekko, SlotterOtter, Aarón Cortés, Devin McCullough, Stevenson Streeper, Marco Antonio Solís, my parents, my Twitch followers, and you for playing my game.</p>
         <br/>
         <p>You can find more games at <a class="choices" href="https://asobulab.itch.io/" target="_blank">asobulab.itch.io</a></p>
         <p>I post on Twitter <a class="choices" href="https://twitter.com/asobulab" target="_blank">@asobulab</a></p>

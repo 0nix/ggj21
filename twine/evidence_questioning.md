@@ -52,7 +52,7 @@ You argue that while Sergeant Bayer's suggestion is plausible, it doesn't accoun
 
 Bryce reclines his chair, a bit too triumphant to win in an argument involving hand. Bayer tuts and shakes his head, displeased.
 
-(lambda leader +1 superleader -1)
+(lambda leader +2 superleader -1)
 
 *Option 2*
 
@@ -84,11 +84,11 @@ You answer that it was around 0900 hours.
 
 [Argue for its inclusion in the record to agree with Bayer]
 
-You argue that Sgt. Bayer's suggestion is plausible, and how it could be the start of establishing a pattern of behavior. Small bits of behavior may tell of a larger offense to prosecute under state law.
+You argue that Sgt. Bayer's suggestion is plausible, and how it could be the start of establishing a pattern of behavior. Small bits of behavior may tell off a larger offense to prosecute under state law.
 
 Bayer looks in Bryce's direction with an air of smugness, while Bryce rolls his eyes.
 
-(lambda leader -1 superleader +1)
+(lambda leader -1 superleader +2)
 
 *Option 2*
 
@@ -120,11 +120,11 @@ Bryce nods in agreement. Bayer shakes his head. "If the Lieutenant wants to cont
 
 You insist that owning multiple pieces of this kind of furniture was not something that Hassel could afford easily, let alone with his time as a worker in the electronics factory he labored. Even if there were other, simpler explanations, they should not deter from the fact that this a pattern interrupt that needs to be on the record.
 
-Bayer rests his hand on his face for a few seconds, processing the information. He reads the papers, mouthing the words written. "I think this may have some merit, Agent." He finally says. "Not the best piece of evidence we've had against a potentially subersive element, but worth following up on should the prosecution deem it needed." 
+Bayer rests his hand on his face for a few seconds, processing the information. He reads the papers, mouthing the words written. "I think this may have some merit, Agent." He finally says. "Not the best piece of evidence we've had against a potentially subversive element, but worth following up on should the prosecution deem it needed." 
 
 "Unbelievable," Bryce says, angrily. "This kind of reasoning is going to convince you to note the subject's choice of home décor. This will put anti-citizen elements behind bars, Bryce? Really?" He says with and increasingly louder voice.
 
-"I was very clear with my assessment, Lieutant." Bayer responds, leaning on the last word of that sentence. "I think it's worth pursuing for any other behaviors that are not consistent. The Agent's right to point it out even if it's slim."
+"I was very clear with my assessment, Lieutenant." Bayer responds, leaning on the last word of that sentence. "I think it's worth pursuing for any other behaviors that are not consistent. The Agent's right to point it out even if it's slim."
 
 (lambda leader -1)
 
@@ -140,13 +140,13 @@ A very clearly stated dissatisfaction with the state of government and the Party
 
 Bryce grunts with an affirmative tone. "Right you are, Agent. Right you are."
 
-(lambda leader +1)
+(lambda leader +2)
 
 [Agree with Bayer]
 
 Bayer hums with a bit of a humorous tone. "In his position I'd be upset too."
 
-(Lambda superleader +1)
+(Lambda superleader +2)
 
 ### 1.e Ending
 
@@ -166,7 +166,7 @@ As you take off your heavy headphones and prepare the desk for your night shift 
 
 You respond affirmatively. Fifteen minutes later, in the same office, in the same building, with the same yellow light illuminating a balding crow and a stoic rock. Two men who will decide the merits of your investigation.
 
-"Delta-Sierra interrogation day number two. I do hope that the evidence presented to day will be more fortuitous and conducive to establishing any and all culpability for Mr. Hassel." Bryce says, chewing something before spitting it out in a nearby bin.
+"Delta-Sierra interrogation day number two. I do hope that the evidence presented too day will be more fortuitous and conducive to establishing any and all culpability for Mr. Hassel." Bryce says, chewing something before spitting it out in a nearby bin.
 
 "Plausible culpability, Lieutenant Bryce." Bayer says with a stern tone. "Plausible culpability."
 
@@ -208,17 +208,17 @@ The Sergeant turns to you and says. "At any rate, I think this is still useful A
 
 You say that a perfectly fine citizen who is being slated to be promoted within state business must have had a record check done with a level of thoroughness that would have been all that was necessary to establish prosecutable offenses. That this individual is now under dedicated surveillance is not protocol. /n/n Sergeant Bayer grunts in agreement and takes a note.
 
-(lambda superleader +1)
+(lambda superleader +2)
 
 [Argue to investigate Kleiner and the factory]
 
 You say that the involvement of a factory supervisor of a state-owned operation adds an additional wrinkle to the surveillance operation, since such a position would allow a potential subversive element into sabotaging larger state interests and industries. The question the follows if Kleiner is involved into the matters that Hassel is being suspected of, and as such has become a suspect himself. Out of an abundance of caution, he and the factory operation should be investigated /n/n Lieutenant Bryce smirk's, and looks at Sergeant Bayer with some manner of contempt.
 
-(lambda leader +1)
+(lambda leader +2)
 
 ### 2.2 Lying about meeting production quotas (super leader -1 AND leader +1)
 
-You relate to Lieutenant Bryce and Sergeant Bayer that, from the way Letizka had spoken, there may had been some tampering of the production reports for The People's Electronics Fabricant. Namely, their production numbers. The expression "made like thieves" could apply to several different contexts, including in this case a probable cause to investigate Albert Hassel's and Gerhart Kleiner's involvement in day-to-day operation. It may be indicative of, at the very least, a deliberate change in policy that has not been approved by the Ministry of Labor, or any officially sanctioned policy by The Party.
+You relate to Lieutenant Bryce and Sergeant Bayer that, from the way Leitzka had spoken, there may had been some tampering of the production reports for The People's Electronics Fabricant. Namely, their production numbers. The expression "made like thieves" could apply to several different contexts, including in this case a probable cause to investigate Albert Hassel's and Gerhart Kleiner's involvement in day-to-day operation. It may be indicative of, at the very least, a deliberate change in policy that has not been approved by the Ministry of Labor, or any officially sanctioned policy by The Party.
 
 You did not even have time to draw an additional breath of stale air before Lt. Bryce slid his chair backwards, stood up and started to pack his belongings, motioning to leave. Sergeant Bayer looks at him dumbfounded, his arms crossed, as if he had committed some egregious faux pas. You didn't even know yourself if you were to stand up or sit, since both officers had a completely different idea of what to do next. 
 
@@ -236,7 +236,7 @@ Bryce scoffs at what clearly is, in his mind, a questioning of the abundantly ob
 
 Sergeant Bayer shakes his head. "This is a preposterous conversation, " he says "Agent, let's move onto further bui-"
 
-"I think not, Agent." Lieutenant Bryce interjects. "Agent, you will enter this into the record and you will make an official note to investigate Gerhart Kleiner and every other of his associates for any possible wrong doing at the electronics factory." He then turns to Bayer, and looks at him straight in the eye. "I will not stand idlily by, Bayer. Even if you think this is ridiculous."
+"I think not, Agent." Lieutenant Bryce interjects. "Agent, you will enter this into the record and you will make an official note to investigate Gerhart Kleiner and every other of his associates for any possible wrong doing at the electronics factory." He then turns to Bayer, and looks at him straight in the eye. "I will not stand idly by, Bayer. Even if you think this is ridiculous."
 
 ["The note will reach you through telefax at the soonest available moment, Lieutenant." You respond.]
 
@@ -244,15 +244,17 @@ Sergeant Bayer shakes his head. "This is a preposterous conversation, " he says 
 
 He stares daggers into you. "Do I make myself clear, gentlemen?" You nod and Lieutenant Bryce smirks with his yellow teeth. You think he is trying to convey some sort of camaraderie. You nod at him too. 
 
- (super leader -1 AND leader +1)
+ (super leader -1 AND leader +2)
 
 ["I believe that would be your duty as the superior officer, sir. I am not qualified to make such determinations." You respond.]
 
 "Well met Agent, and it is my duty to co-sign said determinations." Bayer adds with a bit of a triumphant tone to his voice. "And while I commend you Agent for respecting the chain of command, I must admonish you for bringing circumstantial evidence to this investigation." 
 
-He continued to talk, this time to Lieutenant Bryce, but deliberately kept his sight on you. "And I would be quite appreciative that my loyalty to the State be not called into question by you, Lieutenant. I will not have a gung ho crazed apparatus attacking its citizens without reason, and this starts within."
+He continued to talk, this time to Lieutenant Bryce, but deliberately kept his sight on you. "And I would be quite appreciative that my loyalty to the State be not called into question by you, Lieutenant. I will not have a gung-ho crazed apparatus attacking its citizens without reason, and this starts within."
 
 Lieutenant Bryce scoffs and grabs his sheaf of papers, looking to exit the conversation into the next item of the agenda.
+
+(Nothing)
 
 ### 2.3 Owning Wealth of Nations (super leader +1 OR leader +1)
 
@@ -290,7 +292,7 @@ Lieutenant Bryce started chuckling. "Unbelievable" he whispers.
 
 "You're unbelievable, Sergeant, I swear. We have a criminal here. Is that not enough for this unit anymore? Do you want to have this criminal here corrupting the mind of another citizen of this Republic, with words you and I know are completely against the Party and everything we stand for. And you want it to let it slide? You want to let it go like it was nothing! That is what's unbelievable, Sergeant Bayer."
 
-Sergeant Bayer adjusts his black necktie and grabs the first few papers from the surveillance dossier. "Let us remind ourselves, Lieutenant Bryce, the purpose of this mission." He says with tremendous condescension in his voice. "According to the documents here, this operation looked to establish culpability of being related or being a member of a subersive organization with designs to disrupt the security and harmony of the State, is that not? Wasn't that very suspicion, a suspicion you found to be credible beyond my purview mind you, what brings us here every night?" /n/n Bryce stays silent, refusing to respond.
+Sergeant Bayer adjusts his black necktie and grabs the first few papers from the surveillance dossier. "Let us remind ourselves, Lieutenant Bryce, the purpose of this mission." He says with tremendous condescension in his voice. "According to the documents here, this operation looked to establish culpability of being related or being a member of a subversive organization with designs to disrupt the security and harmony of the State, is that not? Wasn't that very suspicion, a suspicion you found to be credible beyond my purview mind you, what brings us here every night?" /n/n Bryce stays silent, refusing to respond.
 
 Bayer hounds him further. "Is it not, Lieutenant Bryce? Group membership? Something this book may be evidence of but has yet to indicate any additional persons?" He inquires.
 
@@ -308,13 +310,13 @@ Sergeant Bayer massages his temples, clearly annoyed. "Wrong! He does not benefi
 
 Bryce nods in approval, tutting. "I have to agree with Agent Brownie. I don't want these traitor rats to smell the poison as it kills them. Let us wait first to see the extent of these wretched individuals, and we'll see who are they and how many." 
 
-(leader +1)
+(leader +2)
 
 [You argue that given Hassel's history, he might be even an unwitting door to a subversive organization that has the potential of appearing on the surveillance during the coming days.]
 
 Bayer grunts in approval. "It's nice to see some actual intelligence work suggested from the agent who will perform it." He looks into your eyes, smiling a grin a devil would admire. "We'll be there watching, and we might just arrest and jail the traitors and the Western scum who want to destroy us from the inside out."
 
-(superleader +1)
+(superleader +2)
 
 ### 2.4 Nadine Leitzka's Picture (super leader +1 AND leader -1)
 
@@ -354,7 +356,7 @@ Sergeant Bayer lets out a heavy sigh. "You're right, Agent. We know too little, 
 
 "Normally, I'd be against keeping thinly substantiated evidence in a surveillance. But,I will have to agree, Agent. We have a problem in internal intelligence, or it might be on records, or somewhere else. Either way, this has to be examined." Sergeant Bayer said, nodding as he did. /n/n "And I guess you'll get your hands dirty figuring out why, Bayer" Lieutenant Bryce snidely remarks. /n/n Sergeant Bayer looks at his counterpart dead in the eye and pauses on every syllable. "Even if I have to dive into the pile myself."
 
-(super leader +1 AND leader -1)
+(super leader +2 AND leader -1)
 
 ### 2.5 Hastily scribbled map (super leader -1 AND leader +1)
 
@@ -392,7 +394,7 @@ When Lieutenant Bryce hears this, he chuckles for a good ten seconds. He seems p
 
 To your surprise he does not respond to the provocation. Sergeant Bayer continues to drone on the policy rule, almost as if reading from a punch card "All suspects involved in a surveillance operation must not receive mail or packages that have not been examined, recorded, and otherwise noted to the investigative party." He then turns to the Lieutenant. "I fail to see the merits of quizzing me on standard ministry procedure."
 
-"I don't think you do, Sergeant Bayer." Lieutenant Bryce continues to taunt. "That requisition to the mail room clearly did not happen. We have a package that did not appear on the Ministry teletype. So, that would make the superior officer of this investigation, in this case a one Sergeant Berthold Bayer, responsible for making such a requisition." He leans in closer to the Sergeant's face, clearly looking for trouble. "Now, tell me. Did that requisition actually happen or did the right hand have to write a writ of intent to the left to get back to it in a week, huh?"
+"I don't think you do, Sergeant Bayer." Lieutenant Bryce continues to taunt. "That requisition to the mail room clearly did not happen. We have a package that did not appear on the Ministry teletype. So, that would make the superior officer of this investigation, in this case a one Sergeant Berthold Bayer, responsible for making such a requisition." He leans in closer to the Sergeant's face, clearly looking for trouble. "Now, tell me. Did that requisition actually happen or did the right hand have to write a writ of intent to the left to get back to it in a weak, huh?"
 
 All of sudden, Sergeant Bayer stand at attention. He towers over Lieutenant Bryce, by almost 20 centimeters. He glares at Bryce like he was sure his stare alone could melt him to a puddle. He takes a while to open his mouth but when he does, it is a low tone growl that sits like a rock in your stomach. "I have had enough of your insults, Bryce. I followed standard procedure without fail for this sham of an operation I had the duty to oversee. And if we are handing out accusations of failing to follow procedure like it was candy, I should remind you of your own too."
 
@@ -410,7 +412,7 @@ At this accusation, Sergeant Bayer finally raises voice enough to yell in anger.
 
 "Agent! You shall refrain from accusing your commanding superior of malfeasance or so help me God I will have you in a cell without windows for five months for insubordination!" Sergeant Bryce snaps at you, while Lieutenant Bryce smirks at you. He likes this show of loyalty a bit too much.
 
-(super leader -1 AND leader +1)
+(super leader -1 AND leader +2)
 
 [This was a departmental error.]
 
@@ -422,11 +424,13 @@ Having heard everything you had to report, both men get up from their seats. You
 
 (super leader is less)
 
-As they exit, Sergeant Bayer whispers in your ear. "Agent, allow me to remind you of your loyalty. It's not to your superior, it is not to me, it is to the Ministry and the State. And, as far as I can tell, you have your priorities misplaced. I suggest you reconsider if you want to have a long career. Don't forget that."
+As they exit, Sergeant Bayer whispers in your ear. "Agent, allow me to remind you of your loyalty. It's not to your superior, it is not to me, it is to the Ministry and the State. And, as far as I can tell, you have your priorities misplaced. I suggest you reconsider yours if you want to have a long career. Don't forget that."
 
 (leader is less)
 
 Sergeant Bayer leaves the interrogation room, with Lieutenant Bryce behind him. As soon as the sergeant exits the room, Lieutenant Bryce closes the door and faces you, looking at you like a frog he is about to dissect. "If I didn't know any better," he growls. "I'd say you are deliberately attempting to go over your superior officer. We have a way we do things in this Ministry, Agent Brownie. If a random Otto off the street is a threat to national security, he is. If a shoplifter is simply a boy in an errand, the shopkeep is happy to have served his state. We do as we are told. I do, and so must you if you want to have a long career. Don't forget that." 
+
+(all same)
 
 And with that, they leave. You are now completely alone. 
 
@@ -439,17 +443,159 @@ As you take off your heavy headphones and prepare the desk for your night shift 
 
 "Agent Designation: Eight-Red-Zero-Whiskey-One-Seven-One-Three. You are required to present yourself at once to Central for dossier review following every day of operation while on assignment. Authorization. Delta-Sierra-Charlie-Hotel. Review of dossier will be conducted by Operations managers. Confirm receipt."
 
-### 3.1 No evidence presented
+You confirm, this time with a bit more venom in your words. Something inside you boils over, tossing, churning, and turning as the company car takes you to headquarters. You are reminded of the interrogation training you did back at the academy, how the very first interrogatory you went through pushed you to the very edge of your sanity. You were forced to relieve yourself in your pants as you sat with your hands under your legs, an officer of the Ministry grilling you, mocking you, taunting you with the name of your mother and your father. Of course, you knew they knew everything, and again, of course, you knew that this was just an exercise. A way of breaking recruits. But then as always a doubt on the back of your head asking the questions you dare not speak out loud:
 
-### 3.2 Mystery Package is for Nadine (super leader +1 and leader +1)
+"Was it necessary?"
 
-### 3.3 Missed Phone Call (super leader -1 or leader -1)
+"Was it right, what you were doing?"
 
-### 3.4 Unfamiliar person to investigation was not in surveillance (super leader +1 and leader -1, no argument needed, passthrough)
+"Was it right, what they did to you?"
 
-### 3.5 Evasive "Sonia" (super leader -1 and leader +1) 
+Loud electronic chimes and screeching metal doors take you out of your own mind, again in the sam e room, again in front of Bryce, the very manifestation of a nicotine stain, and Bayer, a stone statue who quoted the rules like scripture. /n/n "Shall we begin, Agent, Lieutenant?" Bayer says, breaking the ice and motioning towards you to deliver the most recent surveillance notes. Bryce didn't respond. He just grunted his approval like he was sending away a waiter for getting his order wrong.
 
-### 3.6 SONIA DIALOGUE PUZZLE
+### 3.-- No evidence presented
+
+
+
+You explain that, despite what the surveillance might suggest and the repeated insistence to the contrary, there was no evidence of malfeasance or wrongdoing on part of either Albert Hassel or Nadine Leitzka. Though they were quite argumentative, it simply did not seem that these people presented a threat to the security of the State, nor did they appear to act in such away that would imply that they take part in any subversive activity.
+
+"Mark my words, Agent," Lieutenant Bryce says just above a whisper, "if by the time this investigation doesn't end I will see to it personally that you will be transferred."
+
+Sergeant Bayer does a double take, surprised by this determination. "I have to say Lieutenant, that's not what I would expec-"
+
+"No, Sergeant you misunderstand me." Lieutenant Bryce interrupts, savoring his words as they come out of his mouth. "Allow me to give you the full view of what is exactly what you are doing sabotaging this operation. At nine-hundred hours Monday last week we have a suspicious package appear in the perimeter of Waldsiedlung, we investigate it to find a dud bomb."
+
+Sergeant Bayer tries to intervene yet again. "Lieutenant, you are releasing information that the Agent most likely has no clearance to hear!"
+
+"Bayer, I am trying to salvage this operation and you cannot wait to set a criminal free! At the very least you will see to it that I give the criminal in front of us a good reason to keep his job and his life!" Lieutenant Bryce bellows. Sergeant Bayer tightens his fists and starts to redden in the face.
+
+"A bomb was going to detonate in the innermost sanctum of our Party. Injure people, kill who many. The bomb has the makings of United Left, the organization that Hassel *is* a part of. So, I give you one last chance, Agent. You will shape up and demonstrate your usefulness to this organization or you will be processed for treason. You have no other options." Lieutenant Bryce says, looking to meet your gaze on every random eye movement you make.
+
+You nod in agreement.
+
+Sergeant Bayer takes a deep breath and relaxes his fists. "A -- frankly gross -- lapsus in classified information aside, your judgement is starting to come under questions Agent. You will report on the  next proceedings, or I will have to step aside and allow Lieutenant Bryce to make good on the threats he makes. As he is your superior immediate officer, this will be inevitable if you continue to act in this manner. Is that clear?"
+
+You nod in agreement again.
+
+### 3.1 Mystery Package is for Nadine (super leader +2 and leader +2)
+
+You explain that the mystery package that was picked up by Hassel directly on his mailing box, the same package that inexplicably was not detected by Division XIX, was addressed to Nadine Leitzka. This arises further suspicion as, by Hassel's own admission, Leitzka had not officially notified any government about her current living arrangement despite cohabitating with Hassel for a period of time far superior than any given leeway for a long-form visit to a friend. At the very least, it meant Leitzka was guilty of omitting to report to her local constabulary or update her mailing records.
+
+"So, it would appear that we may have a much more interesting situation with Ms. Leitzka than it was initially appraised." Lieutenant Bryce said, rubbing his chin after a brief moment of silence.
+
+"I'll say," Sergeant Bayer responds, nodding. "Let's put aside how exactly how did this Leitzka receive this package without our knowledge. As the Agent said, the lack of a formal change of address from her is a lot more interesting. As far as where we are standing, Division XIX had no way of knowing to stop the packages going to that domicile from Hassel addressed to her."
+
+"What do you mean Bayer?" Lieutenant Bryce asks with some impatience.
+
+"Assuming that Division XIX has done their duty in a timely-" Sergeant Bayer begins.
+
+"Again, assuming too much from those pencil pushes, Sergeant." Lieutenant Bryce raises his voice a bit more.
+
+"Hold on please Lieutenant and let me finish." Sergeant Bayer turns to Lieutenant Bryce and knocks the table with his fist gently, but just so that it would still make a sharp noise. "Assuming that they have done their jobs correctly, which I believe they do, that package was not handled by them but by another third party that is not known to us."
+
+"We have surveillance detail in that building, Sergeant, in case you have not noticed!" Lieutenant Bryce shouts as he waves the dossier papers around. "Are you suggesting that what were are doing is insufficient? Is that the accusation you are making? Simple explanations Bayer. Simple, explanations." /n/n He continues to gesticulate in the air, moving imaginary box things. "Is it really too far-fetched to expect our own systems to be infallible to let through one package, even if placed under a gag order? Have you know any entity within this Ministry or others to be completely blameless and without error?"
+
+"Well now, Lieutenant Bryce we cannot start questioning over-" Again, Sergeant Bayer starts adopting that professorial tone as he was giving a lecture to you and the Lieutenant. 
+
+But, Bryce is one of those rowdy children who won't sit still. "Have you?" He insists. "Or are you the one and only Otto out of a group of wretched snitches that never made a single mistake or misstep in his career?"
+
+It's evident that the Sergeant's patience is being tested. He clenches his fists as he responds. "You know I am compelled by the Party to say yes."
+
+"There it is then, clear as day." The Lieutenant said, triumphant and arrogant. "This a simple mistake by a Division having to screen the mail for an entire country, our country. That the package requires investigation, I have no doubt." 
+
+"Neither do I." Sergeant Bayer murmurs.
+
+"But, proper framing is required, after all." Lieutenant Bryce says as he jots it down. "We might actually find something not that important."
+
+(If 2.6 was accepted)
+
+(You were astonished to see what had just happened: Not only that those two were in complete agreement, but that Lieutenant Bryce could spin on a pinhead at a moment's notice. It was almost magical. You were looking for such a reaction in Sergeant Bayer's face, but he looked like a freshly carved stone statue.)
+
+[Argue for a clerical mistake in Division XIX]
+
+Lieutenant Bryce jots notes down. "Well, well," he says. "I think it would be best to investigate the matter internally, we can't afford rookie mistakes on the operations of this Ministry." Sergeant Bayer crosses his hands, and looks off to the side so as to say nothing.
+
+(Leader +2)
+
+[Argue for a third party dropping packages in Hassel's mailbox]
+
+(Superleader + 2)
+
+"It's a shame that we cannot afford to record much on tape, much less for video feeds." Sergeant Bayer say, gesticulating in the air as he did. "We would be able to see who exactly made this drop and they be identified. For now, we'll have to shelve that part of the story, and make a note to investigate it in its own time."
+
+Lieutenant Bryce tuts at this suggestion. "Might I suggest a trip to the psychiatrist, since making things up and having hunches seems now your standard surveillance repertoire, Bayer." /n/n "If you had more imagination you'd be my superior three times over, Bryce." Bayer responds with a certain amount of spite. "There are more factors at play Lieutenant, you'd do best to identify them in a matter of national security." He responded, his words ballooned with arrogance.
+
+### 3.2 Missed Phone Call (super leader -1 or leader -1)
+
+You share that a phone call coming out of Hassel's flat was unfortunately left unrecorded because you were otherwise occupied with the local Party office to hold Albert Hassel off for an unspecified period of time.
+
+Both of the men in front of you have a shocked looked on their faces. Sergeant Bayer scratches his forehead and shakes his head. Lieutenant Bryce raps his fingers on the metal table, mouthing to himself something you can't quite hear.
+
+"Agent," Lieutenant Bryce asks with a distinct annoyance, breaking the uneasy silence. "May I ask what exactly did you expect showing this to us? Honestly, I'd rather you'd never mentioned it at all."
+
+"Belay that, Lieutenant," Sergeant Bayer says, motioning towards Bryce. "I commend your honesty, Agent. Believe me, I do. But that doesn't excuse your sheer incompetence at this level of Ministry work."
+
+Lieutenant Bryce lets go of a cackling laugh that resonates in your skull, sounding like a serrating log. That laugh could send chills down the spine of the best covert agent. In between the gasps of laughter he ekes out his words. /n/n  "Your temerity is astounding, Agent. Truly."
+
+He composes himself before he points the finger at you and growls. "I should perhaps ask your mother if you grassed on your friends when you were little, you're so stupid."
+
+Sergeant Bayer turns in disbelief at Bryce and shouts, scandalized. "Can it, Bryce!" He then turns to you. "Please don't waste our time anymore, Agent. What is it that you want to do with this dud?"
+
+[You take the script piece of paper and you rip it to shreds.]
+
+You see Sergeant Bayer's face turn and twist into an ugly visage. "What are you doing Agent?! That is state property you are destroying! It' s part of an ongoing investigation, and official state document! I should give you a formal writ of reprimand for this insolence!" He hollers, red in the face. Lieutenant Bryce just looks at him and smirks, then back at you and smirks again. It's like there was some kind of game, and he just won.
+
+(Lambda super leader -1)
+
+[You insist that it must remain on record, embarrassing as it is.]
+
+Lieutenant Bryce purses his lips, and throws the papers he was manhandling on the table. "Suppose you want to file the wrapping paper of the sandwich you ate today, lest it not be stricken from the record and occupy the infinite time we have to review your terrible handiwork." He says, leaning heavily on his mocking tone of voice. Sergeant Bayer shrugs, and motions to move onto the next thing of the agenda.
+
+(Lambda leader -1)
+
+### 3.3 Unfamiliar person to investigation was not in surveillance (super leader +2 and leader -1, no argument needed, passthrough)
+
+You present evidence of a third party hitherto unknown and unrecorded on the dossier files previous or during the investigation, known only as Sonia. This person comes into Albert Hassel's flat, is known to Nadine Leitzka, and does so at a moment of high distress for Leitzka. For as little you know about Leitzka, a new person that the Ministry had no prior knowledge of is important to discuss.
+
+Sergeant Bayer looks at Lieutenant Bryce with a puzzled look, as if he was trying to test his mettle in a staring contest. Lieutenant Bryce doesn't seem to be pleased. You seem him shrug and make a crumpled grimace. 
+
+"Are you sure we're not surveilling the wrong person, Lieutenant?" Sergeant Bayer asks. "Because this Leitzka of yours -- that you assure this investigative committee is of no importance, by the by -- is like a box of unpleasant, unrecorded surprises one after the other."
+
+Lieutenant Bryce keeps an uncharacteristic long silence. He makes some kind of face at the Sergeant, showing his yellow teeth as if he were a growling dog. "I have to admit this "Sonia" character is quite interesting, wouldn't you agree, Sergeant Bayer?" He says, barely above a whisper.
+
+"No, Lieutenant. You will answer my question." Sergeant Bayer says, firmly and with the slightest tinge of anger. "Is this "Sonia" somewhere in Leitzka's file that you simply elected not to share with the investigation?"
+
+Lieutenant Bryce raises his voice, and looks at the ground as he speaks. "I wrote all into information I had on the citize-"
+
+"I find that very hard to believe." Sergeant Bayer interjects, raising his voice just above Lieutenant Bryce. He ups the ante on his annoyance. "We are the Ministry of State Security. The Sword and Shield of the State."
+
+"Oh you're going to quote party doctrine to me, like that is going to magically improve the intel, huh Bayer?" Lieutenant Bryce responds, letting out a nasty nasal tone as he did.
+
+"You misunderstand me, Lieutenant Bryce." Sergeant Bryce says, raising his voice yet again to what you could call a low shout. "This ministry by its very nature must have eyes and ears, everywhere. And it has. We know everything because for this Nation to survive the blasted enemy at our gates and in our lands we MUST know everything." 
+
+Sergeant Bayer takes a breath to continue his sermon. "And now... Now! Now I find out that we have a massive blindspot. A memory hole where all information goes to die, and its name is Nadine Leitzka. And to my endless luck and fortune, we have just stumbled upon her!" /n/n He chuckles before continuing. "I find that hard to believe. Very, very hard indee-"
+
+Lieutenant Bryce shakes his head violently and smashes his fist on the metal table. "And your point is, Sergeant Bayer!" He snarls.
+
+"Oh! Oh, my point? You want to know my point?" Sergeant Bayer responds, mocking with the same nasally tone that the Lieutenant adopted. "Oh you are going to *love* it! I don't think she is a blindspot at all. I think someone has protected this woman within our organization and using our resources to do so, and I will start asking who and why! I'll start with you, Lieutenant Bryce!"
+
+Lieutenant Bryce stands up, clenching his fists. His face reddens with anger. "Prove your accusations or so help me-"
+
+Sergeant Bayer stands up from his chair too. He towers over you and Bryce, like an ancient monolith. "You'll do what, exactly?" He taunts. "Sabotage us further? I think you'll find it hard to do in a room with no windows and four walls closing in."
+
+"Damn you Bayer!" Lieutenant Bryce shouts, enraged, before turning towards you and directing his anger at you. "And damn you too, Agent Brownie! If I am to be reprimanded, you will too, you pencil-necked imbecile."
+
+Sergeant Bryce snaps his fingers. He does this so loudly, it forces you to sit up and pay attention. It shook up Bryce before he continued to enumerate the ways you had just screwed yourself over in the process of doing your job. "No, no Lieutenant Bryce." He says in his professional, lecturing manner. "The Agent's duty is to report, which he has done gallantly. Yours, on the other hand, is to fall on your sword if our apparatus deems it necessary for it's continued survival. Any more expletives from you and you'll be on the other side of that desk, Lieutenant."
+
+Filled with anger, and no words to convey it, Lieutenant Bryce sits down and growls like a dog that just got punished. He looks at you, and seeks your eyes when you avert them, daring you to look back. Sergeant Bryce takes his seat, draws in a deep breath, and shuffles the papers in front of him. He motions to continue the conversation and go no further.
+
+ (super leader +2 and leader -1, no argument needed, passthrough)
+
+### 3.4 Evasive "Sonia" (super leader -1 and leader +2) 
+
+### 3.5 Description of "Sonia" (super leader +2 or leader +2)
+
+### 3.6 Pleasantries with the neighbor ()
 
 
 ### Conclusion
@@ -457,13 +603,13 @@ As you take off your heavy headphones and prepare the desk for your night shift 
 
 ### Previous to questioning
 
-### 4.1 No evidence presented
-### 4.2 Mystery Package was passed through (super leader +1 and leader -1 no argument needed passthrough)
+### 4.-- No evidence presented
+### 4.1 Mystery Package was passed through (super leader +2 and leader -1 no argument needed passthrough)
 
-### 4.3 Leitzka leaves without telling anyone where (super leader -1 and leader +1)
+### 4.2 Leitzka leaves without telling anyone where (super leader -1 and leader +2)
 
 
-### 4.4 Hassel did not report Leitzka (super leader +1 and leader -1 OR super leader -1 and leader +1)
+### 4.3 Hassel did not report Leitzka (super leader +2 and leader -1 OR super leader -1 and leader +2)
 
 ### 4.5 Conclusions
 

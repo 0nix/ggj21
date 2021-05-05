@@ -266,13 +266,13 @@ You ask around in the Field Office if they had any concealed camera equipment on
 
 You observe an oddly clothed person go up to the porch, and press the buzzer that corresponds to Hassel's flat. Presumably, this "Sonia" person. An electric buzz lets her in, without you being able to take a picture of this person. What a shame.
 
-Thirty seconds later, you hear a knock on Hassel's door, Leitzka opens it and greets Anonymous bidding her to enter and to sit down in the kitchen. You observe Leitzka starting to address her, but you clearly observe this person stopping her with a hand gesture, and at the same time turn on a radio loudly. <- Evasive tactics means this person suspects being followed or monitored.
+Thirty seconds later, you hear a knock on Hassel's door, Leitzka opens it and greets Anonymous bidding her to enter and to sit down in the kitchen. You observe Leitzka starting to address her, but you clearly observe this person stopping her with a hand gesture, and at the same time turn on a radio loudly.
 
 Luckily for you, the upgrade on surveillance in Hassel's apartments provided the coverage you needed to hear them even above the racket that Bluejay had created. Nothing escapes the eyes of the State.
 
 "Ma-" Nadine starts
 
-"Child, must I remind you to not use names among us in an unsecure location?" The strange individual responds, in a voice similar to the "Sonia" on the phone. This individual is covered head to toe in dark-colored clothes, oddly wrapped up for Spring. She has not taken off her long-brimmed hat either, making identification a challenge.
+"Child, must I remind you to not use names among us in an unsecure location?" The strange individual responds, in a voice similar to the "Sonia" on the phone. This individual is covered head to toe in dark-colored clothes, oddly wrapped up for Spring. She has not taken off her long-brimmed hat either, making identification a challenge. <- Evasive tactics means this person suspects being followed or monitored.
 
 "Ok, ok. Sonia, I don't know what to do." Leitzka concedes. Confirming the unknown party is the "Sonia" in the previous phone conversation.
 
@@ -366,7 +366,7 @@ Surveillance starts at 0500 hours on Friday, March 12th.
 
 In the early morning you get a report from Division XIX that there was no veto on file for the gag placed on Hassel and Letizka for that package that had arrived on Wednesday the 10th.
 
-Nobody in the Division even had a a record of the package in question, which was extremely surprising considering that the surveillance operation had started at a higher level in the chain-of-command than usual State Security work on suspects for sedition and dessertion. The package may have been sent before the gag order, but the package would have at least have had a record of recipt and transfer at the local Post Office, a record that should not have been expugned since those last up to three months. Nobody dropped the package personally, since that would have been caught on surveillance, and the person who would do it immediately detained and interrogated.
+Nobody in the Division even had a a record of the package in question, which was surprising considering that the surveillance operation had started at a higher level in the chain-of-command than usual State Security work on suspects for sedition and dessertion. The package may have been sent before the gag order, but the package would have at least have had a record of recipt and transfer at the local Post Office, a record that should not have been expugned since those last up to three months. Nobody dropped the package personally, since that would have been caught on surveillance, and the person who would do it immediately detained and interrogated.
 
 Which meant that somebody within either the structure of the Ministry or the Party itself made sure to deliver the package without any tracking or tracing. <- Clue
 

@@ -665,25 +665,198 @@ You speak up, citing Ministry rulebooks and regulations that compel you to repor
 
 [You say nothing]
 
-You decide to stay quiet, and the pair of squabbling men to their own argument. It had been just about the 9th time you'd hear this argument between your two superiors. It was becoming old hat, quickly. You'd wonder if they would ever agree on anything. You wonder if they were enjoying fighting each other. You wonder if they continued these interrogations simply because the had enough misery for themselves so they had to spread some around. Some rotten job this is.
+You decide to stay quiet, and the pair of squabbling men to their own argument. It had been just about the 9th time you'd hear this argument between your two superiors. It was becoming old hat, quickly. You'd wonder if they would ever agree on anything. You wonder if they were enjoying fighting each other. You wonder if they continued these interrogations simply because the had enough misery for themselves so they had to spread some around. 
 
 (nothing)
 
-
 ### Conclusion
+
+Some rotten job this is.
+
 ## Day 4
 
 ### Previous to questioning
 
 ### 4.-- No evidence presented
-### 4.1 Mystery Package was passed through (super leader +2 and leader -1 no argument needed passthrough)
+### 4.1 Mystery Package was passed through (super leader +x and leader -1 no argument needed passthrough)
 
-You report that the veto on file that was supposed to stop the mystery package from arriving in Albert Hassel's mailbox did not exist in time when the surveillance operation officially started. This was an official breach of protocol that needed to be reported immediately.
+You report that the veto on file that was supposed to stop the mystery package from arriving in Albert Hassel's mailbox did not exist in time when the surveillance operation officially started. The only explanation is that the veto was either not filled on time, or it was ignored deliberately, or it was an accidental mishap. Either way, this was an official breach of protocol that you needed to report immediately. 
 
-### 4.2 Leitzka leaves without telling anyone where (super leader -1 and leader +2)
+The silence between the two men in front of you refuses to go away. Every time you try to speak up it's as if there was an angel of death sitting behind you, daring to emit a single sound to make her scythe swing around your neck. You observe Sergeant Bayer balling the papers into his tight fist. You can see his knuckles go white and his finger tips redden with the strength of his grip. Lieutenant Bryce stares into the ceiling, transfixed by God knows what. He rocks back and forth, restless. 
+
+You don't really know what to make of it or how to move forward. You'd love to grab the sheaf of yellow and white paper, and move on to the next clue, you'd love to bolt out of there, you'd love for some kind of cataclysm to make a hole above you and take you in a whirlwind. Anything to get out of this maniacal sound.
+
+Lieutenant Bryce, begins to speak with a caution you have never seen in the man. "W-w-well Agent. I think you are mistaking the interrogation with your own writing circle. I'd be more impressed with this attempt to be the department's own Hercule Poirot if it wasn't on Ministry time and resources."
+
+Sergeant Bayer turns his head, slowly, towards the hirsute, bald man that is Lieutenant Bryce. He looks like a stone lion sentinel, like those guarding the Gate. Stoic, and yet somehow you can feel the repressed, unbridled rage inside him. "That's your conclusion, Bryce?" He asks. 
+
+"Sergeant, you cannot possibly accept this state-"
+
+"What I believe, Lieutenant." He says, raising his voice to interrupt and impose on Lieutenant Bryce. "Is that a highly detailed explanation, spanning a couple of days to reveal itself to us, makes you responsible for a breach in protocol. And I am waiting for a better justification than 'he made it up'. So, Bryce, what is it?"
+
+Lieutenant Bryce scoffs and stars gesticulating with his hands, getting redder and redder in the face. "What would you have me do, Bayer?" He shouts. "I suppose you'd love to have me fall to my knees on the floor and grovel to pay for other people's sins, you pencil-necked desk jockey!"
+
+Hearing this insult, Sergeant Bayer stands up and motions towards his firearm on his right hand-side. "Lieutenant, I am warning--" he starts to say with a lot more palpable rage in his voice.
+
+"Warn me all you want, Bayer." The Lieutenant responds. "I refuse to take any responsibility for a mistake I did not cause." He leans on those last few words, enunciating every vowel. Both men are standing in front of each other, ready and able to tear each other's head off, and you were there to see the bloody spectacle.
+
+"Oh so they are mistakes now, Bryce?" The Sergeant says defiantly. "Now that there's no explanation we're just calling this gross dereliction of duty a mistake?"
+
+"I should be the one grilling you, Sergeant." Lieutenant Bryce swings at the Sergeant's hand trained on his weapon. He wasn't expecting that. He flinches and motions away to keep the gun away from Sergeant Bayer's hand. "If I'm shouldering the blame, you are rolling in the mud with me too."
+
+"You wish you insubordinate oaf." Sergeant Bayer snarls back. "This operation was hour idea, your brilliant plan to pull all the levers and favors you could get to put a body in front a press camera. The body of the most ordinary factory worker in the German Democratic Republic. If it were up to you, Albert Hassel would be eating gruel, blindfolded in a prison cell no larger than a coffin." He takes a few steps back and breaths deeply before continuing. Wrath continues to pour out of him.
+
+"As it happens, comrade, it's my job to get in the way of people like your ilk, Bryce. The Ministry is not your personal army, and I will see to it that after all is said and done, you face a jury. And I will personally make a point to that you cannot walk away from this instance of gross incompetence."
+
+Bryce, speechless, looks at you as if he's about to lunge past the edge of the table and crush your skull in a  single bite.
+
+Sergeant Bayer motions towards you, a bit calmer than he was 10 seconds ago. "Flawed as it is, " he reassures you. 'We have an operation to conclude and people to process. Please, Agent, proceed for the next item in the agenda.'
+
+### 4.2 Leitzka leaves without telling anyone where (super leader -1 and leader +x)
+
+You note that, by Albert Hassel's own admission, Leitzka went out on regular outings with a destination unknown to him. Given that she hasn't gone out at all during surveillance, and the dearth of evidence on Nadine Leitzka, you'll have to trust that he is at least telling the truth about this particular detail. Given the circumstances, her absences raise questions about who does she meet, and where. 
+
+Lieutenant Bryce leans forward, in what you guess is his attempt to be assertive rather than imposing. "I might not seem like it, gentlemen. But, I believe that the women of this State deserve all our protection. I believe that, while the original objective of this investigation is determining whether or not Mr. Hassel is a subversive agent with the designs to usurp our democracy, securing the safety of Ms. Leitzka has become a priority of ours that is compatible with our larger objectives."
+
+Sergeant Bayer widens his eyes, and looks towards the Lieutenant with a wry little smirk on his face. "And, how do you reach that conclusion, Bryce?" He says, in a light, airy tone that just layers on the sarcasm.
+
+"Do you not see it?" Lieutenant Bryce chides as he slams finger on the piece of paper that you produced for this occasion. "Does the behavior of this woman describes a person who enjoys the company of Albert Hassel? You might want to ask yourself that."
+
+Sergeant Bayer, shrugs, his face stuck on that smarmy grimace. "If anything, I'd say that should cast a bigger cloud of suspicion over her, Bryce. This woman goes out of her way to hide herself such that the information we have on her is notable for its scarcity. And yet, here you are, telling us we should give her more rope?"
+
+Lieutenant Bryce waves his hands even more frantically, desperately trying to win the argument. "This is a woman looking for an escape, Sergeant Bayer. Frankly, I'm not surprised that something that requires a level of tact above a goldfish is lost on you."
+
+"So, we are meant to look over the fact that this woman could and would avail herself to the services we provide for individual housing? She cannot be ignorant about them." Sergeant Bayer responds with some annoyance in his voice.
+
+The Lieutenant slams the papers on the desk. "And yet, she chooses otherwise! What a calamity!" He cries. He covers his face with his hands, gathering himself a bit before continuing. Odd, you've not seen him do that ever. "People are not machines, Sergeant." He says. "I think such excursions fit a pattern of behavior we have covered before."
+
+Sergeant Bayer grabs the papers Lieutenant Bryce left on the table and waves them around, imitating Bryce's gesticulations. "Why are we talking about this individual if not for the fact that she is suspect of subversive behavior?!" He roars. "If we must talk about patterns of behavior, I'd say that it's obvious she is hiding something of interest to this investigation!"
+
+Lieutenant Bryce isn't having it. He cross his arms and leans back on his chair. "And it is my position, Sergeant, that this woman needs our help and she would be better served away from Hassel and his corrupting influence. Something that we are already doing as they are both in isolation in this very building." He says, a bit more triumphant than warranted.
+
+[You say that Hassel should take priority in questioning, as he is the target of the investigation ]
+
+Lieutenant Bryce slaps his thighs and motions towards you. "See? Even the Agent knows his priorities. We need to look at what that man has to say, and consider ourselves lucky we have another case to pursue once this one is done." Sergeant Bayer is not impressed, and by the way he looks at you he is quite disappointed.
+
+(super leader -1 and leader +1)
+
+[You say nothing]
+
+You leave the Lieutenant and the Sergeant to have their own little standoff and argue it out. You tune it out. You look at the picture of Nadine Leitzka, the only one the Ministry has on her file. 
+
+What is she?
+
+ Who is she? 
+
+What could she be trying to accomplish? 
+
+...
+
+The Sergeant clears his throat, calling for your attention. You look up, and hurriedly bring the next item of the agenda to their attention.
+
+### 4.3 Hassel did not report Leitzka (super leader +x and leader -1 OR super leader -1 and leader +x)
+
+You report on two statements that, if true, need immediate attention. One, that the owner of the state-restricted literature is indeed Ms. Leitzka. Two, that she had in her possession additional literature, in this case pamphlets, that Albert Hassel himself deemed inappropriate and worthy of reporting to the State authority. This raises all kinds of red flags since it is clear that Nadine Leitzka is at the very least, in contact with subversive groups that are the subject of the investigation itself.
+
+The Sergeant takes the stuffed folder where you have been keeping all your evidence and begins to lay down yellow folio pages and photo stock squares on the metal table.
+
+(If Nadine's Family Picture) You observe a picture of a picture, a child being held by her mother.
+
+(If Sonia) You observe the description of the mystery woman that crashed into the investigation like a deer crossing the road.
+
+(If Mystery Package was passed through) You see the long litany of memos, signed forms, and inquiriesbabout that blasted package.
+
+(If Lietzka leaves) You see a written account of the threats Nadine Leitzka made a few hours ago.
+
+He lays them all out, one next to the other, in rows. The Lieutenant, who had been seeing this labor unfold in silence, finally pipes up. "May I ask what is all this business?" The Sergeant ignores him, and lays down the last few of the papers.
+
+"Do you see it, Lieutenant?" The Sergeant says, motioning towards his work forcefully. "I don't have time for games, and neither does the State." Lieutenant Bryce snarls back.
+
+"Well, I'd say it's rather obvious!" Sergeant Bayer bellows. "We have a book. Now we have pamphlets. Both owned by this Nadine Leitzka. Have I got it correctly, Agent?" He asks you. 
+
+(If you have evidence for Wealth of Nation) You agree empathically.
+
+(If you don't have evidence for Wealth of Nations) You stare at the Sergeant, not quite knowing what he means.
+
+"Moreover," The Sergeant continues. "Mr. Hassel should have informed us, by his own admission of the existence and content of these pamphlets. Does that have anything to do with a strained relationship? I'd say it does, and I'd love to know why, then, are we prosecuting the wrong person?"
+
+Lieutenant Bayer's face reddens. In anger, he bangs his fists on the table, scattering the papers on it. "For the hundredth time, Bayer, that's not what the intel has told us before!"
+
+"The intel we are getting now disproves that, Lieutenant." Sergeant Bayer snaps. "I don't know how, even for you, it's not crystal clear."
+
+"Hassel is forcing Leitzka to be there against her will!" Lieutenant Bryce says, as he produces the picture of Albert Hassel from the dossier. He jabs his finger on Hassel's face. "Do you see this enlarged mouse of a man truly being able to satisfy the whims of this female character?"
+
+Sergeant Bayer becomes silent. He scrunches his face and crosses his arms. "I'm sorry, I must have blanked out for ten seconds. What does Mr. Hassel's appearance have to do with the purposes of our investigation?" He chides.
+
+"Coercion, Bayer! Coercion!" Lieutenant Bryce exclaims, throwing his hands up in the air. "This woman has not demonstrated any thought to call her own and now she's some sort of criminal mastermind out to destroy the country!"
+
+The Sergeant grabs Hassel's picture from Bryce's hands and points at him. "By that logic, this enlarged mouse, as you have decided to call him, should be just as inoffensive. I do not see you extending Albert Hassel the same benefit."
+
+Lieutenant Bryce mutters something under his breath. Sergeant Bryce is even more confused, and commands. "Lieutenant for the love of God speak up, we-"
+
+"He doesn't deserve it!" Lieutenant Bryce shouts.
+
+"On what possible grounds?!" Sergeant Bayer roars, his annoyance hovering just below the boiling point.
+
+"That he is suspected of-" Lieutenant Bryce begins, before being cut off by his superior. "On what grounds do you make the accusation, Lieutenant?!"
+
+"The intel consists of intercepted mail from a known location of the subversive movement United Left, Sergeant." Bryce says before motioning towards you. "This was under the Agent's clearance level, but clearly you have other ideas, Bayer." 
+
+The Sergeant turns his back and stands facing the wall, tapping his foot. "The mail?" He asks. 
+
+"Yes, Bayer. The mail." Lieutenant Bryce responds matter-of-factly.
+
+"We are here, having detained two citizens of this republic without even a small violation to their names, because of the mail. And we started this process, because of the blasted mail." He says, in that kind of tone that precedes something terrible.
+
+"It was good enough for men bigger than you, Bayer!" Lieutenant Bryce snarls. "It should be good enough for you too!"
+
+Sergeant Bayer turns around, stroking the handle of his pistol as he did. You are taken aback for a few seconds. You fully expected him to unfurl it and discharge from the way he wore that crazed face. "That is inexcusable, Lieutenant. And rest assured I will make a note of this." He whispers.
+
+Lieutenant Bryce scoffs, and breaks out into a mad cackle. "And? Send me to jail then, for being overzealous! For being a stalwart part of the protection of this state! Go on! I dare you!" He spits at Bayer's feet. "You'll soon find out just how much actual power you have in this organization."
+
+Sergeant Bayer in one sweeping unholsters his pistol, cuts the cartridge, and trains it directly at Bryce's forehead. You jump, and motion towards the door by pure reflex. Lieutenant Bryce is surprised and frozen in place, transfixed on the firearm pointing at him.  "Right here, I have enough power to stop men like you, Bryce."
+
+The tension in the room could smother a sperm whale. Lieutenant Bryce switch rapidly between looking at the nose-end of Sergeant Bayer's Makarov and back at his face. His gun, then back at him. His gun, then back at him. Seconds elongated into decades.
+
+Slowly, the Lieutenant relaxed his posture and assumed a more submissive demeanor without taking his eyes off the weapon. As he did the Sergeant relaxed his grip on the gun, and lowered his trigger finger back to the grip. "You have rebuffed protocols, guidelines, rulebooks, and laws at every turn. It surprises me you have lasted in this organization for any period of time that's not half a day." He says. 
+
+Sergeant Bayer lowers his gun, and his gun and sits back on his chair, without breaking eye contact with Bryce who was still standing. He stares back, motioning towards his empty chair with a great deal of caution. The Sergeant motions at him with the pistol still in his hand, beckoning him to sit.
+
+Lieutenant Bayer grips the back rest of his chair and drags it slowly across the room, making that unpleasant screeching sound of steel scraping on concrete. He stops and sits away from you and the Sergeant, in the middle of one of the long edges of the table.
+
+There's a brief moment of silence before someone speaks, and it's Lieutenant Bryce who does it. "You are assuming, Sergeant, that the book belongs to Nadine Leitzka. I think that assumption is incorrect based on the evidence." He says with a much slower speed and tone. 
+
+"And?" The Sergeant asks, holstering his gun back in his waist. "What evidence would that be? It's clear from Ms. Lietzka's words that it's hers."
+
+"Sergeant, you can't keep ignoring evidence when it doesn't suit you." The Lieutenant insists. "Hassel has referred to the book's contents before today, he is at least guilty of reading that book."
+
+"And he is guilty of it and will be processed for it in due time, Lieutenant." The Sergeant responds with a nod. "That doesn't make him an operative of a subversive group that is a threat to our national security. Ms. Leitzka is not blameless either. She hid that thing, and did not report it to the local constable."
+
+"Must have been as his direction, Sergeant. There's more than one way to skin this cat." Lieutenant says, his usual annoyance returning to his breath. "Now now, who is making assumptions now?" Sergeant Bayer says as he gesticulates with his hands some sort of dismissive gesture.
+
+Lieutenant Bryce stretches to get the full dossier, and pulls out sheafs of paper that you recognize. This is your handiwork, typewritten accounts of the conversations that Leitzka and Hassel had had for the past four days. He waves the transcripts around like it was some kind of big revelation.
+
+"What I can read, and what we can read for that matter,"  Bryce says. "Is for all her high-flying theatrics and defiant attitude, this woman has not had one original thought and follows Hassel around like a lapdog."
+
+Sergeant Bayer is visibly taken a back by this statement. "Meaning?" He asks with genuine curiosity.
+
+"If she refers to some objects as her book, her pamphlets, I am not one hundred percent of the mind that the material she refers to is the anti-state literature that we are looking for."
+
+Sergeant Bayer slaps his hand against his face, and sighs heavily as he shakes his head. "I find that hard to believe, for you and for this woman." He hisses.
+
+"And, I find your inability to understand people as anything but mindless automatons, Sergeant, just as baffling." Lieutenant Bryce says with that little juvenile smirk. His bravado seems to have come back to him.
+
+Unsatisfied, both men stew in their own frustration and anger, unable to convince each other of their own point of view. 
 
 
-### 4.3 Hassel did not report Leitzka (super leader +2 and leader -1 OR super leader -1 and leader +2)
+
+[You argue in favor of asking Lietzka about the activities that should have been reported]
+
+(super leader +x and leader -1)
+
+[You argue in favor of asking Hassel about the activities that should have been reported]
+
+(super leader -1 and leader +x)
 
 ### 4.5 Conclusions
 

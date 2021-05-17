@@ -422,7 +422,7 @@ Leitzka truns around without saying a word and dissappears out of the camera fra
 
 Lietzka comes into the living room again and slaps Hassel across the face. You observe Hassel taken aback, completely caught off guard. A brief silence is exchanged between the two of them.
 
-"I-I-I'm leaving, Albert. We're through. I wish I had never given you my book to read, or my pamphlets for that m-matter. When you walk out that door, and go see your party w-whatever, I will have left. Yes... yes. I will have left" Leitzka stammered through that, but as she kept deliniating her plans, she became resolute. <- Wealth of Nations copy is owned by Nadine Leitzka.
+"I-I-I'm leaving, Albert. We're through. I wish I had never given you my book to read, or my pamphlets for that m-matter. When you walk out that door, and go see your party w-whatever, I will have left. Yes... yes. I will have left." Leitzka stammered through that, but as she kept deliniating her plans, she became resolute. <- Wealth of Nations copy is owned by Nadine Leitzka.
 
 You observe Hassel staring at her, and they exchange another brief silence. Hassel's facial expressions are not intelligible through the camera, but it is a safe bet he is processing Leitzka's words. "The moment I saw those leaflets from United Left I should have dropped you at the police station. But, I will keep my silence, and I should caution you to keep yours." He finally says coldly. <- Hassel did not report Leitzka, however Leitzka is in the posession of directly subversive literature.
 

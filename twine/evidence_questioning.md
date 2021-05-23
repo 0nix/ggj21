@@ -455,8 +455,6 @@ Loud electronic chimes and screeching metal doors take you out of your own mind,
 
 ### 3.-- No evidence presented
 
-
-
 You explain that, despite what the surveillance might suggest and the repeated insistence to the contrary, there was no evidence of malfeasance or wrongdoing on part of either Albert Hassel or Nadine Leitzka. Though they were quite argumentative, it simply did not seem that these people presented a threat to the security of the State, nor did they appear to act in such away that would imply that they take part in any subversive activity.
 
 "Mark my words, Agent," Lieutenant Bryce says just above a whisper, "if by the time this investigation doesn't end I will see to it personally that you will be transferred."
@@ -677,7 +675,12 @@ Some rotten job this is.
 
 ### Previous to questioning
 
+
+
 ### 4.-- No evidence presented
+
+
+
 ### 4.1 Mystery Package was passed through (super leader +x and leader -1 no argument needed passthrough)
 
 You report that the veto on file that was supposed to stop the mystery package from arriving in Albert Hassel's mailbox did not exist in time when the surveillance operation officially started. The only explanation is that the veto was either not filled on time, or it was ignored deliberately, or it was an accidental mishap. Either way, this was an official breach of protocol that you needed to report immediately. 

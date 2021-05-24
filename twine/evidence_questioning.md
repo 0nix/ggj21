@@ -657,7 +657,7 @@ Sergeant Bayer looks sideways at the Lieutenant. "You do the job well or you don
 
 [Vocally support Sergeant Bayer]
 
-You speak up, citing Ministry rulebooks and regulations that compel you to report and follow up with any unknown associates. Sergeant Bayer smiles triumphantly. "The kid is quoting the book at you now, Lieutenant Bryce. I should be more diligent lest you take his position and him yours." He says with a guffaw. Lieutenant Bryce responds, while looking directly in your eyes. You'd think he was trying to make your eyeballs boil with thought alone. "I wouldn't be so surprised if Agent Brownie here was so inclined to become a pencil pushing lump of coal too."
+You speak up, citing Ministry rulebooks and regulations that compel you to report and follow up with any unknown associates. Sergeant Bayer smiles triumphantly. "The kid is quoting the book at you now, Lieutenant Bryce. I should be more diligent lest you take his position and him yours." He says with a guffaw. Lieutenant Bryce responds, while looking directly in your eyes. You'd think he was trying to make your eyeballs boil with thought alone. "I wouldn't be so surprised if Agent Brownie here was so inclined to become a pencil-pushing lump of coal too."
 
 (super leader +2 and leader -1 )
 
@@ -669,7 +669,15 @@ You decide to stay quiet, and the pair of squabbling men to their own argument. 
 
 ### Conclusion
 
-Some rotten job this is.
+The men get up from their seats and, as before, you respond with a standing salute. Though the gesture is becoming more and more empty by the minute. Some rotten job this is. 
+
+Before any of them can talk to you as they did yesterday, you bolt out of these with a brisk walk. You can feel them stare at you as you walk away from them as fast as your legs can take you without sprinting.
+
+Every evening you spend with these two it feels like something slides in between your skin and your flesh. Something that doesn't let you breathe or sweat, that dulls your senses. It feels like a shrink wrap pressing on your eyes, mouth, and ears. Not nearly enough to suffocate you, but getting to it slowly.
+
+Every door on the hallways comprising the interrogation room block have these little rectangular windows with a fine mesh over them. They let the air in but they don't allow people to look from the outside in, nor the other way around. Calling them windows is, therefore, a mistake. They're vents. 
+
+Little pinprick points that look like beady bug eyes on the walls. Everywhere, and anywhere.
 
 ## Day 4
 

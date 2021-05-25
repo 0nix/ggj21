@@ -443,7 +443,7 @@ As you take off your heavy headphones and prepare the desk for your night shift 
 
 "Agent Designation: Eight-Red-Zero-Whiskey-One-Seven-One-Three. You are required to present yourself at once to Central for dossier review following every day of operation while on assignment. Authorization. Delta-Sierra-Charlie-Hotel. Review of dossier will be conducted by Operations managers. Confirm receipt."
 
-You confirm, this time with a bit more venom in your words. Something inside you boils over, tossing, churning, and turning as the company car takes you to headquarters. You are reminded of the interrogation training you did back at the academy, how the very first interrogatory you went through pushed you to the very edge of your sanity. You were forced to relieve yourself in your pants as you sat with your hands under your legs, an officer of the Ministry grilling you, mocking you, taunting you with the name of your mother and your father. Of course, you knew they knew everything, and again, of course, you knew that this was just an exercise. A way of breaking recruits. But then as always a doubt on the back of your head asking the questions you dare not speak out loud:
+You confirm, this time with a bit more venom in your words. Something inside you boils over, tossing, churning, and turning as the company car takes you to headquarters. You are reminded of the interrogation training you did back at the academy, how the very first interrogatory you went through pushed you to the very edge of your sanity. You were forced to relieve yourself in your pants as you sat with your hands under your legs, an officer of the Ministry grilling you, mocking you, taunting you repeating the name of your mother and your father over and over until those words lost their meaning. Of course, you knew they knew everything, and again, of course, you knew that this was just an exercise. A way of breaking recruits. But then as always a doubt on the back of your head asking the questions you dare not speak out loud:
 
 "Was it necessary?"
 
@@ -675,7 +675,29 @@ Some rotten job this is.
 
 ### Previous to questioning
 
+It doesn't take long for Hassel to act on his gut feelings and run out of his flat, looking for Leitzka. He screams atop of his longs, with a mixture of anger and concern. You stand outside the building, pretending to wait for a car as you watch him run down the street. For the first time you catch a good look of him using just your eyes and nothing else. He looks as if a potato had grown out legs and started to walk and talk. As he ran, he had this kind of sad gait going side-to-side, balancing his fat stomach between two twiggy legs. There was always something that brought you this mirthful joy, being ignored by someone that whose secrets you are quite aware of. 
 
+As if directed by an orchestra, the standard black lacquer ministry car arrives to pick up you up. In the distance you hear find noises of a scuffle involving multiple people. It doesn't take long for you to find out the cause: You speed by, and out the window of the car you see Albert Hassel squirming against the wall, handcuffed. He seems to have incurred a bit of aggression from the policemen, they have their batons out, prodding and yelling at him. You couldn't help but chuckle to yourself, fully aware of the astounding emptiness of his bravado.
+
+It takes less than five seconds for you to loose sight him in the worst day of his life, and speed away.
+
+Back in Central again.
+
+You stop by the jailer room to talk to some of your colleagues, and you ask about any new people coming in for detention. It's just two people, one man and one woman. They're not side by side in the cell block, but the woman's cell was close enough to the scenic route towards the debriefing room. You'd be able to see her too, finally, with your own eyes. You write the cell number down on a piece of scrap paper and you enter the building.
+
+As you come closer and closer to the cell, there's some trepidation... some excitement from a place you don't know very well. 
+
+The cells of Central had a small letterbox windows that allowed people in the hallway to look at the people inside, but they did not allow the same from the cells. In front of you is such a window, corresponding to the door of cell that contained Nadine Leitzka.
+
+You couldn't help yourself. You had to look in there no matter what. 
+
+There is this praying mantis colored in the pink hues of human flesh, creeping around the walls and the floor of the tiny two by three meter space. She has already turned over the mattress and was looking for something frantically. Her hair was frazzled like an overgrown bush. She muttered something to herself that was barely audible. They all look like oversized guinea pigs rattling around in cages.
+
+All of the sudden, she stops and looks in the direction of the window. She says nothing, she does nothing, she just stares at you with those sunken baggy eyes and a scowl that said many terrible things. She did not blink. She did not even wince once. Even cornered and trapped, she kept her face on. Commendable, to say the least.
+
+You avert your eyes, and walk to the interrogation room, greeting you with the same heavy metal steel door, the same paint on it with a number and a letter, the same letterbox window that doesn't let anybody see from the inside out. Only big enough to hold you in with the two of them. 
+
+You enter it, and Sergeant Bryce and Lieutenant Bayer are already there sitting on the chairs at the opposite end of a metal table. The Sergeant makes a big show of producing his wristwatch and rapping on it loudly, his usual scowl on his egg-shaped face. Bayer, ever the emotional miser, simply acknowledges you with a small nod.
 
 ### 4.-- No evidence presented
 
@@ -855,13 +877,19 @@ Unsatisfied, both men stew in their own frustration and anger, unable to convinc
 
 [You argue in favor of asking Lietzka about the activities that should have been reported]
 
+You say that Hassel is not a credible source of information, and the Lieutenant is considering him as such. There's no telling what he'll say if it's with the purpose of ruining Lietzka's chances of leaving confinement, or improving his to leave. As such it should be interesting to ask Ms. Leitzka about the activities that were supposedly grounds for detention herself, as she would have a vested interest in her own freedom. Sergeant Bayer nods at you and then looks at the Lieutenant Bryce, waiting for some kind of response. Bryce just gives him his usual scowl and looks at you, making quite manifest his displeasure with his teeth.
+
 (super leader +x and leader -1)
 
 [You argue in favor of asking Hassel about the activities that should have been reported]
 
+You say that Leitzka would have a vested interest to say anything to save her own hide from Albert Hassel, as it is apparent she does not appreciate his company. Therefore, she is not a credible source of information and the Sergeant is not considering the human factor. Given that Hassel has a greater interest to stay in the good graces of the state, it would be beneficial for the investigation to ask him about the supposed activities that he should have reported. This would a change to either redeem or condemn himself. Lietuenant Bryce smiles his yellowish grin, and clicks his tongue as he thumbs through the pages he had in his hands, so cock-sure you can almost smell the arrogance. Sergeant Bayer gives you a long drawn stare, like a disappointed father with a penchant for physical discipline.
+
 (super leader -1 and leader +x)
 
 ### 4.5 Conclusions
+
+(No conclusion. Jump to corresponding ending.)
 
 ## Endings
 

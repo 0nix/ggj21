@@ -82,7 +82,7 @@ const script = {
   a225a:
     "[say]At 0915 hours, you recieve confirmation of the preliminary detainment of Nadine Leitzka. She is being held in a low-risk cell at Hohenschönhausen. Which is perfect since that's the end of surveillance operations. Given that both of the subjects of surveillance have order for detention, cover surveillance is no longer advisable nor necessary.  You take your last notes and start putting together the case files.",
   a226a:
-    "[say]You give orders to the Field Office to detain Hassel if he attempts to leave the premises, and to detain him anyway if he didn't come out of his flat in two hours time. It was time to assemble all the evidence since gathered and to make the final determination as to who to keep in containment and who to let go of.",
+    "[say]You give orders to the Field Office to detain Hassel if he attempts to leave the premises, and to detain him anyway if he didn't come out of his flat in two hours time. It was time to assemble all the evidence since gathered and to make the final determination as to who to keep in containment and who to let go.",
 };
 
 export default script;

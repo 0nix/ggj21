@@ -675,9 +675,11 @@ Before any of them can talk to you as they did yesterday, you bolt out of these 
 
 Every evening you spend with these two it feels like something slides in between your skin and your flesh. Something that doesn't let you breathe or sweat, that dulls your senses. It feels like a shrink wrap pressing on your eyes, mouth, and ears. Not nearly enough to suffocate you, but getting to it slowly.
 
-Every door on the hallways comprising the interrogation room block have these little rectangular windows with a fine mesh over them. They let the air in but they don't allow people to look from the outside in, nor the other way around. Calling them windows is, therefore, a mistake. They're vents. 
+Every door on the hallways comprising the interrogation room block have these little rectangular windows with a fine mesh over them. They let the air in but they don't allow people to look from the outside in, nor the other way around. Calling them windows is, therefore, a mistake. 
 
-Little pinprick points that look like beady bug eyes on the walls. Everywhere, and anywhere.
+They're vents. 
+
+They're little pinprick points that look like beady bug eyes on the walls. Everywhere, and anywhere.
 
 ## Day 4
 

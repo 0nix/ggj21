@@ -220,7 +220,7 @@ You say that the involvement of a factory supervisor of a state-owned operation 
 
 You relate to Lieutenant Bryce and Sergeant Bayer that, from the way Leitzka had spoken, there may had been some tampering of the production reports for The People's Electronics Fabricant. Namely, their production numbers. The expression "made like thieves" could apply to several different contexts, including in this case a probable cause to investigate Albert Hassel's and Gerhart Kleiner's involvement in day-to-day operation. It may be indicative of, at the very least, a deliberate change in policy that has not been approved by the Ministry of Labor, or any officially sanctioned policy by The Party.
 
-You did not even have time to draw an additional breath of stale air before Lt. Bryce slid his chair backwards, stood up and started to pack his belongings, motioning to leave. Sergeant Bayer looks at him dumbfounded, his arms crossed, as if he had committed some egregious faux pas. You didn't even know yourself if you were to stand up or sit, since both officers had a completely different idea of what to do next. 
+You did not even have time to draw an additional breath of stale air before Lieutenant Bryce slid his chair backwards, stood up and started to pack his belongings, motioning to leave. Sergeant Bayer looks at him dumbfounded, his arms crossed, as if the Lieutenant had thrown up on the table at a wedding. You didn't even know yourself if you were to stand up, or sit, since both officers gave you completely different queues about what to do next.
 
 "May I ask why are you getting up Lieutenant?" Sergeant Bayer asks with an inquisitional tone of voice with a sting of authority, a mother catching her child in-fraganti scribbling on the walls. /n/n Lt. Bryce looks at you, then at Sergeant Bryce, then at you, then at the Sergeant again. You can't tell if this is some kind of act or if he's genuinely confused. "You-you-you're not leaving Bayer?" he asks. /n/n "No I'm not, Lieutenant" Sergeant Bayer responds dryly, leaning on the last word and making sure he enunciated every syllable. "And neither are you, we have not discussed this piece of evidence in any capacity."
 
@@ -637,6 +637,58 @@ You speak up, and slide the folio towards Bayer. A lead is a lead and we should 
 
 ### 3.5 Description of "Sonia" (super leader +2 or leader +2)
 
+You hand over a detailed likeness of this new person of interest, for now identified as "Sonia", to Lieutenant Bryce and Sergeant Bayer. They listen to you with interest, in their own individual way. As you get deeper into the description, you notice that the Lieutenant's eyes drift away and focus somewhere else and turns his face away from you. Sergeant Bayer, meanwhile, keeps his attention on you the entire time.
+
+"Have you submitted this likeness to Division VIII for a preliminary citizen record sweep to see if we can find this individual?" The Sergeant asks. You have to say no, this meeting was of higher priority.
+
+"Why is this a sketch? This Ministry has I don't know how many cameras in many different sizes and configurations, and you happened to not have any?" Lieutenant Bryce asks, snarling as he manhandled your sketch as if it was some kind of soiled napkin.
+
+You finagle a bit to answer the question. Up until that point it had not occurred to you that there were many cameras that you could dispose of at the field office, most of them in working order, but that had not occurred to you at the time. You scramble for words and half-remembered gibberish. 
+
+Sergeant Bayer turns to the scowling Lieutenant. "I'm sure the Agent had a good reason to deliver a sketch instead of a picture, indeed I'm quite pleased with the rendered likeness. It's better than to have nothing at all." 
+
+The Sergeant picks up the sketch and turns it around, squinting at it as if he dared it to blink. "It's actually quite well made, considering the time you had to rendering."
+
+"I am actually a lot more concerned that you abandoned your post, Agent. You missed what could have bene precious evidence in the prosecution of the enemies of the state. Every second counts, and every milimeter of tape recorder costs this ministry money. Did you hear anything on the tape playback that would be worth mentioning to this investigative body?" The Sergeant growls. You shake your head frantically. Nothing but pops and scratches. "Heh, I hear any more scratchy tapes and I'll have to report to the Politburo that cats are public enemy number one." He guffaws.
+
+The Lieutenant stands up in a huff, and walks over to your side of the desk to grab the sketch. "If you two have stopped horsing around on the job," he says. "Then it falls onto me to submit this piece of evidence to Division VIII for a preliminary likeness match against the citizen database." He then looks at you with eyes that could kill. "I'd hope that the time and resources of the boys up in the twentieth floor would not be wasted on Agent Brownie's artistic exploits but I see that we'd admit a bag of dog turds so long as we could twist around it as evidence."
+
+"Now, now hold on." Sergeant Bayer says in much less friendly tone. "This is not your responsibility, hand it over Bryce."
+
+"What, Sergeant? It's all going to the same place, what does it matter if this Picasso on our payroll puts this scribble up for collection or me, his supervising officer?" Lieutenant Bryce says, motioning with his hands and waving the paper around.
+
+"A chain of custody, Lieutenant, that is enforced with and protected with severe punishments." Sergeant Bryce snarls, pointing at you as he does. "Leave that piece of paper alone, and give it to the Agent."
+
+Lieutenant Bryce is taken a back, a first for you to see him at a loss for words. He clutches to the sketch so hard it's creasing in.
+
+"Look at what you're doing Bryce!" The Sergeant bellows, you could swear you could see fire sparking in his mouth. "You're damaging state property! Get a hold of yourself man, and hand it over before I have to write you up for an administrative punishment of your own!" The Lieutenant looks like a dear in headlights. Sergeant Bayer grabs his wrist and pulls at it, forcing the paper out of his hands. "No!" He yells with a mixture of anger and fear. "What's gotten into you Lieutenant?!" Sergeant Bayer shouts, more confused than upset. 
+
+"I am the commanding officer, goddamn you Bayer I'll take care of it!" The Lieutenant says angrily. But, not in his usual delight in cruelty demeanor. No, this was different. This was more akin to a child trying to negotiate himself away from the spanking he is going to receive. "Enough!" Sergeant Bayer snaps. This is enough to get the Lieutenant to stop gripping the sketch, now folded and crinkled. 
+
+Sergeant Bayer undoes the folds, and stares at it briefly before pushing it in Lieutenant Bryce's face. "What is this Bryce? What is it that you want to hide, hm?" He asks.Lieutenant Bryce is silent as a tomb, staring a thousand meters into the distance. "What is this Bryce, answer me?"Sergeant Bayer asks again, with an even sterner tone. "What is this Lieutenant?"
+
+Nothing. Not a word.
+
+The Sergeant is at a loss of words as he continues to stare at this schizophrenic character. Seconds of silence are elongated into eternity, as both men are challenging each other to break the silence. 
+
+Frustrated, Sergeant Bayer hands you over the piece of paper without saying a word. 
+
+[You slowly put the drawing back into the dossier.]
+
+(Super leader)
+
+You don't know what to make of this outburst. You don't know what will you do if it happens again. But you know that you must push the paper back in the growing sheaf of folios, notes, and typed papers to make this entire ordeal go away quickly.
+
+[You decide to give the paper to Lieutenant Bryce]
+
+(Set give_bryce_sketch to TRUE)
+
+(Leader)
+
+You know that Lieutenant Bryce wants this piece of paper. You know that Sergeant Bayer will not tolerate any more random acts of insubordination. While he could take arms against Bryce, antagonizing this man would mean you would be finished in a day. You push the sketch back into the sheaf of papers as you stare straight into Bryce's eyes. He returns the stony gaze, and motions his eyes in a jerking motion, a universal signal among Agents to silently agree to meet after an event is over. You'd to roll the dice on whether or not Bayer noticed this exchange.
+
+
+
 ### 3.6 Pleasantries with the neighbor (super leader +2 and leader -1 )
 
 You explain that Albert Hassel had decided to talk to the neighbor before entering his own flat, something that he had not done previously. This conversation was unrecorded and undocumented, given that there was no indication that he would have any sort of interest in his neighbors in the file. This needs to be entered into the surveillance dossier as an interaction that could have adverse effects if the identity of the other person is not known.
@@ -671,7 +723,17 @@ You decide to stay quiet, and the pair of squabbling men to their own argument. 
 
 The men get up from their seats and, as before, you respond with a standing salute. Though the gesture is becoming more and more empty by the minute. Some rotten job this is. 
 
+(If give_bryce_sketch to TRUE)
+
+You make sure you are the last one to leave the interrogation and you walk slower than both Bryce and Bayer, matching their pace but remaining behind. Basics of following a suspect. The highly strung up Sergeant Bayer doesn't notice and just plods on along to whatever task he was supposed to do before tending to the operation. Lieutenant Bryce slows down his pace and allows you to catch up. You produce the sketch from the dossier, folded in a neat little square. Lieutenant Bryce stops ever so softly, opening his hand. You walk past him and in a very brief slight of hand, you hand over the paper he wanted so badly. 
+
+You figure that if he wants this piece of paper this badly, he should have it. Not really your business if it ends up in the right places. They'll soon blame a clerical error on review of the evidence than considering the possibility of evidence tampering, It just didn't happen in this country. Unthinkable in the mind of a patriot.
+
+(Else)
+
 Before any of them can talk to you as they did yesterday, you bolt out of these with a brisk walk. You can feel them stare at you as you walk away from them as fast as your legs can take you without sprinting.
+
+(End If)
 
 Every evening you spend with these two it feels like something slides in between your skin and your flesh. Something that doesn't let you breathe or sweat, that dulls your senses. It feels like a shrink wrap pressing on your eyes, mouth, and ears. Not nearly enough to suffocate you, but getting to it slowly.
 
@@ -685,7 +747,9 @@ They're little pinprick points that look like beady bug eyes on the walls. Every
 
 ### Previous to questioning
 
-It doesn't take long for Hassel to act on his gut feelings and run out of his flat, looking for Leitzka. He screams atop of his longs, with a mixture of anger and concern. You stand outside the building, pretending to wait for a car as you watch him run down the street. For the first time you catch a good look of him using just your eyes and nothing else. He looks as if a potato had grown out legs and started to walk and talk. As he ran, he had this kind of sad gait going side-to-side, balancing his fat stomach between two twiggy legs. There was always something that brought you this mirthful joy, being ignored by someone that whose secrets you are quite aware of. 
+It doesn't take long for Hassel to act on his gut feelings and run out of his flat, looking for Leitzka. He screams atop of his lungs, with a mixture of anger and concern. "Nadine! Where are you?! Nadine, come back!" He yells in a high-pitched whine that sounds like the saddest car horn. You stand outside the building, pretending to wait for a car as you watch him run down the street. 
+
+For the first time you catch a good look of him using just your eyes and nothing else: He looks as if a potato had grown out legs and started to walk and talk. As he ran, he had this kind of sad gait going side-to-side, balancing his fat stomach between two twiggy legs. There was always something that brought you this mirthful joy, being ignored by someone that whose secrets you are quite aware of. 
 
 As if directed by an orchestra, the standard black lacquer ministry car arrives to pick up you up. In the distance you hear find noises of a scuffle involving multiple people. It doesn't take long for you to find out the cause: You speed by, and out the window of the car you see Albert Hassel squirming against the wall, handcuffed. He seems to have incurred a bit of aggression from the policemen, they have their batons out, prodding and yelling at him. You couldn't help but chuckle to yourself, fully aware of the astounding emptiness of his bravado.
 

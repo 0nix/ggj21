@@ -428,7 +428,7 @@ As they exit, Sergeant Bayer whispers in your ear. "Agent, allow me to remind yo
 
 (leader is less)
 
-Sergeant Bayer leaves the interrogation room, with Lieutenant Bryce behind him. As soon as the sergeant exits the room, Lieutenant Bryce closes the door and faces you, looking at you like a frog he is about to dissect. "If I didn't know any better," he growls. "I'd say you are deliberately attempting to go over your superior officer. We have a way we do things in this Ministry, Agent Brownie. If a random Otto off the street is a threat to national security, he is. If a shoplifter is simply a boy in an errand, the shopkeep is happy to have served his state. We do as we are told. I do, and so must you if you want to have a long career. Don't forget that." 
+Sergeant Bayer leaves the interrogation room, with Lieutenant Bryce behind him. As soon as the sergeant exits the room, Lieutenant Bryce closes the door and faces you, looking at you like a frog he is about to dissect. "If I didn't know any better," he growls. "I'd say you are deliberately attempting to go over your superior officer. We have a way we do things in this Ministry, Agent Brownie. If a random Otto off the street is a threat to national security, he is. If a shoplifter is simply a boy in an errand, the shopkeeper is happy to have served his state. We do as we are told. I do, and so must you if you want to have a long career. Don't forget that." 
 
 (all same)
 
@@ -571,11 +571,11 @@ Lieutenant Bryce raises his voice, and looks at the ground as he speaks. "I wrot
 
 "You misunderstand me, Lieutenant Bryce." Sergeant Bryce says, raising his voice yet again to what you could call a low shout. "This ministry by its very nature must have eyes and ears, everywhere. And it has. We know everything because for this Nation to survive the blasted enemy at our gates and in our lands we MUST know everything." 
 
-Sergeant Bayer takes a deep breath to continue his sermon. "And now... Now! Now I find out that we have a massive blindspot. A memory hole where all information goes to die, and its name is Nadine Leitzka. And to my endless luck and fortune, we have just stumbled upon her!" /n/n He chuckles before continuing. "I find that hard to believe. Very, very hard indee-"
+Sergeant Bayer takes a deep breath to continue his sermon. "And now... Now! Now I find out that we have a massive blind spot. A memory hole where all information goes to die, and its name is Nadine Leitzka. And to my endless luck and fortune, we have just stumbled upon her!" /n/n He chuckles before continuing. "I find that hard to believe. Very, very hard indee-"
 
 Lieutenant Bryce shakes his head violently and smashes his fist on the metal table. "And your point is, Sergeant Bayer!?" He snarls.
 
-"Oh! Oh, my point? You want to know my point?" Sergeant Bayer responds, mocking with the same nasally tone that the Lieutenant adopted. "Oh you are going to *love* it! I don't think she is a blindspot at all. I think someone has protected this woman within our organization and using our resources to do so, and I will start asking who and why! And I'll start with you, Lieutenant Bryce!"
+"Oh! Oh, my point? You want to know my point?" Sergeant Bayer responds, mocking with the same nasally tone that the Lieutenant adopted. "Oh you are going to *love* it! I don't think she is a blind spot at all. I think someone has protected this woman within our organization and using our resources to do so, and I will start asking who and why! And I'll start with you, Lieutenant Bryce!"
 
 Lieutenant Bryce stands up, clenching his fists. His face reddens with anger. "Prove your accusations or so help me-"
 
@@ -649,7 +649,7 @@ Sergeant Bayer turns to the scowling Lieutenant. "I'm sure the Agent had a good 
 
 The Sergeant picks up the sketch and turns it around, squinting at it as if he dared it to blink. "It's actually quite well made, considering the time you had to rendering."
 
-"I am actually a lot more concerned that you abandoned your post, Agent. You missed what could have bene precious evidence in the prosecution of the enemies of the state. Every second counts, and every milimeter of tape recorder costs this ministry money. Did you hear anything on the tape playback that would be worth mentioning to this investigative body?" The Sergeant growls. You shake your head frantically. Nothing but pops and scratches. "Heh, I hear any more scratchy tapes and I'll have to report to the Politburo that cats are public enemy number one." He guffaws.
+"I am actually a lot more concerned that you abandoned your post, Agent. You missed what could have bene precious evidence in the prosecution of the enemies of the state. Every second counts, and every millimeter of tape recorder costs this ministry money. Did you hear anything on the tape playback that would be worth mentioning to this investigative body?" The Sergeant growls. You shake your head frantically. Nothing but pops and scratches. "Heh, I hear any more scratchy tapes and I'll have to report to the Politburo that cats are public enemy number one." He guffaws.
 
 The Lieutenant stands up in a huff, and walks over to your side of the desk to grab the sketch. "If you two have stopped horsing around on the job," he says. "Then it falls onto me to submit this piece of evidence to Division VIII for a preliminary likeness match against the citizen database." He then looks at you with eyes that could kill. "I'd hope that the time and resources of the boys up in the twentieth floor would not be wasted on Agent Brownie's artistic exploits but I see that we'd admit a bag of dog turds so long as we could twist around it as evidence."
 
@@ -665,7 +665,7 @@ Lieutenant Bryce is taken a back, a first for you to see him at a loss for words
 
 "I am the commanding officer, goddamn you Bayer I'll take care of it!" The Lieutenant says angrily. But, not in his usual delight in cruelty demeanor. No, this was different. This was more akin to a child trying to negotiate himself away from the spanking he is going to receive. "Enough!" Sergeant Bayer snaps. This is enough to get the Lieutenant to stop gripping the sketch, now folded and crinkled. 
 
-Sergeant Bayer undoes the folds, and stares at it briefly before pushing it in Lieutenant Bryce's face. "What is this Bryce? What is it that you want to hide, hm?" He asks.Lieutenant Bryce is silent as a tomb, staring a thousand meters into the distance. "What is this Bryce, answer me?"Sergeant Bayer asks again, with an even sterner tone. "What is this Lieutenant?"
+Sergeant Bayer undoes the folds, and stares at it briefly before pushing it in Lieutenant Bryce's face. "What is this Bryce? What is it that you want to hide, hm?" He asks. Lieutenant Bryce is silent as a tomb, staring a thousand meters into the distance. "What is this Bryce, answer me?"Sergeant Bayer asks again, with an even sterner tone. "What is this Lieutenant?"
 
 Nothing. Not a word.
 
@@ -775,7 +775,7 @@ You enter it, and Sergeant Bryce and Lieutenant Bayer are already there sitting 
 
 ### 4.-- No evidence presented
 
-
+(start a timer of random duration from 5 seconds to the duration of this block of text - 3 seconds. => transition to gunshot scene, game over) You explain that, despite what the surveillance might suggest and the repeated insistence to the contrary, there was no evidence of malfeasance or wrongdoing on part of either Albert Hassel or Nadine Leitzka. As suspicious one or both may be, it simply did not seem that these people presented a threat to the security of the State, nor did they appear to act in such away that would imply that they take part in any subversive activity. You recommend that they should be released at the earliest possible time and conclude the operation with a neutral ending that while unsatisfactory, proves to be an accurate reflection of what a government agency running a surveillance program actually accomplishes. [The timer should have activated here, the rest is  content that people should not be able to view] You should not be able to read this, but if you are, please tweet the phrase "moe moe kyun" at asobulab so I know you're cool.
 
 ### 4.1 Mystery Package was passed through (super leader +x and leader -1 no argument needed passthrough)
 
@@ -863,7 +863,7 @@ The Sergeant takes the stuffed folder where you have been keeping all your evide
 
 (If Sonia) You observe the description of the mystery woman that crashed into the investigation like a deer crossing the road.
 
-(If Mystery Package was passed through) You see the long litany of memos, signed forms, and inquiriesbabout that blasted package.
+(If Mystery Package was passed through) You see the long litany of memos, signed forms, and inquiries about that blasted package.
 
 (If Lietzka leaves) You see a written account of the threats Nadine Leitzka made a few hours ago.
 
@@ -933,7 +933,7 @@ There's a brief moment of silence before someone speaks, and it's Lieutenant Bry
 
 "Must have been as his direction, Sergeant. There's more than one way to skin this cat." Lieutenant says, his usual annoyance returning to his breath. "Now now, who is making assumptions now?" Sergeant Bayer says as he gesticulates with his hands some sort of dismissive gesture.
 
-Lieutenant Bryce stretches to get the full dossier, and pulls out sheafs of paper that you recognize. This is your handiwork, typewritten accounts of the conversations that Leitzka and Hassel had had for the past four days. He waves the transcripts around like it was some kind of big revelation.
+Lieutenant Bryce stretches to get the full dossier, and pulls out sheaves of paper that you recognize. This is your handiwork, typewritten accounts of the conversations that Leitzka and Hassel had had for the past four days. He waves the transcripts around like it was some kind of big revelation.
 
 "What I can read, and what we can read for that matter,"  Bryce says. "Is for all her high-flying theatrics and defiant attitude, this woman has not had one original thought and follows Hassel around like a lapdog."
 
@@ -951,13 +951,13 @@ Unsatisfied, both men stew in their own frustration and anger, unable to convinc
 
 [You argue in favor of asking Lietzka about the activities that should have been reported]
 
-You say that Hassel is not a credible source of information, and the Lieutenant is considering him as such. There's no telling what he'll say if it's with the purpose of ruining Lietzka's chances of leaving confinement, or improving his to leave. As such it should be interesting to ask Ms. Leitzka about the activities that were supposedly grounds for detention herself, as she would have a vested interest in her own freedom. Sergeant Bayer nods at you and then looks at the Lieutenant Bryce, waiting for some kind of response. Bryce just gives him his usual scowl and looks at you, making quite manifest his displeasure with his teeth.
+You say that Hassel is not a credible source of information, and the Lieutenant is considering him as such. There's no telling what he'll say if it's with the purpose of ruining Leitzka's chances of leaving confinement, or improving his to leave. As such it should be interesting to ask Ms. Leitzka about the activities that were supposedly grounds for detention herself, as she would have a vested interest in her own freedom. Sergeant Bayer nods at you and then looks at the Lieutenant Bryce, waiting for some kind of response. Bryce just gives him his usual scowl and looks at you, making quite manifest his displeasure with his teeth.
 
 (super leader +x and leader -1)
 
 [You argue in favor of asking Hassel about the activities that should have been reported]
 
-You say that Leitzka would have a vested interest to say anything to save her own hide from Albert Hassel, as it is apparent she does not appreciate his company. Therefore, she is not a credible source of information and the Sergeant is not considering the human factor. Given that Hassel has a greater interest to stay in the good graces of the state, it would be beneficial for the investigation to ask him about the supposed activities that he should have reported. This would a change to either redeem or condemn himself. Lietuenant Bryce smiles his yellowish grin, and clicks his tongue as he thumbs through the pages he had in his hands, so cock-sure you can almost smell the arrogance. Sergeant Bayer gives you a long drawn stare, like a disappointed father with a penchant for physical discipline.
+You say that Leitzka would have a vested interest to say anything to save her own hide from Albert Hassel, as it is apparent she does not appreciate his company. Therefore, she is not a credible source of information and the Sergeant is not considering the human factor. Given that Hassel has a greater interest to stay in the good graces of the state, it would be beneficial for the investigation to ask him about the supposed activities that he should have reported. This would a change to either redeem or condemn himself. Lieutenant Bryce smiles his yellowish grin, and clicks his tongue as he thumbs through the pages he had in his hands, so cock-sure you can almost smell the arrogance. Sergeant Bayer gives you a long drawn stare, like a disappointed father with a penchant for physical discipline.
 
 (super leader -1 and leader +x)
 

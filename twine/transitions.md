@@ -20,7 +20,7 @@ But they're looking at you, watching, with their beady little eyes up on the wal
 
 Closing your eyes is the only escape, so you do for five hours. But you were sure they'd eventually find a way to put a mole in the inside of your eye lids and even get in your mind's eye. Those scientists that spend their waking hours coming up with smaller and more impractical cameras are capable of almost anything. At least someone has to be trying that.
 
-[They lie in waiting like lionesses in the light, and you're an antelope -- weak and scared. Your world is split in two with eyes on opposite sides so hopefully you'll see them coming behind you. But trusting your senses is like praying, you lose nothing if you do it but it guarantees nothing.]-1
+[They lie in waiting like lionesses in the light, and you're an antelope -- weak and scared. Your world is split in two with eyes on opposite sides so hopefully you'll see them coming behind you. But trusting your senses is like praying, you lose very little if you do it but it guarantees nothing.]-1
 
 [Silence is your dear friend, the only freedom you may have here and now. They come for you for every minute of every day, a second unaccounted for is a second where you might have something in your head that can't be written, mimeographed, photographed, captured, recorded, reported, filed, analyzed, evaluated, debriefed. Your life is a scrapbook, collections of people and events and all of these things that you hope against hope that someone looks and likes what they see. Being forgotten is a luxury now relinquished to an authority that is distant and indifferent.]-2
 

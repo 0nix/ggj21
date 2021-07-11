@@ -1,8 +1,8 @@
-You arrive to the surveillance site, a five-story building in Friedrichsfelde, within a surprinsgly a short distance from Headquarters. Mostly brown, with a few blotches of colors in the windows from the furnishings of the tenants. Room 6 is the field office. On paper, it's where a pensioner resides. A lifetime of service to the Party has given her free lodgings, free food, free everything. That is, as long as she keeps to all of ten square meters and the rest of the house functions as an outpost for Division XIX. At least she gets something out of a lifetime of work.
+You arrive to the surveillance site, a five-story building in Friedrichsfelde, within a surprisingly a short distance from Headquarters. Mostly brown, with a few blotches of colors in the windows from the furnishings of the tenants. Room 6 is the field office. On paper, it's where a pensioner resides. A lifetime of service to the Party has given her free lodgings, free food, free everything. That is, as long as she keeps to all of ten square meters and the rest of the house functions as an outpost for Division XIX. At least she gets something out of a lifetime of work.
 
 You hand in your paperwork and you are led to a dark room lit only by the glow of the tube monitors, and the blinking lights of recording equipment. A desk populated by cathode-ray-tube, long reel recorders, plenty notebooks and pens, a typewriter, and a standard issue Ministry of State Security pair of headphones that could masticate your entire head if they were alive.
 
-The two bedroom flat is located a few floors above you, and is fitted with two cameras, the kitchen and the living room. The phone line bugs are active, as is standard issue ten-milimeter microphones dotted in every room. It was weird for a subject that was previously not considered a threat to the state to have video surveillance, but it appears Bryce had gone ahead of you in operations and installed them anyway. Preliminary surveillance before your addition to the team stated that at least one occupant constantly remained in the house, namely this Nadine Lietzka. Not odd for a housewife, however to your knowledge Ms. Leitzka was not married to Mr. Hassler. While it's not illegal for couples to occupy the same dwelling, it still raises some eyes from older agents at entry-level surveillance. As much as the Party wants to avoid it, society is like a river: It changes and flows.
+The two bedroom flat is located a few floors above you, and is fitted with two cameras, the kitchen and the living room. The phone line bugs are active, as is standard issue ten-millimeter microphones dotted in every room. It was weird for a subject that was previously not considered a threat to the state to have video surveillance, but it appears Bryce had gone ahead of you in operations and installed them anyway. Preliminary surveillance before your addition to the team stated that at least one occupant constantly remained in the house, namely this Nadine Lietzka. Not odd for a housewife, however to your knowledge Ms. Leitzka was not married to Mr. Hassler. While it's not illegal for couples to occupy the same dwelling, it still raises some eyes from older agents at entry-level surveillance. As much as the Party wants to avoid it, society is like a river: It changes and flows.
 
 Your long watch begins, as you sit down on the metal chair provided to you, and, by the light of television, you lay in wait to observe and record.
 
@@ -14,7 +14,7 @@ Surveillance starts at 1500 hours on a Tuesday, March 9th.
 
 You observe Nadine Leitzka, washing dishes in the kitchen. She hums a tune you can't quite make through the microphone and the noise of the rushing water.
 
-You observe Leitzka opening the fridge to produce two baked hams and proceeds to cut slices from them, preparing food. <- Of note, these baked hams have been on short supply in stores due to produciton goals changing from hams to sausages, which means that this foodstuff may not have been bought from local industry. This would mean they got it at an Intershop selling Western goods, but the price of each foodstuff does not quite match the amount of money paid to Hassel. Leitzka is currently not gainfully employed either. So the origin of these two portions of ham is not explained by the current circumstances.
+You observe Leitzka opening the fridge to produce two baked hams and proceeds to cut slices from them, preparing food. <- Of note, these baked hams have been on short supply in stores due to production goals changing from hams to sausages, which means that this foodstuff may not have been bought from local industry. This would mean they got it at an Intershop selling Western goods, but the price of each foodstuff does not quite match the amount of money paid to Hassel. Leitzka is currently not gainfully employed either. So the origin of these two portions of ham is not explained by the current circumstances.
 
 You observe Leitzka turn on the radio and start drinking coffee, Cuban.
 
@@ -38,7 +38,7 @@ You observe Hassel sit on the sofa, relaxing his belt buckle. "Could you turn th
 
 Hassel sighs in exasperation, and speaks in between chews. "Look, I don't know what to tell you. I have gone to my nearest State Security Office, you know, the one by the movie theater?" Lietzka nods in agreement. "Been going three times a day since I put in the papers to get exit visas. The man at the door already knows me by name, for God's sake. And it's always the same answer, no matter what."
 
-"Your petition is currently being reviewed by Security authorities, an ongoing petition is not a subsitute for a visa." Nadine recites as if out of a prayer book.
+"Your petition is currently being reviewed by Security authorities, an ongoing petition is not a substitute for a visa." Nadine recites as if out of a prayer book.
 
 "Clearly a you are a spitting image of the comrade." Hassel gets up and pecks Leitzka with a kiss. "But on a much closer appraisal, you are much better looking."
 
@@ -68,7 +68,7 @@ Surveillance start at 0500 hours on Wednesday, March 10th.
 
 Hassel wakes up at 0630 hours, followed by Lietzka shortly thereafter.
 
-You observe subjects Lietzka and Hassel exchange pleasentries over breakfast prepared by Lietzka. From the objects obserbed to be taken from the refrigerator, it is an egg-based breakfast. More to follow. Casual conversation follows, over the morning radio broadcast.
+You observe subjects Lietzka and Hassel exchange pleasantries over breakfast prepared by Lietzka. From the objects observed to be taken from the refrigerator, it is an egg-based breakfast. More to follow. Casual conversation follows, over the morning radio broadcast.
 
 At around 0730, you observe a phone call is made to Hassel's residence. Previous surveillance indicates the call is from The People's Electronics Fabricant, approximately 700 meters away from the Hassel surveillance site, Hassel's workplace. On the other line is Hassel's boss, citizen Gerhart Kleiner, Head of Day-Shift Production. The conversation is as follows:
 
@@ -102,15 +102,15 @@ K: Does that sound like my problem, Hassel? I am giving you a courtesy call, tha
 
 H: That's fine Kleiner, always a pleasure talking to you and thank you for the heads up.
 
-Before hanging up, the microphone on the phone picks up Hassel muttering "Little tyrant..." <- Prospect for a promotion does not really reflect a subersive element for the intergity of the State.
+Before hanging up, the microphone on the phone picks up Hassel muttering "Little tyrant..." <- Prospect for a promotion does not really reflect a subersive element for the integrity of the State.
 
 You observe Lietzka take notice of the conversation that just transpired. "Good news, from the looks of it." She comments.
 
 Hassel sits down and takes a bite of his nondescript breakfast. "Uhm, yes. Looks like I will be getting a promotion come June. Before that I have to make good with the Party. If I show up we might actually see those exit visas, finally." He responds.
 
-"Well that's dandy." Lietzka says. This is the first time you have observed her smile since coming across her dossier and surveillance started. "I guess you and that Gerhart made like thieves with the production numbers, if they're so good they're giving off holidays like they were bargains." She comments. <- Lying about meeting production quotas is a serious offense and classifed as a cause for sedition accusations. However, the investigation to prove subversion to the state through industry will not suffice the needs of the surveillance investigation.
+"Well that's dandy." Lietzka says. This is the first time you have observed her smile since coming across her dossier and surveillance started. "I guess you and that Gerhart made like thieves with the production numbers, if they're so good they're giving off holidays like they were bargains." She comments. <- Lying about meeting production quotas is a serious offense and classified as a cause for sedition accusations. However, the investigation to prove subversion to the state through industry will not suffice the needs of the surveillance investigation.
 
-"For once, woud it kill you to be happy for me Nadine?" Hassel says, with a tinge of annoyance. "We have our numbers, everyone at the factory gets a new thing to put on their tables, and for once we're producing what we actually need to produce instead of brand new boards just sitting in warehouses where they won't go anywhere. Hon-hon-honestly, it frustrates me to no end seeing something I worked so hard on sit there doing... nothing. If there is a surplus of demand, then the market will adjust if it can't go anywhere."
+"For once, would it kill you to be happy for me Nadine?" Hassel says, with a tinge of annoyance. "We have our numbers, everyone at the factory gets a new thing to put on their tables, and for once we're producing what we actually need to produce instead of brand new boards just sitting in warehouses where they won't go anywhere. Hon-hon-honestly, it frustrates me to no end seeing something I worked so hard on sit there doing... nothing. If there is a surplus of demand, then the market will adjust if it can't go anywhere."
 
 Leitzka smirks. "I see you've been reading lover-boy."
 
@@ -128,7 +128,7 @@ You observe Letizka is the only person in the apartment. You observe her sit on 
 
 You hear faint whispers, "One day, one day, one day" in between the sobs.
 
-After around thirty minutes of silence and cotemplation, Leitzka puts the briefcase back under the sofa and leaves the flat.
+After around thirty minutes of silence and contemplation, Leitzka puts the briefcase back under the sofa and leaves the flat.
 
 Surveillance around the building, provided by the same Field Office, indicates that she did not visit her neighbor Laurie Weiss.One of the other agents in the Field Office noticed that she instead she decided to sit down at the nearby park and playground and pass the time in silence there. A perfect time to improve the surveillance equipment on the premises, and search for any materials that could build a case for the investigation.
 
@@ -136,19 +136,19 @@ You phone the local Coordination Office and ask for a team of surveillance setup
 
 Enter the flat.
 
-The surveillance team enters the flat. At your direction, they install cameras in the remaining two bedrooms of the flat. As it happens, the map you were given was incorrect, and there is only one additional room that is not surveyed, and a bathroom that is not surveyed. Construction of the flat don't make it feasible to incorporate additional cameras without concelament in a reasonable amount of time, more microphones are placed in using the wires of existing equipment. On the living room there are two objects of interest. A book on top of the coffee table, and the briefcase Leitzka had taken from under the sofa.
+The surveillance team enters the flat. At your direction, they install cameras in the remaining two bedrooms of the flat. As it happens, the map you were given was incorrect, and there is only one additional room that is not surveyed, and a bathroom that is not surveyed. Construction of the flat don't make it feasible to incorporate additional cameras without concealment in a reasonable amount of time, more microphones are placed in using the wires of existing equipment. On the living room there are two objects of interest. A book on top of the coffee table, and the briefcase Leitzka had taken from under the sofa.
 
-Look at the book: The cover seems to indicate a perfectly normal cooking book, but one the dust jacket is removed, the true contents reveal themselves to be Freedom of Nations by Adam Smith. <- Hiding the contents of a published work is suspicious enough, the fact that it is western propaganda is even more disturbing. The publisher house on the first page of the cover is from a company in the West. This was clearly not produced here, nor was it authorized for sell in the Intershops. This is posession of unauthorized public goods.
+Look at the book: The cover seems to indicate a perfectly normal cooking book, but one the dust jacket is removed, the true contents reveal themselves to be Freedom of Nations by Adam Smith. <- Hiding the contents of a published work is suspicious enough, the fact that it is western propaganda is even more disturbing. The publisher house on the first page of the cover is from a company in the West. This was clearly not produced here, nor was it authorized for sell in the Intershops. This is possession of unauthorized public goods.
 
-Look at the briefcase: The briefcase reveals itself to be an assortments of various knick knacks of personal siginficance to Leitzka. On top of the pile, two items of interest. You snap a picture for the evidence file.
+Look at the briefcase: The briefcase reveals itself to be an assortments of various knick-knacks of personal significance to Leitzka. On top of the pile, two items of interest. You snap a picture for the evidence file.
 
-A picture: A faded, sepia tone picture of a woman holding two children. The picture seems to have been taken some time ago. You take out a pocket camera and snap a picture that will record what the photo is. Given that the picture was still somewhat warm, this is most likely the object Nadine Lietzka was crying over. <- Further nalysis should uncover who these people are and how are they relevant to Lietzka.
+A picture: A faded, sepia tone picture of a woman holding two children. The picture seems to have been taken some time ago. You take out a pocket camera and snap a picture that will record what the photo is. Given that the picture was still somewhat warm, this is most likely the object Nadine Lietzka was crying over. <- Further analysis should uncover who these people are and how are they relevant to Lietzka.
 
-A scribbled map: A hastily scribbled diagram which is some sort of map on slight aged graphing paper. It seem to indicate a series of roads and sewer tunnels. You take out a pocket camera and snap a picture of that diagram. <- Sending the diagram for analysis should ellucidate what is this location referring to.
+A scribbled map: A hastily scribbled diagram which is some sort of map on slight aged graphing paper. It seem to indicate a series of roads and sewer tunnels. You take out a pocket camera and snap a picture of that diagram. <- Sending the diagram for analysis should elucidate what is this location referring to.
 
 You return the objects to their previous state and exit the premises with care to not have been seen inside or leave any trace of yourselves.
 
-Several hours later, Hassel returns to the flat with a package under his arm and places it on the kitchen table. Cameras are not able to distinguish who is the package for or what it contains. <- Subjects under direct surveillance of the Ministry of State Safety are by policy not allowed to recieve any mail unless already examined and reported to the acting surveillance Agent. This is a break in procedure.
+Several hours later, Hassel returns to the flat with a package under his arm and places it on the kitchen table. Cameras are not able to distinguish who is the package for or what it contains. <- Subjects under direct surveillance of the Ministry of State Safety are by policy not allowed to receive any mail unless already examined and reported to the acting surveillance Agent. This is a break in procedure.
 
 You phone in immediately to Division XIX to ask for a status report.
 
@@ -202,7 +202,7 @@ You observe Lietzka emerge from the hallway in sleeping clothes, rubbing her eye
 
 Hassel pays no mind to this remark and goes back through the hallway, presumably to get dressed. Audio information indicates this, and he emerges from the hallway again hastily dressed in a wrinkled shirt and pants.
 
-"I have to run to the Party headquerters and set this right, Nadine." He says in a hurried tone. "Everything has gone wrong, I don't think they have the right Albert Hassel. This is terrible, Nadine. Terrible."
+"I have to run to the Party headquarters and set this right, Nadine." He says in a hurried tone. "Everything has gone wrong, I don't think they have the right Albert Hassel. This is terrible, Nadine. Terrible."
 
 You observe Hassel grab the suspicious package observed yesterday and hand it over to Lietzka. "Here," he says. "this came in the mail for you. I don't recall you had told anyone that you had moved in with me, but it seems our dear government knows everything before I do."
 
@@ -224,13 +224,13 @@ A brief silence.
 
 You observe Hassel walk out the door and close it with a smash. Again, the noise makes you wince as you hear it's full blast in the headphones. You briefly take off your headphones and call the Party official at the headquarters he had visited before to instruct the same holding procedure as before. This time, to seed information about the exit visa. For now, let us say that approval will be provisionally granted on grounds of good behavior, but to expect additional duties to the State in the future should he want to conserve his standing.
 
-Can't be beating him with a stick all day, otheriwse it would get in the way of the ongoing investigation.
+Can't be beating him with a stick all day, otherwise it would get in the way of the ongoing investigation.
 
 As you were talking in the phone to the part official, you see the blinking light of the surveilled telephone light. Someone is using the phone line and you're not surveilling.
 
 You try to pick up the headphones in time to write down something in the report, but there's only silence in the wire, and the light has turned off. Rats. A missed phone call. <- Red herring clue all negative
 
-About ten seconds later, you observe that the wire tap comes alive again, as Leitzka has another conversation. From context clues, you cannot really tell who is on the other side. Previous surveillance does not report that Leitzka has any friends or family in state to contact besides Hassel, and the person on the phone sounds nothing like him. The inerlocutor sounds like an older woman, in her fourties, with some kind of throat issue. She will be designated as Anonymous:
+About ten seconds later, you observe that the wire tap comes alive again, as Leitzka has another conversation. From context clues, you cannot really tell who is on the other side. Previous surveillance does not report that Leitzka has any friends or family in state to contact besides Hassel, and the person on the phone sounds nothing like him. The interlocutor sounds like an older woman, in her forties, with some kind of throat issue. She will be designated as Anonymous:
 
 Leitzka: It's me.
 
@@ -278,7 +278,7 @@ Luckily for you, the upgrade on surveillance in Hassel's apartments provided the
 
 "You knew what the risks were beforehand, Ladybird." Sonia chides. "I remember offering you a better alternative, but you decided to do it your way."
 
-"I'm aware, Sonia. I thought his remembering me in school was something to captialize on. I mean, look around, does it look like he was going to be any trouble?" Letizka responds.
+"I'm aware, Sonia. I thought his remembering me in school was something to capitalize on. I mean, look around, does it look like he was going to be any trouble?" Letizka responds.
 
 "Oh I can see, Ladybird." Sonia says, in between sips of a cup of tea. "All that is gold does not glitter-"
 
@@ -296,7 +296,7 @@ With this statement, Sonia stands up, and leaves the apartment. You scramble to 
 
 Option A
 
-You leave the Field Office as quietly as you can to have a smoke outside the flats and catch a glimpse of this character. Surely enough, twenty seconds later you observe this oddly dressed woman leave the building. Her wide brimmed hat obscures the view, most likely a luxury item from the Intershop. Definitely in her forties, with caked on makeup, tired brown eyes, and pursed lips. She walks past you as you draw on a cigarrette, your lungs catching on fire. You had not picked up the habit, and it took every fiber of your being not to start a coughing fit there and then. As she turned around the corner, you cough like a chimney, go back into the Field Office, sketch her likeness and enter it into the archive. (should carry big risk / big reward clue)
+You leave the Field Office as quietly as you can to have a smoke outside the flats and catch a glimpse of this character. Surely enough, twenty seconds later you observe this oddly dressed woman leave the building. Her wide brimmed hat obscures the view, most likely a luxury item from the Intershop. Definitely in her forties, with caked on makeup, tired brown eyes, and pursed lips. She walks past you as you draw on a cigarette, your lungs catch on fire. You had not picked up the habit, and it took every fiber of your being not to start a coughing fit there and then. As she turned around the corner, you cough like a chimney, go back into the Field Office, sketch her likeness and enter it into the archive. (should carry big risk / big reward clue)
 
 Option B
 
@@ -320,7 +320,7 @@ You observe Hassel move away from view, and descend two floors to enter his flat
 
 "So, it truly seems to be an honest mistake what happened." He says triumphantly.
 
-"Oh. is that so?" Leitzka asks, nonchalant. It's clear Lietzka does not belive Hassel.
+"Oh. is that so?" Leitzka asks, nonchalant. It's clear Lietzka does not believe Hassel.
 
 "Many a man can save himself if he admits he's done wrong and takes his punishment, as Ibsen would say." Hassel says, jubilant. "Even the great Party tars and feathers the wrong man once in a blue moon, how auspicious that it would be me... and you!" You observe that Hassel has not understood that he is not trusted.
 
@@ -340,7 +340,7 @@ After a brief and awkward silence, you observe Hassel trying to curry Leitzka's 
 
 Lietzka finishes with housework and eat dinner with chitchat that is not relevant to the investigation.
 
-Later that evening, they retire to Hassel's chamber where the microphone audio suggests undressing and the noises and grunts halmark of a prelude to copulation.
+Later that evening, they retire to Hassel's chamber where the microphone audio suggests undressing and the noises and grunts hallmark of a prelude to copulation.
 
 You hear Leitzka ask "Say Albert, if you got the visa tonight and... you could go anywhere. Where would you go?
 
@@ -366,7 +366,7 @@ Surveillance starts at 0500 hours on Friday, March 12th.
 
 In the early morning you get a report from Division XIX that there was no veto on file for the gag placed on Hassel and Letizka for that package that had arrived on Wednesday the 10th.
 
-Nobody in the Division even had a a record of the package in question, which was surprising considering that the surveillance operation had started at a higher level in the chain-of-command than usual State Security work on suspects for sedition and dessertion. The package may have been sent before the gag order, but the package would have at least have had a record of recipt and transfer at the local Post Office, a record that should not have been expugned since those last up to three months. Nobody dropped the package personally, since that would have been caught on surveillance, and the person who would do it immediately detained and interrogated.
+Nobody in the Division even had a a record of the package in question, which was surprising considering that the surveillance operation had started at a higher level in the chain-of-command than usual State Security work on suspects for sedition and desertion. The package may have been sent before the gag order, but the package would have at least have had a record of receipt and transfer at the local Post Office, a record that should not have been expunged since those last up to three months. Nobody dropped the package personally, since that would have been caught on surveillance, and the person who would do it immediately detained and interrogated.
 
 Which meant that somebody within either the structure of the Ministry or the Party itself made sure to deliver the package without any tracking or tracing. <- Clue
 
@@ -398,13 +398,13 @@ You observe Hassel inquire Leitzka about a vacation. "Say Nadine, what agrees wi
 
 Lietzka sits up and after a brief silence she responds, "I don't believe this. You actually trust them, don't you?" She says.
 
-"They look out for us, Nadine. Sometimes they might be a bit unpallatable or brutish, but it's all well and good." Hassel says, with a bit more firmness.
+"They look out for us, Nadine. Sometimes they might be a bit unpalatable or brutish, but it's all well and good." Hassel says, with a bit more firmness.
 
 Lietzka starts laughing in response. First a bit softly, then raising up in volume to a sort of cackle. This has Hassel stunned since you observe he has stopped moving or speaking. After she's done cackling, she breathes in heavily and stands up. "Enjoy your breakfast, Albert. I'm not hungry anymore." she says before going back to the bed chamber.
 
 "Wait, wait, w-wait. Nadine? Wh-where are you going?" Hassel inquires with a tinge of nervousness.
 
-Leitzka doesn't respond until she emerges from the halway, dressed up. "A couple of days ago, I asked myself. Now I know. I can't really trust you, Albert. Can't trust you to keep to yourself, can't trust you to do something righ, I can't even trust you to have thoughts made on your own."
+Leitzka doesn't respond until she emerges from the hallway, dressed up. "A couple of days ago, I asked myself. Now I know. I can't really trust you, Albert. Can't trust you to keep to yourself, can't trust you to do something right, I can't even trust you to have thoughts made on your own."
 
 "What's that supposed to mean? What is all this out of the blue, Nadine?" Hassel asks, increasingly incensed.
 
@@ -412,9 +412,9 @@ Leitzka doesn't respond until she emerges from the halway, dressed up. "A couple
 
 Hassel, enraged, stands up from the kitchen and confronts Leitzka.
 
-"Perhaps I made a mistake of my own," Albert says "because I really trusted you. I truly did." This gets a surprise out of Leitzka. "I thought finding you was an act of divine providence, I got to see the girl I loved when I was just a scholboy and do all the things I desperately wanted to do back then. I should have know better -- better than to allow you to live with me."
+"Perhaps I made a mistake of my own," Albert says "because I really trusted you. I truly did." This gets a surprise out of Leitzka. "I thought finding you was an act of divine providence, I got to see the girl I loved when I was just a schoolboy and do all the things I desperately wanted to do back then. I should have know better -- better than to allow you to live with me."
 
-Leitzka truns around without saying a word and dissappears out of the camera frame. "Yes, Nadine. Please! Run away, run away like you always do. Like you do in your 'visits to the cafeteria'. I asked the cashier about you to make small talk, and you would never guess what happened? She has never heard of you! Ever! I just assumed you went out of your way to go to another coffee shop I don't know about, silly me! I asked Laurie about you, and she said you had not seen each other in three months! Sily me, maybe we are talking about different Lauries, convenient!" Hassel lashes out. <- Leitzka covertly leaves the flat without a known destination.
+Leitzka turns around without saying a word and disappears out of the camera frame. "Yes, Nadine. Please! Run away, run away like you always do. Like you do in your 'visits to the cafeteria'. I asked the cashier about you to make small talk, and you would never guess what happened? She has never heard of you! Ever! I just assumed you went out of your way to go to another coffee shop I don't know about, silly me! I asked Laurie about you, and she said you had not seen each other in three months! Silly me, maybe we are talking about different Lauries, convenient!" Hassel lashes out. <- Leitzka covertly leaves the flat without a known destination.
 
 "Oh God, don't speak that woman's name in my presence again, Albert! That woman has a wet sponge for a brain!" Leitzka snaps back from a location away form the cameras, presumably the bedroom they both share.
 
@@ -422,9 +422,9 @@ Leitzka truns around without saying a word and dissappears out of the camera fra
 
 Lietzka comes into the living room again and slaps Hassel across the face. You observe Hassel taken aback, completely caught off guard. A brief silence is exchanged between the two of them.
 
-"I-I-I'm leaving, Albert. We're through. I wish I had never given you my book to read, or my pamphlets for that m-matter. When you walk out that door, and go see your party w-whatever, I will have left. Yes... yes. I will have left." Leitzka stammered through that, but as she kept deliniating her plans, she became resolute. <- Wealth of Nations copy is owned by Nadine Leitzka.
+"I-I-I'm leaving, Albert. We're through. I wish I had never given you my book to read, or my pamphlets for that m-matter. When you walk out that door, and go see your party w-whatever, I will have left. Yes... yes. I will have left." Leitzka stammered through that, but as she kept delineating her plans, she became resolute. <- Wealth of Nations copy is owned by Nadine Leitzka.
 
-You observe Hassel staring at her, and they exchange another brief silence. Hassel's facial expressions are not intelligible through the camera, but it is a safe bet he is processing Leitzka's words. "The moment I saw those leaflets from United Left I should have dropped you at the police station. But, I will keep my silence, and I should caution you to keep yours." He finally says coldly. <- Hassel did not report Leitzka, however Leitzka is in the posession of directly subversive literature.
+You observe Hassel staring at her, and they exchange another brief silence. Hassel's facial expressions are not intelligible through the camera, but it is a safe bet he is processing Leitzka's words. "The moment I saw those leaflets from United Left I should have dropped you at the police station. But, I will keep my silence, and I should caution you to keep yours." He finally says coldly. <- Hassel did not report Leitzka, however Leitzka is in the possession of directly subversive literature.
 
 "You know, I had it all planned out for us," Hassel says softly, just above the threshold for microphone pick up. "No," Leitzka responds "not far enough. Not nearly far enough. I thought we could leave, together. But you're afraid, too afraid. And, I don't blame you."
 
@@ -436,9 +436,9 @@ You observe Leitzka appearing again on camera, leaving through the front door of
 
 Alone in his apartment Hassel starts destroying his belongings, loudly crashing and banging everything he can see. It's quite annoying to listen to, let alone observe "Nadine! Nadine!" He screams. Of course, nobody responds.
 
-After approximately an hour later, his belongings mostly broken or dented, he sits on the sofa in silence, and opens a cabinet next to him. Form it he produces a cigarrette pack, a lighter, and a small porcelain dish. You observe him light up a cigarrette and smoke it in silence.
+After approximately an hour later, his belongings mostly broken or dented, he sits on the sofa in silence, and opens a cabinet next to him. Form it he produces a cigarrette pack, a lighter, and a small porcelain dish. You observe him light up a cigarette and smoke it in silence.
 
-After finishing his cigarrette, you observe him pick up the phone and let it produce the open line tone. He starts speaking into the telephone as if somebody was on the other line, when there isn't. His breath is labored, presumably from the cigarrette he just smoked.
+After finishing his cigarette, you observe him pick up the phone and let it produce the open line tone. He starts speaking into the telephone as if somebody was on the other line, when there isn't. His breath is labored, presumably from the cigarette he just smoked.
 
 Hassel: Are you listening? Of course you are, you are the State Security. Are you enjoying this? Did you watch me an Nadine going at it? Did you watch us eat breakfast and watch television? I hope it was worth it, I hope you got something out of it as much as you did you damn perverts. Always looking, always watching, I do wonder when did I catch your attention. Was it when she came in the apartment? Was it when she gave me that book to read? You know something, I loved it. I loved reading about, I loved reading about how you could actually make something out of yourself instead of being a bug under the thumb made by a million bureaucrats. I work, and I work.... and I work until I'm a ragged doll and I will get a scoop of mud and a punch to the head for my troubles. But it's not enough is it? It's not enough for you, you also have to drink from my cup and eat from my plate, and watch me, watch me, watch us all take a dump, fall in love, have a thought. Watch us forever. Nadine wanted to leave so bad... Maybe I'd like to go too... To a place you can't find me, you can't watch me, you can't hear me you... You --hnnng-- f-f-f-fffuck-fucking professional perverts in the Stasi. Fuck you, fuck you all to hell.
 
@@ -446,6 +446,6 @@ The one-sided conversation ended there.
 
 You put in a word at the local constabularies for the detainment of Albert Hassel should he exit a 30 meter perimeter from the flats. He is also at flight risk, and you phone the State Security constabulary to assemble a squad for Hassel's detainment should he attempt to leave the premises.
 
-At 0915 hours, you recieve confirmation of the preliminary detainment of Nadine Leitzka. She is being held in a low-risk cell at Hohenschönhausen. Which is perfect since that's the end of surveillance operations. Given that both of the subjects of surveillance have order for detention, cover surveillance is no longer advisable nor necessary. You take your last notes and start putting together the case files.
+At 0915 hours, you receive confirmation of the preliminary detainment of Nadine Leitzka. She is being held in a low-risk cell at Hohenschönhausen. Which is perfect since that's the end of surveillance operations. Given that both of the subjects of surveillance have order for detention, cover surveillance is no longer advisable nor necessary. You take your last notes and start putting together the case files.
 
 You give orders to the Field Office to detain Hassel if he attempts to leave the premises, and to detain him anyway if he didn't come out of his flat in two hours time. It was time to assemble all the evidence since gathered and to make the final determination as to who to keep in containment and who to let go of.

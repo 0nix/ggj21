@@ -100,7 +100,6 @@ const script = {
     "f1b":`[say]Lieutenant Bryce grunts in agreement. "If this were a year or two ago, Brownie, I wouldn't even bother with it. But I'm in no mood to anger Sargeant Bayer with warrantless arrests, and if I were you I wouldn't want to do that either. The Party wants results, not just a bunch of John Q Publics locked up eating and doing nothing," he says. That bit about our Party, he said it quite mockingly.`,
     "f2b":`[say]He stops a moment and looks at you in the eye, "I agree with you Brownie, as much as I'd like to simply arrest the man, we will need enough evidence for a formal arrest in three days and you will provide it Brownie. That's it."`,
     "f3b":`[add{lambda_leader_player}]1`,
-    "f4b":"[add{lambda_super_player}]-1",
     "f5b":"[jmp]g1a",
     "f1c":`[say]Lieutenant Bryce grunts, annoyed. "If this were a year or two ago, Brownie, I wouldn't even bother with it. But I'm in no mood to anger Sargeant Bayer with warrantless arrests. After all, the Party wants results, as if we didn't get them already." Spite laced his last words.`,
     "f2c":`[say]He stops a moment and looks at you in the eye, "As much as I'd like to simply arrest the man, Bayer won't have it. And, as it so happens, you will have to make his well wishes and fairy tales into reality. We will need enough evidence for a formal arrest in three days and you will provide it Brownie."<br/><br/>He paused just to let that sting in a bit deeper. "No pressure, though." Bryce snides.`,

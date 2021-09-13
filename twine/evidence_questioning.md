@@ -958,6 +958,8 @@ You say that Leitzka would have a vested interest to say anything to save her ow
 
 ### 4.4 Conclusions
 
+(If no evidence is accepted, play the no evidence ending. I'm tired of people not engaging at this stage in the game.)
+
 (No conclusion. Jump to corresponding ending.)
 
 ## Endings

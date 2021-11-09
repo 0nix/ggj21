@@ -36,6 +36,8 @@
     <section class="modal-card-body">
         <p>Game Design, Game Scenario, Game and Tool Development, Art, and Music</p>
         <p>by Asobu Lab</p>
+        <p>Story Consultancy</p>
+        <p>by <a class="choices" href="https://www.densetsuproductions.com/" target="_blank">Densetsu_VII</a></p>
         <br/>
         <p>With special thanks to: Global Game Jam, The GitGud Group, ThatMaestroGuy, WreckoGekko, SlotterOtter, Aarón Cortés, Devin McCullough, Stevenson Streeper, Marco Antonio Solís, my parents, my Twitch followers, and you for playing my game.</p>
         <br/>

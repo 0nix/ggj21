@@ -1,12 +1,12 @@
-You arrive to the surveillance site, a five-story building in Friedrichsfelde, within a surprisingly a short distance from Headquarters. Mostly brown, with a few blotches of colors in the windows from the furnishings of the tenants. Room 6 is the field office. On paper, it's where a pensioner resides. A lifetime of service to the Party has given her free lodgings, free food, free everything. That is, as long as she keeps to all of ten square meters and the rest of the house functions as an outpost for Division XIX. At least she gets something out of a lifetime of work.
+You arrive to the surveillance site, a five-story building in Friedrichsfelde, within a surprisingly short distance from Headquarters. It's mostly brown, with a few blotches of colors in the windows from the furnishings of the tenants. Room 6 is the field office. A pensioner resides there, on paper. A lifetime of service to the Party has given her free lodgings, free food, free everything. That is, as long as she keeps to all of ten square meters, while the rest of the house functions as an outpost for Division XIX. A reward for a lifetime of work.
 
-You hand in your paperwork and you are led to a dark room lit only by the glow of the tube monitors, and the blinking lights of recording equipment. A desk populated by cathode-ray-tube, long reel recorders, plenty notebooks and pens, a typewriter, and a standard issue Ministry of State Security pair of headphones that could masticate your entire head if they were alive.
+You hand in your paperwork and you are led to a dark room lit only by the glow of the tube monitors, and the blinking lights of recording equipment. A desk populated by cathode-ray-tube monitors, long reel recorders, plenty of notebooks and pens, a typewriter, and a standard issue Ministry of State Security pair of headphones that could masticate your entire head if they were alive.
 
-The two bedroom flat is located a few floors above you, and is fitted with two cameras, the kitchen and the living room. The phone line bugs are active, as is standard issue ten-millimeter microphones dotted in every room. It was weird for a subject that was previously not considered a threat to the state to have video surveillance, but it appears Sessler had gone ahead of you in operations and installed them anyway. Preliminary surveillance before your addition to the team stated that at least one occupant constantly remained in the house, namely this Nadine Lietzka. Not odd for a housewife, however to your knowledge Ms. Leitzka was not married to Mr. Hassler. While it's not illegal for couples to occupy the same dwelling, it still raises some eyes from older agents at entry-level surveillance. As much as the Party wants to avoid it, society is like a river: It changes and flows.
+The two bedroom flat is located a few floors above you, and is fitted with two cameras, the kitchen and the living room. The phone line bugs are active, with standard issue ten-millimeter microphones dotted in every room. It was quite uncommon for a subject that was previously not considered a threat to the state to have video surveillance, but it appeared Sessler had gone ahead of you in operations and installed them anyway. Preliminary surveillance states that at least one occupant constantly remained in the house, namely this Nadine Lietzka. Not odd for a housewife, however Mr. Hassel never claimed Ms. Leitzka as a dependant. While it's not illegal for couples to occupy the same dwelling, it still raises some eyes from older agents at entry-level surveillance.
 
-Your long watch begins, as you sit down on the metal chair provided to you, and, by the light of television, you lay in wait to observe and record.
+Your watch begins, as you sit down on the metal chair provided to you, and, by the light of the monitor, you lay in wait to observe and record.
 
-Observe and record. You are the Sword and Shield of the State.
+This is your job, observe and record. You are the Sword and Shield of the State.
 
 #### Day 1
 
@@ -14,29 +14,25 @@ Surveillance starts at 1500 hours on a Tuesday, March 9th.
 
 You observe Nadine Leitzka, washing dishes in the kitchen. She hums a tune you can't quite make through the microphone and the noise of the rushing water.
 
-You observe Leitzka opening the fridge to produce two baked hams and proceeds to cut slices from them, preparing food. <- Of note, these baked hams have been on short supply in stores due to production goals changing from hams to sausages, which means that this foodstuff may not have been bought from local industry. This would mean they got it at an Intershop selling Western goods, but the price of each foodstuff does not quite match the amount of money paid to Hassel. Leitzka is currently not gainfully employed either. So the origin of these two portions of ham is not explained by the current circumstances.
+She opens the fridge to produce two baked hams and proceeds to cut slices from them, preparing food. Leitzka then turns on the radio and start drinking coffee, Cuban. <- Of note, these baked hams have been on short supply in stores due to production goals changing from hams to sausages. This foodstuff may not have been bought from local industry. This would mean they got it at an Intershop selling Western goods, but the price of each ham does not seem reasonable for the salaries reportedly paid to Hassel. Leitzka is currently not gainfully employed either. So the origin of these two portions of ham is not explained by the current circumstances.
 
-You observe Leitzka turn on the radio and start drinking coffee, Cuban.
+She finishes her coffee, and she leaves the kitchen and go into the hallway where there are no cameras to continue surveillance, analysis of the noises from audio match normal bathroom bodily activities. Audio analysis is difficult due to the sound of the radio drowning out the unseen activity. She continues to be away from camera view, presumably having left the bathroom and stay in one of the two bedrooms of the residence. Audio analysis is inconclusive as to what she is doing, again, due to the sound of the radio in the kitchen. <- Common activity of citizens, whether on direct surveillance or not is to attempt to drown out their noises beneath the sounds of radio and television. This practice could be of note on a subject for subversion.
 
-You observe Leitzka leave the kitchen and go into the hallway where there are no cameras to continue surveillance, analysis of the noises from audio match normal bathroom bodily activities. Audio analysis is difficult due to the sound of the radio drowning out the unseen activity.
+The door opens on the camera feed pointing to the living room, in comes another individual, presumably Mr. Hassel. "Albert?" Leitzka asks from a room that is not in view of the surveillance equipment. "I'm home, dear!" the man answers in a chipper tone. Confirmed the individual to be Albert Hassel. He greets Lietzka with brief kiss on the cheek, takes his coat off and leaves it by one of two sofas in the living room. <- This is non-standard, however Hassel's dossier does denote that he did buy off a certain cadre of items from a friend who moved away to an unspecified location on assignment. One of these items might be the sofa.
 
-You observe Leitzka continues to be away from camera view, presumably having left the bathroom and stay in one of the two bedrooms of the residence. Audio analysis is inconclusive as to what she is doing, again, due to the sound of the radio in the kitchen. <- Common activity of citizens, whether on direct surveillance or not is to attempt to drown out their noises beneath the sounds of radio and television. This practice could be of note on a subject for subversion.
+You observe Hassel sit on the sofa, relaxing his belt buckle. He motions towards the radio. "Could you turn that thing off, Nadine? I grow tired of the same shrill voice saying the same things over and over." Lietzka complies, and turns the radio off. Audio analysis is no longer a challenge. <- Manifest dislike of newscaster may be a small but concrete sign of dissatisfaction, not enough to signal acitonable offenses, but tells of his state of mind.
 
-The door opens on the camera feed pointing to the living room, in comes another individual, presumably Mr. Hassel. "Albert?" Leitzka asks from a room that is not in view of the surveillance equipment. "Yes Nadine, it's me." the man answers. Confirmed the individual to be Albert Hassel.
+*Insert some small talk about work Q1*
 
-You observe Hassel greet Lietzka, take his coat off and leave it by one of two sofas in the living room. <- This is non-standard, however Hassel's dossier does denote that he did buy off a certain cadre of items from a friend who moved away to [REDACTED] on assignment. One of these items might be the sofa.
+"Which reminds me," Lietzka inquires. "Have you gotten any news from Customs?"
 
-You observe Hassel sit on the sofa, relaxing his belt buckle. "Could you turn that thing off, Nadine? I grow tired of the same shrill voice saying the same things over and over." Lietzka complies, and turns the radio off. Audio analysis is no longer a challenge. <- Manifest dislike of newscaster may be a small but concrete sign of dissatisfaction, not enough to signal acitonable offenses, but tells of his state of mind.
+"Ugh," Hassel grunts. "No, let's not talk about that right now Nadine. I have had enough with Gerhart's prodding and pulling and all these-- these little grubby things that get in the way of accomplishing anything in a single day of work." Lietzka stands by the kitchen door, arms crossed. She is not satisfied with Hassel's evasive answer. After a brief moment of silence, Lietzka storms off to the kitchen, and throws the meal on a plate. She comes back to the living room and slams it in front of Hassel. The noise is very sharp. It stings to hear through the headphones.
 
-"So," Lietzka inquires. "Have you gotten anything back from State Security? You know, for the exit visas?"
+"Hey, hey, hey! Could you have a tantrum with your own belongings, Nadine? You know, instead of mine?" Hassel chides, as he grabs the plate and a fork to eat.
 
-"Ugh," Hassel grunts. "No, let's not talk about that right now Nadine. I have had enough with Gerhart's prodding and pulling and all these-- these little grubby things that get in the way of accomplishing anything in a single day of work." Lietzka stands by the kitchen door, arms crossed. She is not satisfied with Hassel's evasive answer. After a brief moment of silence, Lietzka storms off to the kitchen, throws the meal on a plate, then comes back to the living room and slams it in front of Hassel on the living room table. The noise is very sharp. It stings to hear through the headphones.
+"I don't believe I asked you about that grubby boss of yours, Albert. I don't want to think about that ghastly tobacco smell." Leitzka snarls back. "I am asking about the visas, for you, and me. I have been asking, over, and over, and over. I've been asking for three months now, you know. Laurie from a floor above only had to wait for a month, Albert. Quite frankly I don't understand why am I more upset than you, since the Ministry is clearly interrogating your... kindergarten teacher or something."
 
-"Could you have a tantrum with your own belongings, Nadine? You know, instead of mine?" Hassel chides, as he grabs the plate and a fork to eat.
-
-"I don't believe I asked you about that grubby boss of yours, Albert. I don't want to think about that man's smell of week-old tobacco." Leitzka snarls back. "I am asking about exit visas, for you, and me. I have been asking for exit visas for three months now. Laurie from a floor above only had to wait for a month, Albert. Quite frankly I don't understand why am I more upset than you, since the Ministry is clearly interrogating your... kindergarden teacher or something."
-
-Hassel sighs in exasperation, and speaks in between chews. "Look, I don't know what to tell you. I have gone to my nearest State Security Office, you know, the one by the movie theater?" Lietzka nods in agreement. "Been going three times a day since I put in the papers to get exit visas. The man at the door already knows me by name, for God's sake. And it's always the same answer, no matter what."
+Hassel sighs in exasperation, and speaks in between chews. "Look, I don't know what to tell you. I have gone to the local office, you know, the one by the movie theater?" Lietzka nods in agreement. "Been going three times a day since I put in the papers to get exit visas. The man at the door already knows me by name, for God's sake. And it's always the same answer, no matter what."
 
 "Your petition is currently being reviewed by Security authorities, an ongoing petition is not a substitute for a visa." Nadine recites as if out of a prayer book.
 
@@ -44,23 +40,25 @@ Hassel sighs in exasperation, and speaks in between chews. "Look, I don't know w
 
 Leitzka chuckles as she pulls a chair from the kitchen to sit at a ninety-degree angle from Hassel. "Oh you, don't say that," she says in a playful tone "at this point saying any party member is less than an Adonis might be a crime and... you never know who's listening."
 
-"I don't know what is with the Ministry," He says, returning the couch to finish his plate. "I ask for something that I have a right to ask for. I have never done or said anything against doctrine. I attend every meeting of my local chapter, I am a volunteer tutor for the school... I may not be a chipper beaver inside the Party, but I haven't done anything wrong either! Security's just run by a nut job. As it always has." <- Subversive attitude against the State apparatus detected.
+"I don't know what is with the Ministry," He says, returning to the couch to finish his plate. "I am asking for something that I have a right to ask for. I have never done or said anything against doctrine. I attend every meeting of the local chapter, I am a volunteer tutor for the school... " He brings his hands to his face and lets out a loud sigh.  "I j-just, I. I don't know what else they want me to do. Security's where we put the nut jobs, it's always been that way."
 
-"Don't lie, Albert." Leitzka says. "It's not every single Party meeting."
+"It's not every single meeting." Nadine says lightly, with a chuckle. "You're missing the Women's League ones for sure."
 
-"Well, neither does 's husband. No, no, h-he-he gets his things the old fashioned way, from a cousin of someone up in Border Troops high command. It's all the same everywhere, all the time. Some Party we got, eh." Hassel, says.
+Hassel laughs. "Ah~! That being the case I can assure you, neither does Laurie's husband. No, no, h-he-he gets his things the old fashioned way, from a cousin of someone up in Border Troops high command. It's all the same everywhere, all the time. Some Party we got, eh?" <- Subversive attitude against the State apparatus detected.
+
+"By the will of the people... and all that." Leitzka agrees, barely loud enough for you to make out. 
 
 Leitzka mouths something that is not visible to the camera, nor loud enough to make out.
 
 "Let's watch some television, Nadine. Ok?" Hassel says as you observe him reach out to Leitzka's shoulder, she responds leaning into him.
 
-You observe both of them sit on the sofa and turn on the television set. They watch television in silence for the following two hours, without much to note or observe.
+You observe both of them sit on the sofa and turn on the television set. They watch television in silence for the following two hours, without much to note or observe. The broadcast they watched was state-produced, a variety show with singers and artists.
 
-You observe Hassel break the silence. "I wish you'd tell me what's the rush in getting an exit visa. I know it's important, but these things th-the-they take time."
+You observe Hassel break the silence. "I wish you'd tell me what's the rush. I know it's important, but these things th-the-they take time."
 
-"I hope you're not one of those tattletale stooges in the Party who tell on every Dick and Jane in hopes to get a promotion. You're in too deep for that. I just want to leave in the same train you do."
+"I hope you're not one of those tattletale stooges. I just want to leave in the same train you do."
 
-You observe that after this conversation, Hassel does not say a word. Neither does Leitzka. They both retire to their rooms, with no further activity of note.
+After this conversation, Hassel only reacts to the program in short sentences. Leitzka, however, remains silent. They both retire to their rooms, with no further activity of note.
 
 #### Day 2
 
@@ -68,15 +66,17 @@ Surveillance start at 0500 hours on Wednesday, March 10th.
 
 Hassel wakes up at 0630 hours, followed by Lietzka shortly thereafter.
 
-You observe subjects Lietzka and Hassel exchange pleasantries over breakfast prepared by Lietzka. From the objects observed to be taken from the refrigerator, it is an egg-based breakfast. More to follow. Casual conversation follows, over the morning radio broadcast.
+You observe subjects Lietzka and Hassel exchange pleasantries over breakfast prepared by Lietzka. From the objects observed to be taken from the refrigerator, it is an egg-based breakfast. Casual conversation follows, over the morning radio broadcast. 
 
-At around 0730, you observe a phone call is made to Hassel's residence. Previous surveillance indicates the call is from The People's Electronics Fabricant, approximately 700 meters away from the Hassel surveillance site, Hassel's workplace. On the other line is Hassel's boss, citizen Gerhart Kleiner, Head of Day-Shift Production. The conversation is as follows:
+*Q2 Insert*
 
-Hassel (H): This is Albert Hassel, number HXT9115. To who am I speaking?
+At 0734 hours, you observe a phone call is made to Albert Hassel's residence. Previous surveillance indicates the call is from The People's Electronics Fabricant, approximately 700 meters away from the Hassel surveillance site, Hassel's workplace. On the other line is Hassel's boss, citizen Gerhart Kleiner, Head of Day-Shift Production. The conversation is as follows:
+
+Hassel (H): This is Albert Hassel, number HX... tee-tee-tee nintey-one fifteen. To who am I speaking?
 
 Kleiner (K): Yes, Hassel. This is Kleiner, I need to speak to you about the papers you submitted for a promotion. I don't know what dirt you have on that blowhard Mayer, but it worked. You will be promoted to Engineer Team Lead, beginning next semester.
 
-H: Ah, Mr. Kleiner! That is the best news I have heard in a long time.
+H: Ah, M-mi-mister Kleiner! That is the best news I have heard in a long time.
 
 K: Yeah, yeah. Probably you should start packing but not quickly, who knows when Housing is going to assign you your new flat. Even though they should. Don't get too comfortable though, the Party is breathing down my neck.
 
@@ -84,15 +84,15 @@ H: How so?
 
 K: Well, you haven't been a good enough boy, Hassel. What do you want me to say? You're a no-show at your local Party meetings, and even if you say you tutor children as volunteer work that's not going to be enough in your new position. You know, they might actually block your promotion if you don't show your face around at least.
 
-H: Oh c'mon Kleiner, a man's got to have some peace and quiet! I get back home, and I have cook my meals, sweep my floors... I got things to do other than sit every week for two or three hours to hear some patsy from Berlin-
+H: Oh c-c-c-c'mon Kleiner, a man's got to have some peace and quiet! I get back home, I cook my meals, I sweep m-m-m-my floors... I've got things to do other than sit every week for two or three hours to hear some patsy from Berlin-
 
-K: Don't you be starting now, you never know who's listening. At any rate, the Party wants your face in their offices as soon as possible. Have something to hand them, anything will do.
+K: Don't you start now, you never know who's listening. At any rate, the Party wants your face in their offices as soon as possible. Have something to hand them, anything will do.
 
-H: That how you got ahead Mr. Keliner? Making stuff up and hoping nobody catches on?
+H: Is that how you got ahead Mr. Klei-Kkk-Kleiner? Making stuff up and hoping nobody catches on?
 
 K: I swear to God boy, it's like you're begging to be taken away. I am not answering that.
 
-H: My mistake, my mistake. I got some legitimate to show at the Party offices so I'll pop over there after I'm done working.
+H: My mistake, m-m-my mistake. I've got to show up at the Party offices so I'll pop over there after I'm done working.
 
 K: Nah, we're so close to _meeting_ our production quotas for the year it isn't worth it to even turn on the machines. Leadership decided to give the day off to everyone, and I'd rather save you the nasty surprise of coming to the factory to an empty floor. It's probably going to take you the whole day at the Party offices anyway.
 
@@ -100,25 +100,25 @@ H: Really? How is everyone else going to know the factory's closed?
 
 K: Does that sound like my problem, Hassel? I am giving you a courtesy call, that should be enough for you.
 
-H: That's fine Kleiner, always a pleasure talking to you and thank you for the heads up.
+H: That's fine Klei-Kleiner, always a pleasure talking to you and thank you for the heads up.
 
 Before hanging up, the microphone on the phone picks up Hassel muttering "Little tyrant..." <- Prospect for a promotion does not really reflect a subersive element for the integrity of the State.
 
 You observe Lietzka take notice of the conversation that just transpired. "Good news, from the looks of it." She comments.
 
-Hassel sits down and takes a bite of his nondescript breakfast. "Uhm, yes. Looks like I will be getting a promotion come June. Before that I have to make good with the Party. If I show up we might actually see those exit visas, finally." He responds.
+Hassel sits down and takes a bite of his nondescript breakfast. "Uhm, yes. Looks like I will be getting a promotion come June. Be-Be-Before that I have to make good with the Party. If I show up we might actually see those exit visas, finally." He responds.
 
-"Well that's dandy." Lietzka says. This is the first time you have observed her smile since coming across her dossier and surveillance started. "I guess you and that Gerhart made like thieves with the production numbers, if they're so good they're giving off holidays like they were bargains." She comments. <- Lying about meeting production quotas is a serious offense and classified as a cause for sedition accusations. However, the investigation to prove subversion to the state through industry will not suffice the needs of the surveillance investigation.
+"Well that's dandy." Lietzka says in a conspiratorial tone, like she was a child plotting to skill candy. "I guess you and that Gerhart made like thieves with the production numbers, if they're so good they're giving off holidays like they were bargains." She comments. <- Lying about meeting production quotas is a serious offense and classified as a cause for sedition accusations. However, the investigation to prove subversion to the state through industry will not suffice the needs of the surveillance investigation.
 
 "For once, would it kill you to be happy for me Nadine?" Hassel says, with a tinge of annoyance. "We have our numbers, everyone at the factory gets a new thing to put on their tables, and for once we're producing what we actually need to produce instead of brand new boards just sitting in warehouses where they won't go anywhere. Hon-hon-honestly, it frustrates me to no end seeing something I worked so hard on sit there doing... nothing. If there is a surplus of demand, then the market will adjust if it can't go anywhere."
 
-Leitzka smirks. "I see you've been reading lover-boy."
+Leitzka smirks. "I see you've been reading, lover-boy."
 
 Hassel chuckles. "Hey, it doesn't hurt to take a leaf from their book every now and then."
 
 Leitzka laughs lightly at that remark.
 
-Hassel finishes his breakfast and starts to walk out the door. "I will be gone probably all day, so don't wait for me. You could visit Laurie, actually. You told me you enjoy her company."
+Hassel finishes his breakfast and starts to walk out the door. "I will be gone probably all day, so don't wait for me. You could visit Laurie, actually."
 
 Leitzka looks dejected. "Yes, I guess..." Hassel then leaves the flat and exits the building.
 
@@ -126,25 +126,25 @@ You phone the Party offices near Hassel's residence to send a Telefax to report 
 
 You observe Letizka is the only person in the apartment. You observe her sit on the living room sofa and pull out a briefcase from under it. She opens it and starts shuffling around its contents. She ponders on a couple of items for a long period of time. From the faint noises you hear through the surveillance microphones, it seems that she is crying over the contents of this briefcase.
 
-You hear faint whispers, "One day, one day, one day" in between the sobs.
+You hear faint whispers, "One day, one day, one day..." in between the sobs.
 
 After around thirty minutes of silence and contemplation, Leitzka puts the briefcase back under the sofa and leaves the flat.
 
-Surveillance around the building, provided by the same Field Office, indicates that she did not visit her neighbor Laurie Weiss.One of the other agents in the Field Office noticed that she instead she decided to sit down at the nearby park and playground and pass the time in silence there. A perfect time to improve the surveillance equipment on the premises, and search for any materials that could build a case for the investigation.
+Surveillance around the building, provided by the same Field Office, indicates that she did not visit her neighbor Laurie Weiss. One of the other agents in the Field Office noticed that she instead she decided to sit down at the nearby park and playground and pass the time in silence there. A perfect time to improve the surveillance equipment on the premises, and search for any materials that could build a case for the investigation.
 
 You phone the local Coordination Office and ask for a team of surveillance setups at the earliest notice. The operation has the approval from Bayer to be top priority, so they assemble who they can and send them to you. In a matter of 10 minutes, you can hear the sirens of a modified fire truck, with a distinct variation in alarm pattern, meaning it's a Stasi covert car. Ten seconds later, the team knocks on the door of the Field Office, and present themselves to you, ready to work.
 
-Enter the flat.
+[Enter the flat.]
 
-The surveillance team enters the flat. At your direction, they install cameras in the remaining two bedrooms of the flat. As it happens, the map you were given was incorrect, and there is only one additional room that is not surveyed, and a bathroom that is not surveyed. Construction of the flat don't make it feasible to incorporate additional cameras without concealment in a reasonable amount of time, more microphones are placed in using the wires of existing equipment. On the living room there are two objects of interest. A book on top of the coffee table, and the briefcase Leitzka had taken from under the sofa.
+The surveillance team enters the flat. At your direction, they install cameras in the remaining two bedrooms of the flat. As it happens, the map you were given was incorrect, and there is only one additional room that is not surveyed, and a bathroom that is not surveyed. Construction of the flat does not make it feasible to incorporate additional cameras without concealment in a reasonable amount of time. As you look around the flat, more microphones are placed in using the wires of existing equipment. On the living room there are two objects of interest. A book on top of the coffee table, and the briefcase Leitzka had taken from under the sofa.
 
-Look at the book: The cover seems to indicate a perfectly normal cooking book, but one the dust jacket is removed, the true contents reveal themselves to be Freedom of Nations by Adam Smith. <- Hiding the contents of a published work is suspicious enough, the fact that it is western propaganda is even more disturbing. The publisher house on the first page of the cover is from a company in the West. This was clearly not produced here, nor was it authorized for sell in the Intershops. This is possession of unauthorized public goods.
+Look at the book: The cover seems to indicate a perfectly normal cooking book, but one the dust jacket is removed, the true contents reveal themselves to be Wealth of Nations by Adam Smith. <- Hiding the contents of a published work is suspicious enough, the fact that it is western propaganda is even more disturbing. The publisher house on the first page of the cover is from a company in the West. This was clearly not produced here, nor was it authorized for sale in the Intershops. This is possession of unauthorized public goods.
 
 Look at the briefcase: The briefcase reveals itself to be an assortments of various knick-knacks of personal significance to Leitzka. On top of the pile, two items of interest. You snap a picture for the evidence file.
 
 A picture: A faded, sepia tone picture of a woman holding two children. The picture seems to have been taken some time ago. You take out a pocket camera and snap a picture that will record what the photo is. Given that the picture was still somewhat warm, this is most likely the object Nadine Lietzka was crying over. <- Further analysis should uncover who these people are and how are they relevant to Lietzka.
 
-A scribbled map: A hastily scribbled diagram which is some sort of map on slight aged graphing paper. It seem to indicate a series of roads and sewer tunnels. You take out a pocket camera and snap a picture of that diagram. <- Sending the diagram for analysis should elucidate what is this location referring to.
+A scribbled map: A hastily scribbled diagram which is some sort of map on slightly aged graphing paper. It seem to indicate a series of roads and sewer tunnels. You take out a pocket camera and snap a picture of that diagram. <- Sending the diagram for analysis should elucidate what is this location referring to.
 
 You return the objects to their previous state and exit the premises with care to not have been seen inside or leave any trace of yourselves.
 
@@ -222,7 +222,7 @@ A brief silence.
 
 "Yes, Albert. I do understand now. I understand completely." Lietzka says in a deadpan tone.
 
-You observe Hassel walk out the door and close it with a smash. Again, the noise makes you wince as you hear it's full blast in the headphones. You briefly take off your headphones and call the Party official at the headquarters he had visited before to instruct the same holding procedure as before. This time, to seed information about the exit visa. For now, let us say that approval will be provisionally granted on grounds of good behavior, but to expect additional duties to the State in the future should he want to conserve his standing.
+You observe Hassel walk out the door and close it with a smash. Again, the noise makes you wince as you hear its full blast in the headphones. You briefly take off your headphones and call the Party official at the headquarters he had visited before to instruct the same holding procedure as before. This time, to seed information about the exit visa. For now, let us say that approval will be provisionally granted on grounds of good behavior, but to expect additional duties to the State in the future should he want to conserve his standing.
 
 Can't be beating him with a stick all day, otherwise it would get in the way of the ongoing investigation.
 
@@ -260,11 +260,11 @@ The conversation ends there. Gaps in existing information are sabotaging the sur
 
 You observe Leitzka washing clothes, doing housework, and reading for the next hours. Party office has since long confirmed the arrival of Hassel, and the indicated wait and response are in effect.
 
-You observe set a kettle on the stove of the kitchen, presumably to boil water. You turn to the camera at the front of the building to record the identity of this "Sonia." No activity of note is observed in the next fifteen minutes, beyond the kettle whistling in Hassel's kitchen.
+You observe her set a kettle on the stove of the kitchen, presumably to boil water. You turn to the camera at the front of the building to record the identity of this "Sonia." No activity of note is observed in the next fifteen minutes, beyond the kettle whistling in Hassel's kitchen.
 
 You ask around in the Field Office if they had any concealed camera equipment on board, but the silence that followed your inquiry confirmed that there wasn't any. You curse your lack of preparedness for this moment. Usually State Security's intel is more or less airtight.
 
-You observe an oddly clothed person go up to the porch, and press the buzzer that corresponds to Hassel's flat. Presumably, this "Sonia" person. An electric buzz lets her in, without you being able to take a picture of this person. What a shame.
+You observe an oddly clothed person go up to the porch, and press the buzzer that corresponds to Hassel's flat. Presumably, this "Sonia" person. An electric buzz lets her in, without you being able to take a picture of the subject at hand. What a shame.
 
 Thirty seconds later, you hear a knock on Hassel's door, Leitzka opens it and greets Anonymous bidding her to enter and to sit down in the kitchen. You observe Leitzka starting to address her, but you clearly observe this person stopping her with a hand gesture, and at the same time turn on a radio loudly.
 
@@ -292,11 +292,11 @@ A brief silence falls in the room.
 
 On this question, Sonia downs her cup of chamomille tea and turns down the radio, removing the racket making surveillance challenging. "You know what to do, love. The rest is up to you."
 
-With this statement, Sonia stands up, and leaves the apartment. You scramble to at least get a good look at this woman before she becomes a dead end in the investigation. Leaving your post would be ill advised at this point in the investigation but you risk leaving a significative loose end.
+With this statement, Sonia stands up, and leaves the apartment. You scramble to at least get a good look at this woman before she becomes a dead end in the investigation. Leaving your post would be ill advised at this point in the investigation but you risk leaving a significant loose end.
 
 Option A
 
-You leave the Field Office as quietly as you can to have a smoke outside the flats and catch a glimpse of this character. Surely enough, twenty seconds later you observe this oddly dressed woman leave the building. Her wide brimmed hat obscures the view, most likely a luxury item from the Intershop. Definitely in her forties, with caked on makeup, tired brown eyes, and pursed lips. She walks past you as you draw on a cigarette, your lungs catch on fire. You had not picked up the habit, and it took every fiber of your being not to start a coughing fit there and then. As she turned around the corner, you cough like a chimney, go back into the Field Office, sketch her likeness and enter it into the archive. (should carry big risk / big reward clue)
+You leave the Field Office as quietly as you can to have a smoke outside the flats and catch a glimpse of this character. Surely enough, twenty seconds later you observe this oddly dressed woman leave the building. Her wide brimmed hat obscures the view, most likely a luxury item from the Intershop. Definitely in her forties, with caked on makeup, tired brown eyes, and pursed lips. She walks past you as you draw on a cigarette, your lungs catch on fire. You had not picked up the habit, and it took every fiber of your being not to start a coughing fit there and then. As she turned around the corner, you cough like a chimney. You go back into the Field Office, and summoning your training in detective work, attempt to sketch her likeness and enter it into the archive. (should carry big risk / big reward clue)
 
 Option B
 
@@ -312,7 +312,7 @@ You observe Hassel entering the building, with a bags of groceries. This would e
 
 Fearing the worst of losing track of Hassel, you commandeer the rest of the surveillance equipment within the Field Office, you search for a screen. Any screen that could tell you where Hassel is.
 
-Sure enough, he is two floors above his flat, exchanging pleasantries with a neighbor. The image is grainy but you see him exchanging something and recieving another thing in return. <- Clue
+Sure enough, he is two floors above his flat, exchanging pleasantries with a neighbor. The image is grainy but you see him exchanging something and receiving another thing in return. <- Clue
 
 The Field Office had not maintained surveillance lines properly there, so there was no way to record or observe the resulting conversation.
 

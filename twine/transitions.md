@@ -16,9 +16,9 @@ You turn around and your eye scans the places that you immediately identified as
 
 Too many to count.
 
-But they're looking at you, watching, with their beady little eyes up on the wall. You stare back at them, as many as you can. Making sure that they know you are aware of them. These pinpricks voids mounted to wood and plaster were the real bread and butter of the sword and shield of the state. You'd be easily thrown to a cell and left to rot for half a century if you spoke out of turn. But them? These eyes? They are trusted beyond reproach and question. The Frenchman that invented the camera was a hero in your eyes, with a profound hatred that equaled your admiration: His sons and daughters were stalwart allies and merciless witnesses. Nothing you'd ever do would be a secret, and nothing they, all of them, would ever be a secret either.
+But they're looking at you, watching, with their beady little eyes up on the wall. You stare back at them, as many as you can. Making sure that they know you are aware of them. These pinpricks voids mounted to wood and plaster were the real bread and butter of the sword and shield of the state. You'd be easily thrown to a cell and left to rot for half a century if you spoke out of turn. But them? These eyes? They are trusted beyond reproach and question. The Frenchman that invented the camera was a hero in your eyes. Your heart sings his praises while at the same time reviles his mother, that creature that damned the world with her terrible spawn: The Frenchman's sons and daughters were stalwart allies and merciless witnesses. Nothing you'd ever do would be a secret, and nothing they, all of them, would ever be a secret either.
 
-Closing your eyes is the only escape, a five-hour sanctuary. But you were sure they'd eventually find a way to put a mole in the inside of your eye lids and even get in your mind's eye. The scientists that spend their waking hours coming up with smaller and more impractical cameras are capable of almost anything. At least someone has to be trying that.
+Closing your eyes is the only escape, a five-hour sanctuary. But you were sure they'd eventually find a way to put a mole in your eyelids and maybe one day get in your mind's eye. The scientists that spend their waking hours coming up with smaller and more impractical cameras are capable of almost anything. At least someone has to be trying that. Perhaps one day they'd get you to photograph your life on your own volition.
 
 [[They lie in waiting like lionesses in the light, and you're an antelope -- weak and scared. Your world is split in two with eyes on opposite sides so hopefully you'll see them coming behind you. But trusting your senses is like praying, you lose very little if you do it but it guarantees nothing.]]-1
 
@@ -42,9 +42,9 @@ The dust bunnies and the slimy plates sitting at the bottom of your sink will li
 
 But you're never alone are you?
 
-You would not bat an eye to think that there was a micro-membrane microphone hooked up just below the bath window. How many have you installed those in the last year? Ten, Twenty? There's always some kind of glee, some kind of joy, every time the spec for an operation requires a device in the bathroom. There's already so much you know about them, the public might as well live in glass houses. Would save you a lot of time, would save them the need to hide.
+You would not bat an eye to think that there was a micro-membrane microphone hooked up just below the bath window. How many of those have you installed those in the last year? Ten, Twenty? There's always some kind of glee, some kind of joy, every time the spec for an operation requires a device in the bathroom. There's already so much you know about them, the public might as well live in glass houses. You wish that was the new thing. Would save you a lot of time, would save them the need to hide.
 
-[[That was so lame wasn't it? Under the bed? That's the first place that anyone that has ever done any spy work will think to look. The time to hide things under the furniture is ten years old maximum. What did you expect? What did you think was going to happen, you dull, dull girl? And she is an accomplice to a plot against state security? What a joke. What a sick and cruel joke Mr. Rat and Mr. Car Grill are playing on you.]]-1
+[[That was so lame wasn't it? Under the bed? That's the first place that anyone that has ever done any spy work will think to look. The age to hide things under the furniture is ten years old maximum. What did you expect? What did you think was going to happen, you dull, dull girl? And she is an accomplice to a plot against state security? What a joke.]]-1
 
 [[You like that don't you. There they are, naked as the day they were born. And when it's a young woman, ooh. You're a schoolchild all over again peeking between the stripes of frosted glass, trying to catch a glimpse of something. And they pay you to listen to them? To see them, on occasion? And they're none the wiser, that in a dark room there you are, typewriter on hand, reporting and listening in. But you can't record video, no, no. So those lines, those smooth taut skins they're a delight for you and you alone.]]-2
 
@@ -62,7 +62,7 @@ The colors shine and dim, a million lightbulbs actuated by a million different s
 
 One moment you're here... wherever that is.
 
-[[Hey, do you like her? Do you like him? One of them will never be sunlight again, but do you even care?]]
+[[Hey, do you like her? Do you like him? One of them will never see sunlight again, but do you even care?]]
 
 Another you're stretched far and wide, like a film.
 
@@ -94,7 +94,7 @@ The colors are gone, the faces of Nadine Leitzka and Albert Hassel are too. In t
 
 You must be in a furnace because the lights have become bigger, and brighter. And the air around you gets thicker, like a soup. And the voice that rings in your head spreads out around you and you hear them all ask you questions.
 
-[[]]"Are you happy with what you do?" "Who are those lovely people are you watching?" "Is today enough to condemn them forever?" "What if you're seeing them in a bad day?" "Could they really be that evil?" "What is a threat to the State?"]]
+[[]]"Are you happy with what you do?" "Who are those lovely people are you watching?" "Is today enough to condemn them forever?" "What if you're seeing them on a bad day?" "Could they really be that evil?" "What is a threat to the State?"]]
 
 The lights are getting warmer and brighter, the darkness is repelled and all that's left is the light.
 
@@ -106,19 +106,19 @@ The last shadow is blotted away, and the lights beam you with searing heat.
 
 What kind of question is that? They're all looking at you. They're all looking? It hurts, what they're doing is hurting. You can feel the lights staring into you, stripping you off the layers of skin. On the surface of whatever it is that you're standing you feel something. Something round and perhaps a bit mushy. You try to stand but it's become so slippery.
 
-In an instant the colors blur, the all encompassing whiteness gives way to a few blotches of brown, and then an inky black below you. All around you the same light starts to burn your meat. You focus on them, wondering what is it that made you experience these things, and how to make it stop. And then you face the floor again, just so you could have any sense of sight back. You have been sitting in an inky black circle, surrounded by a myriad colors of brown, red, and terracotta tones, flanked by the white that continues to torture you.
+In an instant the colors blur, the all encompassing whiteness gives way to a few blotches of brown, and then an inky black below you. All around you the same light starts to burn your flesh. You focus on them, wondering what is it that made you experience these things, and how to make it stop. And then you face the floor again, just so you could have any sense of sight back. You have been sitting in an inky black circle, surrounded by a myriad colors of brown, red, and terracotta tones, flanked by the white that continues to torture you.
 
 It's looking at you too.
 
-You feel your flesh pierced by the light, the air is so hot you would swear you could catch on fire. All you can do is curl up in a ball and close your eyes hoping that it will all go away. Even so you can feel it, all around you. They are all looking at you, observing you, unmaking you by not affording you a single shred of yourself to be owned by you. You want to scream, so you open your mouth.
+You feel your flesh pierced by the light, the air is so hot you would swear you could catch on fire. All you can do is curl up in a ball and close your eyes hoping that it will all go away. Even so, you can feel it, all around you. They are all looking at you, observing you, unmaking you by not affording you a single shred of yourself to be owned by you. You want to scream, so you open your mouth.
 
 Nothing comes out.
 
 Somehow they enter your ears and your mouth, pried open by forces unseen. How could you? If you open your eyes again they'd melt too. Something enters you, and starts removing whatever is inside. It's organs? No, no. It's not material. But it feels real, it feels important, what they're taking away from you.
 
-There will be nothing left do once they have no more use for you.
+There will be nothing left of you, once they have no more use for you.
 
-[[You ever wonder why you've never seen an Agent that was older than forty-five years of age. Have you ever seen a retired Agent before? No, no I guess not. They're all gone long before then. You wonder where to. It could be out to the countryside.
+[[You ever wonder why you've never seen an Agent that was older than forty-five years of age. Have you ever seen a retired Agent before? No, no I guess not. They're all gone long before then. You wonder where have they gone. It could be out to the countryside.
 
 But that's not true. They will see you. You know that they will see you. And whatever you do, you won't be able to apologize, or to restitute. Once they're done, you are only a liability. ]] -1
 

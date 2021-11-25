@@ -222,9 +222,9 @@ A brief silence.
 
 "Yes, Albert. I do understand now. I understand completely." Lietzka says in a deadpan tone.
 
-You observe Hassel walk out the door and close it with a smash. Again, the noise makes you wince as you hear its full blast in the headphones. You briefly take off your headphones and call the Party official at the headquarters he had visited before to instruct the same holding procedure as before. This time, to seed information about the exit visa. For now, let us say that approval will be provisionally granted on grounds of good behavior, but to expect additional duties to the State in the future should he want to conserve his standing.
+You observe Hassel walk out the door and close it with a smash. Again, the noise makes you wince as you hear its full blast in the headphones. You briefly take off your headphones and call the Party official at the headquarters he had visited before to instruct the same holding procedure as before. This time, to seed information about the exit visa. For now, let us say that approval will be provisionally granted on grounds of good behavior, but to expect additional duties to the State in the future to improve his standing.
 
-Can't be beating him with a stick all day, otherwise it would get in the way of the ongoing investigation.
+Can't be beating him with a stick all day, otherwise it would get in the way of the investigation.
 
 As you were talking in the phone to the part official, you see the blinking light of the surveilled telephone light. Someone is using the phone line and you're not surveilling.
 
@@ -266,7 +266,7 @@ You ask around in the Field Office if they had any concealed camera equipment on
 
 You observe an oddly clothed person go up to the porch, and press the buzzer that corresponds to Hassel's flat. Presumably, this "Sonia" person. An electric buzz lets her in, without you being able to take a picture of the subject at hand. What a shame.
 
-Thirty seconds later, you hear a knock on Hassel's door, Leitzka opens it and greets Anonymous bidding her to enter and to sit down in the kitchen. You observe Leitzka starting to address her, but you clearly observe this person stopping her with a hand gesture, and at the same time turn on a radio loudly.
+Thirty seconds later, you hear a knock on Hassel's door, Leitzka opens it and greets Anonymous bidding her to enter and to sit down in the kitchen. You observe Leitzka starting to address her, but you clearly observe this "Sonia" stopping her with a hand gesture, and at the same time turn on a radio loudly.
 
 Luckily for you, the upgrade on surveillance in Hassel's apartments provided the coverage you needed to hear them even above the racket that Bluejay had created. Nothing escapes the eyes of the State.
 
@@ -290,7 +290,7 @@ A brief silence falls in the room.
 
 "Th-then are you sure? Do you know I can see them again?" Nadine says, barely above a whisper that the microphone could pick up over the racket.
 
-On this question, Sonia downs her cup of chamomille tea and turns down the radio, removing the racket making surveillance challenging. "You know what to do, love. The rest is up to you."
+Upon hearing this question, Sonia downs her cup of chamomille tea and turns down the radio, removing the racket making surveillance challenging. "You know what to do, love. The rest is up to you."
 
 With this statement, Sonia stands up, and leaves the apartment. You scramble to at least get a good look at this woman before she becomes a dead end in the investigation. Leaving your post would be ill advised at this point in the investigation but you risk leaving a significant loose end.
 
@@ -356,7 +356,7 @@ Hassel responds "Well, I'd love to go away... but not too far. Can't get ahead o
 
 "I w-was forcing myself, really. I knew you had a bad going these past few days I wanted to give you something." Nadine says with tinge of nervousness.
 
-"Oh darling, You shouldn't do that. I'm in the mood, t-t-though that's fine. That's fine. You know what, that's ok. That's f-f-fine." Hassel responds, first annoyed, then conciliatory. "Let's just sleep then, I have deal with that bastard Kleiner tomorrow."
+"Oh darling, You shouldn't do that. I'm in the mood, though that's fine. That's fine. You know what, that's ok. That's f-f-fine." Hassel responds, first annoyed, then conciliatory. "Let's just sleep then, I have deal with that b-b-bastard Kleiner tomorrow."
 
 No more activity to report past this hour.
 
@@ -366,11 +366,11 @@ Surveillance starts at 0500 hours on Friday, March 12th.
 
 In the early morning you get a report from Division XIX that there was no veto on file for the gag placed on Hassel and Letizka for that package that had arrived on Wednesday the 10th.
 
-Nobody in the Division even had a a record of the package in question, which was surprising considering that the surveillance operation had started at a higher level in the chain-of-command than usual State Security work on suspects for sedition and desertion. The package may have been sent before the gag order, but the package would have at least have had a record of receipt and transfer at the local Post Office, a record that should not have been expunged since those last up to three months. Nobody dropped the package personally, since that would have been caught on surveillance, and the person who would do it immediately detained and interrogated.
+Nobody in the Division even had a record of the package in question, which was surprising considering that the surveillance operation had started at a higher level in the chain-of-command than usual State Security work on suspects for sedition and desertion. The package may have been sent before the gag order, but the package would have at least have had a record of receipt and transfer at the local Post Office, a record that should not have been expunged since those last up to three months. Nobody dropped the package personally, since that would have been caught on surveillance, and the person who would do it immediately detained and interrogated.
 
 Which meant that somebody within either the structure of the Ministry or the Party itself made sure to deliver the package without any tracking or tracing. <- Clue
 
-You observe at 0530 hours unusual rummaging at this particular time from the bedchambers. Shortly after you see Leitzka hauling around a suitcase to the living room, opening it to get a few books. She rearranges its contents in a hasty manner, and proceeds to stuff the package she obtained in the suitcase. She is at flight risk and leave the reach of immediate surveillance.
+You observe at 0530 hours unusual rummaging at this particular time from the bedchambers. Shortly after you see Leitzka hauling around a suitcase to the living room, opening it to get a few books. She rearranges its contents in a hasty manner, and proceeds to stuff the package she obtained in the suitcase. She is at flight risk. If she's succesful, she will leave the reach of immediate surveillance.
 
 You start to phone in for a State Security squad when you hear Hassel calling from the bed chambers. "Nadine, Nadine, where are you?"
 
@@ -378,11 +378,11 @@ You start to phone in for a State Security squad when you hear Hassel calling fr
 
 "Ah, are you? I don't think I hear any cooking noises, though." Hassel yells from the bedroom.
 
-"I just started Albert, sorry to have woken you up." Leitzka says, hurrying to the kitchen and turning on the stove and assembling breakfast foods. The suitcase she was putting together is sitting atop of the sofa. As you observe her perparing food, you make the phone call to have an arrest squad stand at the ready.
+"I just started Albert, sorry to have woken you up." Leitzka says, hurrying to the kitchen and turning on the stove and assembling breakfast foods. The suitcase she was putting together is sitting atop of the sofa. As you observe her preparing food, you make the phone call to have an arrest squad stand at the ready.
 
-Thirty minutes later, Hassel joins Leitzka at the kitchen and sits down for breakfast, they exchange small talk about nothing in particular that is subject to the investigation. Leitzka is evasive and curt with her responses, a textbook case of flight risk from surveillance.
+Thirty minutes later, Hassel joins Leitzka at the kitchen and sits down for breakfast, they exchange small talk. Leitzka is evasive and curt with her responses, a textbook case of flight risk from surveillance.
 
-You observe Hassel inquire Leitzka about a vacation. "Say Nadine, what agrees with you more dear? Summer, or autumn?"
+You observe Hassel inquire Leitzka about a vacation. "Say, what agrees with you more dear? Summer, or autumn?"
 
 "I don't understand your question, Albert." She says barely audible above a whisper.
 
@@ -412,11 +412,11 @@ Leitzka doesn't respond until she emerges from the hallway, dressed up. "A coupl
 
 Hassel, enraged, stands up from the kitchen and confronts Leitzka.
 
-"Perhaps I made a mistake of my own," Albert says "because I really trusted you. I truly did." This gets a surprise out of Leitzka. "I thought finding you was an act of divine providence, I got to see the girl I loved when I was just a schoolboy and do all the things I desperately wanted to do back then. I should have know better -- better than to allow you to live with me."
+"Perhaps I made a mistake of my own," Albert says "because I really trusted you. I truly did." This gets a surprise out of Leitzka. "I thought finding you was an act of divine providence. I got to see the girl I was crazy for way back when. I'd get do all the things I desperately wanted to do. I should have known better -- better than to allow you to live with me."
 
 Leitzka turns around without saying a word and disappears out of the camera frame. "Yes, Nadine. Please! Run away, run away like you always do. Like you do in your 'visits to the cafeteria'. I asked the cashier about you to make small talk, and you would never guess what happened? She has never heard of you! Ever! I just assumed you went out of your way to go to another coffee shop I don't know about, silly me! I asked Laurie about you, and she said you had not seen each other in three months! Silly me, maybe we are talking about different Lauries, convenient!" Hassel lashes out. <- Leitzka covertly leaves the flat without a known destination.
 
-"Oh God, don't speak that woman's name in my presence again, Albert! That woman has a wet sponge for a brain!" Leitzka snaps back from a location away form the cameras, presumably the bedroom they both share.
+"Oh God, don't speak that woman's name in my presence again, Albert! That woman has a wet sponge for a brain!" Leitzka snaps back from a location away from the cameras, presumably the bedroom they both share.
 
 "Shout it louder, dear!" Hassel responds. "Who knows who is listening, it might be her!"
 
@@ -430,7 +430,7 @@ You observe Hassel staring at her, and they exchange another brief silence. Hass
 
 You observe Leitzka taking a deep breath.
 
-"If you saw what I see for the future, it would scare you." <- Leitzka quoted Josip Tito.
+"If you saw what I see for the future, it would scare you." <- Leitzka quoted Josip Tito, prime minister of the Socialist Federal Republic of Yugoslavia. Identified as disseminating anti-state propaganda in favor of worker self-management.
 
 You observe Leitzka appearing again on camera, leaving through the front door of the flat and out into the street. Flight risk measures are activated, and are now directed to apprehend her in a 3 block radius of the flats.
 
@@ -438,11 +438,11 @@ Alone in his apartment Hassel starts destroying his belongings, loudly crashing 
 
 After approximately an hour later, his belongings mostly broken or dented, he sits on the sofa in silence, and opens a cabinet next to him. Form it he produces a cigarrette pack, a lighter, and a small porcelain dish. You observe him light up a cigarette and smoke it in silence.
 
-After finishing his cigarette, you observe him pick up the phone and let it produce the open line tone. He starts speaking into the telephone as if somebody was on the other line, when there isn't. His breath is labored, presumably from the cigarette he just smoked.
+After finishing his cigarette, you observe him pick up the phone and let it produce the open line tone. He starts speaking into the telephone as if somebody was on the other line, when there isn't. His breath is ragged.
 
-Hassel: Are you listening? Of course you are, you are the State Security. Are you enjoying this? Did you watch me an Nadine going at it? Did you watch us eat breakfast and watch television? I hope it was worth it, I hope you got something out of it as much as you did you damn perverts. Always looking, always watching, I do wonder when did I catch your attention. Was it when she came in the apartment? Was it when she gave me that book to read? You know something, I loved it. I loved reading about, I loved reading about how you could actually make something out of yourself instead of being a bug under the thumb made by a million bureaucrats. I work, and I work.... and I work until I'm a ragged doll and I will get a scoop of mud and a punch to the head for my troubles. But it's not enough is it? It's not enough for you, you also have to drink from my cup and eat from my plate, and watch me, watch me, watch us all take a dump, fall in love, have a thought. Watch us forever. Nadine wanted to leave so bad... Maybe I'd like to go too... To a place you can't find me, you can't watch me, you can't hear me you... You --hnnng-- f-f-f-fffuck-fucking professional perverts in the Stasi. Fuck you, fuck you all to hell.
+Hassel: Are you listening? Of course you are, you are the State Security. Are you enjoying this? Did you watch me an Nadine going at it? Did you watch us eat breakfast and watch television? I hope it was worth it, I hope you got something out of it you damn perverts. Always looking, always watching, I do wonder when did I catch your attention. Was it when she came in the apartment? Was it when she gave me that book to read? You know something, I loved it. I loved reading about, I loved reading about how you could actually make something out of yourself instead of being a bug under the thumb made by a million bureaucrats. I work and I work and I work until I'm a ragged doll and I will get a scoop of mud and a punch to the head for my troubles. But it's not enough is it? It's not enough for you, you also have to drink from my cup and eat from my plate, and watch me, watch us all take a dump, fall in love, have a stray thought. Watch us forever. Nadine wanted to leave so bad... Maybe I'd like to go too... To a place you can't find me, you can't watch me, you can't hear me you-you --hnnng-- f-f-f-fffuck-fucking professional perverts in the Stasi. Fuck you, fuck you all to hell.
 
-The one-sided conversation ended there.
+The one-sided conversation ends there.
 
 You put in a word at the local constabularies for the detainment of Albert Hassel should he exit a 30 meter perimeter from the flats. He is also at flight risk, and you phone the State Security constabulary to assemble a squad for Hassel's detainment should he attempt to leave the premises.
 

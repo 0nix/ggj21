@@ -18,45 +18,61 @@ She opens the fridge to produce two baked hams and proceeds to cut slices from t
 
 She finishes her coffee, and she leaves the kitchen and go into the hallway where there are no cameras to continue surveillance, analysis of the noises from audio match normal bathroom bodily activities. Audio analysis is difficult due to the sound of the radio drowning out the unseen activity. She continues to be away from camera view, presumably having left the bathroom and stay in one of the two bedrooms of the residence. Audio analysis is inconclusive as to what she is doing, again, due to the sound of the radio in the kitchen. <- Common activity of citizens, whether on direct surveillance or not is to attempt to drown out their noises beneath the sounds of radio and television. This practice could be of note on a subject for subversion.
 
-The door opens on the camera feed pointing to the living room, in comes another individual, presumably Mr. Hassel. "Albert?" Leitzka asks from a room that is not in view of the surveillance equipment. "I'm home, dear!" the man answers in a chipper tone. Confirmed the individual to be Albert Hassel. He greets Lietzka with brief kiss on the cheek, takes his coat off and leaves it by one of two sofas in the living room. <- This is non-standard, however Hassel's dossier does denote that he did buy off a certain cadre of items from a friend who moved away to an unspecified location on assignment. One of these items might be the sofa.
+The door opens on the camera feed pointing to the living room, in comes another individual, presumably Mr. Hassel. "Albert?" Leitzka asks from a room that is not in view of the surveillance equipment. "I'm ho-ho-home, dear!" the man answers in a chipper tone. Confirmed the individual to be Albert Hassel. He greets Lietzka with brief kiss on the cheek, takes his coat off and leaves it by one of two sofas in the living room. <- This is non-standard, however Hassel's dossier does denote that he did buy off a certain cadre of items from a friend who moved away to an unspecified location on assignment. One of these items might be the sofa.
 
-You observe Hassel sit on the sofa, relaxing his belt buckle. He motions towards the radio. "Could you turn that thing off, Nadine? I grow tired of the same shrill voice saying the same things over and over." Lietzka complies, and turns the radio off. Audio analysis is no longer a challenge. <- Manifest dislike of newscaster may be a small but concrete sign of dissatisfaction, not enough to signal acitonable offenses, but tells of his state of mind.
+You observe Hassel sit on the sofa, relaxing his belt buckle. He motions towards the radio. "C-c-could you turn that thing off? They-they're always saying the same things over a-and over." Lietzka complies, and turns the radio off. Audio analysis is no longer a challenge. <- Manifest dislike of newscaster may be a small but concrete sign of dissatisfaction, not enough to signal acitonable offenses, but tells of his state of mind.
 
-*Insert some small talk about work Q1*
+Lietzka produces a tablecloth from one of the cupboards and unfurls it across the kitchen table. The rumble in the microphone ever so briefly takes you back to another time. 
+
+Hassel takes off his coat and sets it somewhere beyond the view of the camera, along with a suitcase and a wide brim hat. The coat was decieving, making him look bigger than he actually was. You knew from the dossier picture you had examined before, but he looked like a child stretched to adult proportions, rather than an adult. Leitzka, meanwhile, sets down cups and small dishes. You presume it is to set the table for the dinner. /n/n "How was work today, Bertie?" She says warmly.
+
+"Ah, I d-d-don't want to bore you." Hassel replies shyly.
+
+"Bore me? Bore me with what, Bertie? I can assure you, anything you can tell me will be ten thousand times more exciting than my day alone here." Nadine responds with a bit of a laugh. 
+
+Hassel gets up, and embraces Nadine. You observe she is taken a bit aback at the gesture. "I'm just there to p-p-press buttons. Yes, p-p-press buttons and write down stuff on a clipboard. I wrote a s-s-six instead of a n-n-nine. Most exciting part of the day."
+
+"Did you write the belly bigger on the six or on the nine today?" Leitzka inquires.
+
+"I, w-w-what?" Hassel says, taken aback.
+
+"Did you." Leitzka shuffles herself, breaking Hassel's hug. /n/n "Make the belly bigger." She turns around and you can see her in that monitor caressing Hassel's face. /n/n "On the six, or the nine?" She finishes her question with a small laugh.
+
+Hassel takes a few steps back. Clearly, this is not normal. "I d-d-d-don't know. Lots of, y'know, regulations and forms. Kinda hard t-t-to keep t-track of everything. I'll ha-have to check t-t-tomorrow. Yes. Tomorrow." He says, his words straining as he stuttered. Hassel sits back down, and Leitzka steps away, you assume to get food for dinner.
 
 "Which reminds me," Lietzka inquires. "Have you gotten any news from Customs?"
 
-"Ugh," Hassel grunts. "No, let's not talk about that right now Nadine. I have had enough with Gerhart's prodding and pulling and all these-- these little grubby things that get in the way of accomplishing anything in a single day of work." Lietzka stands by the kitchen door, arms crossed. She is not satisfied with Hassel's evasive answer. After a brief moment of silence, Lietzka storms off to the kitchen, and throws the meal on a plate. She comes back to the living room and slams it in front of Hassel. The noise is very sharp. It stings to hear through the headphones.
+"Ugh," Hassel grunts. "No, l-l-let's not talk about that. I have enough with Ge-ge-gerhart's prodding and p-p-pulling and all these--these little grubby things that get in the way of ev-ev-everything." Lietzka stands by the kitchen door, arms crossed. She is not satisfied with Hassel's evasive answer. After a brief moment of silence, Lietzka  throws the meal on a plate. The noise is very sharp. It stings to hear through the headphones.
 
-"Hey, hey, hey! Could you have a tantrum with your own belongings, Nadine? You know, instead of mine?" Hassel chides, as he grabs the plate and a fork to eat.
+"Hey! Let's not fight please, let's not have it out today, eh dear?" Hassel chides, as he grabs the plate and a fork to eat.
 
-"I don't believe I asked you about that grubby boss of yours, Albert. I don't want to think about that ghastly tobacco smell." Leitzka snarls back. "I am asking about the visas, for you, and me. I have been asking, over, and over, and over. I've been asking for three months now, you know. Laurie from a floor above only had to wait for a month, Albert. Quite frankly I don't understand why am I more upset than you, since the Ministry is clearly interrogating your... kindergarten teacher or something."
+"I don't believe I asked you about that grubby, gross boss of yours, Bertie. I jus--I just--" Leitzka pauses a moment to gather herself. "I just don't want to think about that man. I swear, that ghastly tobacco smell it's still on my black dress." She sighs with clear signs of frustration. "I am asking about the visas, y'know? For you? For me? I have been asking, over, and over. I've been asking for three months now. Three months! Laurie from a floor above only had to wait for a month, Bertie. I don't even understand why am I more upset than you. Ministry's is clearly interrogating your... kindergarten teacher or something."
 
-Hassel sighs in exasperation, and speaks in between chews. "Look, I don't know what to tell you. I have gone to the local office, you know, the one by the movie theater?" Lietzka nods in agreement. "Been going three times a day since I put in the papers to get exit visas. The man at the door already knows me by name, for God's sake. And it's always the same answer, no matter what."
+Hassel sighs in exasperation, and speaks in between chews. "I do-do-don't know what to tell you. I have gone to the local office. You-you know, the one by the m-m-movie theater?" Lietzka nods in agreement. "B-b-been going three times a day. Ever since I put in the papers. The m-m-man at the door already knows me by name, f-f-for God's sake. He calls me Mister Mealtime. I show up every time before h-h-he eats. C-calls me Mi-mister Mealtime. It's-s-s always the same answer, no matter what."
 
 "Your petition is currently being reviewed by Security authorities, an ongoing petition is not a substitute for a visa." Nadine recites as if out of a prayer book.
 
-"Clearly a you are a spitting image of the comrade." Hassel gets up and pecks Leitzka with a kiss. "But on a much closer appraisal, you are much better looking."
+"Clearly you've taken le-lessons from Comrade Ulbricht." Hassel gets up and pecks Leitzka with a kiss. "On a much closer ap-ap-appraisal, you are much better looking."
 
-Leitzka chuckles as she pulls a chair from the kitchen to sit at a ninety-degree angle from Hassel. "Oh you, don't say that," she says in a playful tone "at this point saying any party member is less than an Adonis might be a crime and... you never know who's listening."
+Leitzka chuckles as she pulls a chair opposite from Hassel and sits. "Oh you, don't say that," she says in a playful tone "at this point saying any party member is less than an Adonis might be a crime and... you never know who's listening."
 
-"I don't know what is with the Ministry," He says, returning to the couch to finish his plate. "I am asking for something that I have a right to ask for. I have never done or said anything against doctrine. I attend every meeting of the local chapter, I am a volunteer tutor for the school... " He brings his hands to his face and lets out a loud sigh.  "I j-just, I. I don't know what else they want me to do. Security's where we put the nut jobs, it's always been that way."
+"I do-do-don't know what is with the Ministry," He says, returning to the couch to finish his plate. "I am asking for s-s-something that I have a right to ask for. I have never done or said a-a-anything against doc-doc-doctrine. I attend every meeting of the local chapter, I am a volunteer tutor for the school... " He brings his hands to his face and lets out a loud sigh. "I j-just, I-I don't know what else they want me to do. Security's where we put the nut jobs, it's always been that way."
 
 "It's not every single meeting." Nadine says lightly, with a chuckle. "You're missing the Women's League ones for sure."
 
-Hassel laughs. "Ah~! That being the case I can assure you, neither does Laurie's husband. No, no, h-he-he gets his things the old fashioned way, from a cousin of someone up in Border Troops high command. It's all the same everywhere, all the time. Some Party we got, eh?" <- Subversive attitude against the State apparatus detected.
+Hassel laughs. "Ah~! That being the case I can assure you, neither does Laurie's husband. No, no, h-he-he gets his things the old fashioned way, from a cousin of so-so-someone up in Border Troops high command. It's all the same everywhere, all the time. Some Party we got, eh?" <- Subversive attitude against the State apparatus detected.
 
 "By the will of the people... and all that." Leitzka agrees, barely loud enough for you to make out. 
 
 Leitzka mouths something that is not visible to the camera, nor loud enough to make out.
 
-"Let's watch some television, Nadine. Ok?" Hassel says as you observe him reach out to Leitzka's shoulder, she responds leaning into him.
+"Let's wa-wa-watch some television, Nadine. Ok?" Hassel says as you observe him reach out to Leitzka's shoulder, she responds leaning into him.
 
 You observe both of them sit on the sofa and turn on the television set. They watch television in silence for the following two hours, without much to note or observe. The broadcast they watched was state-produced, a variety show with singers and artists.
 
-You observe Hassel break the silence. "I wish you'd tell me what's the rush. I know it's important, but these things th-the-they take time."
+You observe Hassel break the silence. "I wish you'd te-te-tell me what's the rush. I know it's i-i-important, but these things th-the-they take time."
 
-"I hope you're not one of those tattletale stooges. I just want to leave in the same train you do."
+"I hope you're not one of those tattletales. I just want to leave in the same train you do." Leitzka says with a hint of melancholy.
 
 After this conversation, Hassel only reacts to the program in short sentences. Leitzka, however, remains silent. They both retire to their rooms, with no further activity of note.
 
@@ -66,9 +82,17 @@ Surveillance start at 0500 hours on Wednesday, March 10th.
 
 Hassel wakes up at 0630 hours, followed by Lietzka shortly thereafter.
 
-You observe subjects Lietzka and Hassel exchange pleasantries over breakfast prepared by Lietzka. From the objects observed to be taken from the refrigerator, it is an egg-based breakfast. Casual conversation follows, over the morning radio broadcast. 
+You observe subjects Lietzka and Hassel exchange pleasantries over breakfast prepared by Lietzka. From the objects observed to be taken from the refrigerator, it is an egg-based breakfast.
 
-*Q2 Insert*
+"Ready to knock'em dead, Mister Mealtime?" Leitzka says, her voice laden with sarcasm. A brief moment of silence, and both of them start laughing. Leitzka's laugh is intermitent, high pitched. Sound like a small dog whining. While Hassel's laugh is hearty, and full-bodied. A laugh that exploded out his body.
+
+In between the laughs, Hassel says. "Who knows? Maybe if you make the Comrade in the office some food, that will finally get us somewhere!"
+
+"Mister Mealtime, food delivery service! Party members get reduced rates and happy hour!" Leitzka adds as she continues to giggle.
+
+"Bureau members get a free meal a month!" Hassel quips. They both laugh. 
+
+It's been a while since you've heard people laughing so much.
 
 At 0734 hours, you observe a phone call is made to Albert Hassel's residence. Previous surveillance indicates the call is from The People's Electronics Fabricant, approximately 700 meters away from the Hassel surveillance site, Hassel's workplace. On the other line is Hassel's boss, citizen Gerhart Kleiner, Head of Day-Shift Production. The conversation is as follows:
 
@@ -80,11 +104,11 @@ H: Ah, M-mi-mister Kleiner! That is the best news I have heard in a long time.
 
 K: Yeah, yeah. Probably you should start packing but not quickly, who knows when Housing is going to assign you your new flat. Even though they should. Don't get too comfortable though, the Party is breathing down my neck.
 
-H: How so?
+H: How s-s-so?
 
 K: Well, you haven't been a good enough boy, Hassel. What do you want me to say? You're a no-show at your local Party meetings, and even if you say you tutor children as volunteer work that's not going to be enough in your new position. You know, they might actually block your promotion if you don't show your face around at least.
 
-H: Oh c-c-c-c'mon Kleiner, a man's got to have some peace and quiet! I get back home, I cook my meals, I sweep m-m-m-my floors... I've got things to do other than sit every week for two or three hours to hear some patsy from Berlin-
+H: Oh c-c-c-c'mon Kleiner, a m-man's got to have some peace and quiet! I get back home, I cook my meals, I sweep m-m-m-my floors... I've got things to do o-o-other than sit every week for two o-o-or three hours to hear some patsy from Berlin-
 
 K: Don't you start now, you never know who's listening. At any rate, the Party wants your face in their offices as soon as possible. Have something to hand them, anything will do.
 
@@ -92,33 +116,33 @@ H: Is that how you got ahead Mr. Klei-Kkk-Kleiner? Making stuff up and hoping no
 
 K: I swear to God boy, it's like you're begging to be taken away. I am not answering that.
 
-H: My mistake, m-m-my mistake. I've got to show up at the Party offices so I'll pop over there after I'm done working.
+H: M-my mistake, mm-my mistake. I've got to show up at the Party offices so I'll po-pop over there after I'm done working.
 
 K: Nah, we're so close to _meeting_ our production quotas for the year it isn't worth it to even turn on the machines. Leadership decided to give the day off to everyone, and I'd rather save you the nasty surprise of coming to the factory to an empty floor. It's probably going to take you the whole day at the Party offices anyway.
 
-H: Really? How is everyone else going to know the factory's closed?
+H: Really? How is-s-s everyone else going to know the factory's closed?
 
 K: Does that sound like my problem, Hassel? I am giving you a courtesy call, that should be enough for you.
 
-H: That's fine Klei-Kleiner, always a pleasure talking to you and thank you for the heads up.
+H: That's fine Klei-Kleiner, a-a-always a pleasure talking to you and thank you for the heads up.
 
-Before hanging up, the microphone on the phone picks up Hassel muttering "Little tyrant..." <- Prospect for a promotion does not really reflect a subersive element for the integrity of the State.
+Before hanging up, the microphone on the phone picks up Hassel muttering "Little ty-tyrant bastard..." <- Prospect for a promotion does not really reflect a subersive element for the integrity of the State.
 
 You observe Lietzka take notice of the conversation that just transpired. "Good news, from the looks of it." She comments.
 
-Hassel sits down and takes a bite of his nondescript breakfast. "Uhm, yes. Looks like I will be getting a promotion come June. Be-Be-Before that I have to make good with the Party. If I show up we might actually see those exit visas, finally." He responds.
+Hassel sits down and takes a bite of his nondescript breakfast. "Uhm, yes. I th-think will be getting a promotion come June. Be-Be-Before that I have to make good with the Party. If I show up we mi-mi-might actually see those exit visas, finally." He responds.
 
 "Well that's dandy." Lietzka says in a conspiratorial tone, like she was a child plotting to skill candy. "I guess you and that Gerhart made like thieves with the production numbers, if they're so good they're giving off holidays like they were bargains." She comments. <- Lying about meeting production quotas is a serious offense and classified as a cause for sedition accusations. However, the investigation to prove subversion to the state through industry will not suffice the needs of the surveillance investigation.
 
-"For once, would it kill you to be happy for me Nadine?" Hassel says, with a tinge of annoyance. "We have our numbers, everyone at the factory gets a new thing to put on their tables, and for once we're producing what we actually need to produce instead of brand new boards just sitting in warehouses where they won't go anywhere. Hon-hon-honestly, it frustrates me to no end seeing something I worked so hard on sit there doing... nothing. If there is a surplus of demand, then the market will adjust if it can't go anywhere."
+"Please, would it be so b-b-bad if you were happy for me dear?" Hassel says, with a tinge of annoyance. "We have our num-numbers, everyone at the factory gets a new thing to put on their ta-ta-tables, and for once we're producing what we actually need to pro-pro-produce instead of brand new boards just sitting in warehouses where they won't go anywhere. Hon-hon-honestly, it frustrates me to no end seeing something I worked so hard on sit there doing... nothing. If there is a suh-suh-surplus of demand, market will adjust."
 
-Leitzka smirks. "I see you've been reading, lover-boy."
+Leitzka smirks. "I see you've been reading, Bertie."
 
-Hassel chuckles. "Hey, it doesn't hurt to take a leaf from their book every now and then."
+Hassel chuckles. "Hey, it doesn't hu-huh-hurt to take a leaf from their book every now and then."
 
 Leitzka laughs lightly at that remark.
 
-Hassel finishes his breakfast and starts to walk out the door. "I will be gone probably all day, so don't wait for me. You could visit Laurie, actually."
+Hassel finishes his breakfast and starts to walk out the door. "I will be gone. Pro-probably all day, so don't wait for me. You could vi-visit Laurie, if you want to?"
 
 Leitzka looks dejected. "Yes, I guess..." Hassel then leaves the flat and exits the building.
 
@@ -170,15 +194,15 @@ H: W-what?
 
 K: Did. You. Fuck. The. Party. Official's. Wife? Answer me!
 
-H: No, no! Of course not, Kleiner! Why would you even ask me that?
+H: N-n-no, no! Of course no-not, Kleiner! Why woul--why would you even ask me that?
 
 K: I got called to meet to my local Party secretary in the dead of night last night. He was angry, Keliner. That I would pick you to lead the Engineering team. He said that you have no loyalty. Not to the Party, not to the country... So again, I ask, as politely as I can, what did you do?!
 
-H: I sat there for five hours then spoke to the official about my tutoring work, what else was I supposed to do?
+H: I sa-sa-sat there for five hours then spoke to the official about my tutoring work, wha-what else was I supposed to do?
 
-K: Well, they must have mistaken you for some other Hassel, because they're come down on me now. If I don't drop you as the Lead next semester they will come and investigate me, you, and everyone and everything else at the factory. I don't know why you talked me into reducing the output to meet what we sold. I should have never listen-
+K: Well, they must have mistaken you for some other Hassel, because they're coming down on me now. If I don't drop you as the Lead next semester they will come and investigate me, you, and everyone and everything else at the factory. I don't know why you talked me into reducing the output to meet what we sold. I should have never listen-
 
-H: I talked you into it? Dear God, Kleiner don't you start lying now. We decided on it, remember?
+H: I tal-tal-talked you into it? Me? No, n-n-no don't you do this to me. Dear God, Kleiner don't you start lying now. It was us, remember? We came up with the i-i-idea, not just me!
 
 K: No, no. No, no, no. You --
 
@@ -188,9 +212,9 @@ K: You're lucky, damn lucky, to keep your job. Forget about a promotion, as long
 
 H: B-but, Kleiner!
 
-K: No! No! I have no part in it. Also, don't bother showing up today -- or the rest of the week for that matter. Just don't show up.
+K: No! No! I have no part in it. Also, don't bother showing up today -- or the rest of the week for that matter, you stammering putz. Just don't show up.
 
-H: Kleiner? Kleiner! I swear I didn't do-
+H: Kleiner? Kleiner! I s-s-swear I didn't do-
 
 The phone call is over from Kleiner's side of the line.
 
@@ -202,19 +226,19 @@ You observe Lietzka emerge from the hallway in sleeping clothes, rubbing her eye
 
 Hassel pays no mind to this remark and goes back through the hallway, presumably to get dressed. Audio information indicates this, and he emerges from the hallway again hastily dressed in a wrinkled shirt and pants.
 
-"I have to run to the Party headquarters and set this right, Nadine." He says in a hurried tone. "Everything has gone wrong, I don't think they have the right Albert Hassel. This is terrible, Nadine. Terrible."
+"I ha-ha-have to run to the Party headquarters and set this right, dear." He says in a hurried tone. "Ev-ev-everything has gone wrong, I don-don-don't think they have the right Albert Hassel. This is terrible, terrible, terrible."
 
-You observe Hassel grab the suspicious package observed yesterday and hand it over to Lietzka. "Here," he says. "this came in the mail for you. I don't recall you had told anyone that you had moved in with me, but it seems our dear government knows everything before I do."
+You observe Hassel grab the suspicious package observed yesterday and hand it over to Lietzka. "Here," he says. "this came in the mail for you. Do-do-don't recall you had told anyone that you had moved in with me, but it seems the-they-they know everything before I do."
 
 You observe Nadine taking the package. It is notable that she does not seem surprised or phased by the package's appearance, suggesting she was expecting it already. <- The suspicious package unaccounted for by Division XIX was sent to Nadine.
 
-Hessel goes in for a kiss on the cheek to Leitzka, something she rebuffs by looking away. Hassel's tone gets increasingly despondent. "So that's how it's going to be now, is it? Even you are going to abandon me the moment things go wrong?"
+Hessel goes in for a kiss on the cheek to Leitzka, something she rebuffs by looking away. Hassel's tone gets increasingly despondent. "So that's how it's going to-to-to be? Even you are going to ab-ab-abandon me the moment things go wrong?"
 
 Leitzka scoffs. You observe her going to the living room, grabbing the book on top of the coffee table and cradle it like a baby. "I am starting to think that trusting you is not such a good idea, Albert. And I wish you didn't give me more reasons to believe that."
 
 "I don't believe this," you observe Hassel say with a tone of exasperation. "N-n-no, I-I don't believe this at all." He shuts the door and presses himself against Leitzka in a clear attempt to assert dominance. By the way she winces, it's safe to assume that Leitzka did not expect this reaction.
 
-"You think I'm playing, Nadine?" he asks "You think I'm p-p-pretending or s-something? That I like that this is happening? It may come as a surprise to you, but I don't. I wish I could tell you why does the Party want my head on a p-pike, I'd love to know myself. Then I could get us a permission to leave and put this madness behind us."
+"You think I'm playing, Nadine?" he asks "You think I'm p-p-pretending or s-something? That I like that this is happening? It may surprise you, but I don't. I wish I could tell you why does the Party want my head on a p-pike. I'd love to know, myself. Then I could get us a permission to leave and put this madness behind us."
 
 A brief silence.
 
@@ -318,45 +342,45 @@ The Field Office had not maintained surveillance lines properly there, so there 
 
 You observe Hassel move away from view, and descend two floors to enter his flat, to be greeted by Leitzka.
 
-"So, it truly seems to be an honest mistake what happened." He says triumphantly.
+"S-s-so, it seems to be an honest mistake. I have cle-cleared it up." He says triumphantly.
 
 "Oh. is that so?" Leitzka asks, nonchalant. It's clear Lietzka does not believe Hassel.
 
-"Many a man can save himself if he admits he's done wrong and takes his punishment, as Ibsen would say." Hassel says, jubilant. "Even the great Party tars and feathers the wrong man once in a blue moon, how auspicious that it would be me... and you!" You observe that Hassel has not understood that he is not trusted.
+"Many a man can sa-sa-save himself if he admits he's done wrong and takes his punishment, as Ibsen would say." Hassel says, jubilant. "E-e-even the great Party tars and feathers the wrong man once in a while. I gue-guess it my was my turn. A-and yours." You observe that Hassel has not understood that he is not trusted.
 
 "Me?" Letizka asks, again with little energy. "Why would they want anything to do with me?"
 
-"Well," Hassel responds, putting on airs. "they were asking me not so much about my business, but yours, Nadine. They ask me why am I intending to leave the country with another person that's not my spouse. And I say, 'isn't that quite normal?' The party putz says 'no, it is not.' So it was you after all, dear! It was you! Sounds like someone needs to show face over there. So, guess what I said. Go on, guess." Hassel decidedly expects enthusiasm where there simply isn't any from Leitzka. She says nothing.
+"Well," Hassel responds, putting on airs. "they-they were asking me not so much about my business, but yours, dear. They a-a-ask me why am I intending to leave the country with another person that's not my spouse. And I say, 'isn't that quite normal?' That pa-pa-party putz says 'no, it is not.' Sounds like someone needs to show face over there. So, guess what I said. Go on, guess." Hassel decidedly expects enthusiasm where there simply isn't any from Leitzka. She says nothing.
 
-"I said, that we were not married... yet!" Hassel says in between laughs.
+"I said, that we were not ma-ma-married... yet!" Hassel says in between laughs.
 
 You observe Leitzka react harshly to this retort, she drops the plate she was washing right into the sink, causing a crashing sound that might just burst your eardrums.
 
 "You're saying you... you... want to-" Leitzka starts to ask in a much different tone.
 
-"Oh good heavens, it's a bit early to be saying that seriously Nadine. But if the lady herself wants to leave, this gentleman is only too willing to bend the truth for her benefit. That's all it takes Nadine, that's all it takes. And we get to leave on holiday!" Hassel hollers. Leitzka has no answer to give.
+"Oh good heavens, it's a bit ea-ea-early to be saying that seriously Nadine. But if the lady herself wants to leave, this ge-ge-gentleman is only too willing to bend the truth. Just a bit. Just a wee bit. That's all it takes dear, that's all! And we get to leave on holiday!" Hassel hollers. Leitzka has no answer to give.
 
-After a brief and awkward silence, you observe Hassel trying to curry Leitzka's favor "Oh come on, darling. Even you have to admit that's ingenious, hm?" Leitzka responds with a silent nod, and remains motionless as Hassel embraces her.
+After a brief and awkward silence, you observe Hassel trying to curry Leitzka's favor "Oh come on, dear. Even you have to admit that's ingenious, hm?" Leitzka responds with a silent nod, and remains motionless as Hassel embraces her.
 
 Lietzka finishes with housework and eat dinner with chitchat that is not relevant to the investigation.
 
 Later that evening, they retire to Hassel's chamber where the microphone audio suggests undressing and the noises and grunts hallmark of a prelude to copulation.
 
-You hear Leitzka ask "Say Albert, if you got the visa tonight and... you could go anywhere. Where would you go?
+You hear Leitzka ask "Say Bertie, if you got the visa tonight and... you could go anywhere. Where would you go?
 
-Hassel responds "Well, I'd love to go away... but not too far. Can't get ahead of ourselves, can't get greedy. How about a nice beach in Riga, hm? To Riga, you still need a visa to go, but not that many checkpoints after that."
+Hassel responds "Well, I'd love to go away... but no-no-not too far. Can't get ahead of our-our-ourselves, can't get gree-greedy. How about a nice beach in Riga, hm? To Riga, you still need a visa, but not that many checkpoints after that."
 
 "Riga? That's... Latvia, right?" Leitzka asks after a brief silence.
 
-"Really good place, I've heard. Worth visting after a good year of work." He says.
+"Really good place, I've heard. Worth vi-vi-visting after a good year of work." He says.
 
 "Albert, I... I am not in the mood. Not anymore. Sorry" Lietzka whispers.
 
-"Really?" Hassel says, a tone of mockery in his voice. "You get me all hot and bothered and you lose all your moxie at Latvia?"
+"Really?" Hassel says, a tone of mockery in his voice. "You get me all hot and bothered and I lo-lo-loose you at Latvia?"
 
 "I w-was forcing myself, really. I knew you had a bad going these past few days I wanted to give you something." Nadine says with tinge of nervousness.
 
-"Oh darling, You shouldn't do that. I'm in the mood, though that's fine. That's fine. You know what, that's ok. That's f-f-fine." Hassel responds, first annoyed, then conciliatory. "Let's just sleep then, I have deal with that b-b-bastard Kleiner tomorrow."
+"Oh dear, you shouldn't do that. I'm in the mood, though that's fine. That's fine. You know what, that's ok. That's f-f-fine." Hassel responds, first annoyed, then conciliatory. "Let's just sleep then, I have deal with that b-b-bastard Kleiner tomorrow."
 
 No more activity to report past this hour.
 
@@ -374,19 +398,19 @@ You observe at 0530 hours unusual rummaging at this particular time from the bed
 
 You start to phone in for a State Security squad when you hear Hassel calling from the bed chambers. "Nadine, Nadine, where are you?"
 
-"In the kitchen, Albert. I thought I'd make breakfast." Leitzka responds in a hurried tone, and closes her suitcase.
+"In the kitchen, Bertie. I thought I'd make breakfast." Leitzka responds in a hurried tone, and closes her suitcase.
 
-"Ah, are you? I don't think I hear any cooking noises, though." Hassel yells from the bedroom.
+"Ah, a-a-are you? I don't think I hear any cooking noises, though." Hassel yells from the bedroom.
 
-"I just started Albert, sorry to have woken you up." Leitzka says, hurrying to the kitchen and turning on the stove and assembling breakfast foods. The suitcase she was putting together is sitting atop of the sofa. As you observe her preparing food, you make the phone call to have an arrest squad stand at the ready.
+"I just started, sorry to have woken you up." Leitzka says, hurrying to the kitchen and turning on the stove and assembling breakfast foods. The suitcase she was putting together is sitting atop of the sofa. As you observe her preparing food, you make the phone call to have an arrest squad stand at the ready.
 
 Thirty minutes later, Hassel joins Leitzka at the kitchen and sits down for breakfast, they exchange small talk. Leitzka is evasive and curt with her responses, a textbook case of flight risk from surveillance.
 
-You observe Hassel inquire Leitzka about a vacation. "Say, what agrees with you more dear? Summer, or autumn?"
+You observe Hassel inquire Leitzka about a vacation. "Say, what ag-agrees with you more dear? Summer, or autumn?"
 
 "I don't understand your question, Albert." She says barely audible above a whisper.
 
-"Summer or autumn, which one do you like best? I'm asking for the trip to Riga." Albert says in between mouthfuls of food. "See, I hear Riga is nice for either but you might hate the sunshine and the people in summer."
+"Summer or autumn, which one do you like be-be-best? I'm asking for the trip to Riga." Albert says in between mouthfuls of food. "I hear Riga is nice for ei-ei-either but you might hate the sunshine and the people in summer."
 
 "Me... the sunshine? Is that what you want to ask me?" Lietzka asks, with a tone of incredulity.
 
@@ -394,27 +418,27 @@ You observe Hassel inquire Leitzka about a vacation. "Say, what agrees with you 
 
 "But, you don't _have_ them do you? You didn't actually get documents, right?" Leitzka says with an even greater sneer.
 
-"Why would they tell me otherwise Nadine? I don't get your questions, honestly." Hassel responds, dismissively.
+"Why would they tell me otherwise? I do-don't understand your questions, honestly." Hassel responds, dismissively.
 
 Lietzka sits up and after a brief silence she responds, "I don't believe this. You actually trust them, don't you?" She says.
 
-"They look out for us, Nadine. Sometimes they might be a bit unpalatable or brutish, but it's all well and good." Hassel says, with a bit more firmness.
+"They loo-loo-look out for us, Nadine. Sometimes they might be a bit brutish. Ta-ta-tact of a fly-flying brick. But it's all well and good." Hassel says, with a bit more firmness.
 
 Lietzka starts laughing in response. First a bit softly, then raising up in volume to a sort of cackle. This has Hassel stunned since you observe he has stopped moving or speaking. After she's done cackling, she breathes in heavily and stands up. "Enjoy your breakfast, Albert. I'm not hungry anymore." she says before going back to the bed chamber.
 
-"Wait, wait, w-wait. Nadine? Wh-where are you going?" Hassel inquires with a tinge of nervousness.
+"Wait, wait, w-wait. dear? Wh-where are you going?" Hassel inquires with a tinge of nervousness.
 
 Leitzka doesn't respond until she emerges from the hallway, dressed up. "A couple of days ago, I asked myself. Now I know. I can't really trust you, Albert. Can't trust you to keep to yourself, can't trust you to do something right, I can't even trust you to have thoughts made on your own."
 
 "What's that supposed to mean? What is all this out of the blue, Nadine?" Hassel asks, increasingly incensed.
 
-"Do I have to spell it out for you lover-boy?" Nadine responds, standing by the hallway entry.
+"Do I have to spell it out for you Albert?" Nadine responds, standing by the hallway entry.
 
 Hassel, enraged, stands up from the kitchen and confronts Leitzka.
 
-"Perhaps I made a mistake of my own," Albert says "because I really trusted you. I truly did." This gets a surprise out of Leitzka. "I thought finding you was an act of divine providence. I got to see the girl I was crazy for way back when. I'd get do all the things I desperately wanted to do. I should have known better -- better than to allow you to live with me."
+"Pe-pe-perhaps I made a mistake of my own," Albert says "because I really trusted you. I truly did." This gets a surprise out of Leitzka. "I thought fi-fi-finding you was an act of divine providence. I got to see the girl I was crazy for wa-wa-way back when. I'd get do all the things I des-desperately wanted to do. I should have known better -- better than to allow you to live with me."
 
-Leitzka turns around without saying a word and disappears out of the camera frame. "Yes, Nadine. Please! Run away, run away like you always do. Like you do in your 'visits to the cafeteria'. I asked the cashier about you to make small talk, and you would never guess what happened? She has never heard of you! Ever! I just assumed you went out of your way to go to another coffee shop I don't know about, silly me! I asked Laurie about you, and she said you had not seen each other in three months! Silly me, maybe we are talking about different Lauries, convenient!" Hassel lashes out. <- Leitzka covertly leaves the flat without a known destination.
+Leitzka turns around without saying a word and disappears out of the camera frame. "Yes, Nadine. Please! Run away, run away like y-y-you always do. Like you do in your 'visits to the cafeteria'. I asked the cashier about you to make sma-small talk, and you would never guess what happened? She has never heard of you! Ever! I just a-a-assumed you went out of your way to go to another coffee shop I don't know about, silly me! I asked Laurie about you, and she said you had not seen each other in three months! Maybe we are talking about different Lauries, then!" Hassel lashes out. <- Leitzka covertly leaves the flat without a known destination.
 
 "Oh God, don't speak that woman's name in my presence again, Albert! That woman has a wet sponge for a brain!" Leitzka snaps back from a location away from the cameras, presumably the bedroom they both share.
 
@@ -424,9 +448,9 @@ Lietzka comes into the living room again and slaps Hassel across the face. You o
 
 "I-I-I'm leaving, Albert. We're through. I wish I had never given you my book to read, or my pamphlets for that m-matter. When you walk out that door, and go see your party w-whatever, I will have left. Yes... yes. I will have left." Leitzka stammered through that, but as she kept delineating her plans, she became resolute. <- Wealth of Nations copy is owned by Nadine Leitzka.
 
-You observe Hassel staring at her, and they exchange another brief silence. Hassel's facial expressions are not intelligible through the camera, but it is a safe bet he is processing Leitzka's words. "The moment I saw those leaflets from United Left I should have dropped you at the police station. But, I will keep my silence, and I should caution you to keep yours." He finally says coldly. <- Hassel did not report Leitzka, however Leitzka is in the possession of directly subversive literature.
+You observe Hassel staring at her, and they exchange another brief silence. Hassel's facial expressions are not intelligible through the camera, but it is a safe bet he is processing Leitzka's words. "The moment I saw those leaf-leaf-leaflets from United Left I should have dropped you at the police station. But, I will keep my silence, and I warn you. Keep yours too." He finally says coldly. <- Hassel did not report Leitzka, however Leitzka is in the possession of directly subversive literature.
 
-"You know, I had it all planned out for us," Hassel says softly, just above the threshold for microphone pick up. "No," Leitzka responds "not far enough. Not nearly far enough. I thought we could leave, together. But you're afraid, too afraid. And, I don't blame you."
+"You know, I ha-ha-had it all planned out for us," Hassel says softly, just above the threshold for microphone pick up. "No," Leitzka responds "not far enough. Not nearly far enough. I thought we could leave, together. But you're afraid, too afraid. And, I don't blame you."
 
 You observe Leitzka taking a deep breath.
 

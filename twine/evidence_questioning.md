@@ -120,7 +120,7 @@ _Option 1_
 
 You say that precisely owning belongings that are potentially from a previous association are more than enough to arise suspicion of subversive attitudes. The rational thing would have been to shun and disassociate for one's own benefit and the country's.
 
-Sessler nods in agreement. Bayer shakes his head. "If the Lieutenant wants to continue with our previous pattern in leaping to conclusions, I cannot help but think this is a gross misuse of state resources." /n/n "What do you mean, Bayer?" Sessler asks, annoyed. /n/n Sergeant Bayer sighs and raises his hands. "Add it to the record if you want, Sessler. I will not be co-signing sloppy work." /n/n "Bayer, why am I not surprised that likes of you want to be lax on suspicious persons?" Sessler tuts as he squares up the papers against the desk.
+Sessler nods in agreement. Bayer shakes his head. "If the Lieutenant wants to continue with our previous pattern in leaping to conclusions, I cannot help but think this is a gross misuse of state resources." /n/n "What do you mean, Bayer?" Sessler asks, annoyed. /n/n Sergeant Bayer sighs and raises his hands. "Add it to the record if you want, Sessler. I will not be co-signing sloppy work." /n/n "Bayer, why am I not surprised that likes of you want to be lax on suspicious persons?" Sessler tuts as he straightens up the papers against the desk.
 
 (lambda superleader -1)
 

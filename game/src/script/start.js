@@ -55,7 +55,7 @@ const script = {
   lp4a: "[sto{diag_choices_clear}]1",
   ce: {
     instruction: "dec",
-    content: `Lieutenant Bryce produces a manila folder from his coat, and opens it with delicacy. "Agent Eight-Red-Zero-Whiskey-One-Seven-One-Three... " he murmurs.<br/><br/>"8R0W..1713" he muses, eyeing over what no doubt is your previous record at the Ministry. He smirks.<br/><br/>"They actually spelled something your designation, Agent. Brownie, right? It spells Brownie." He chuckles.<br/><br/>"What do you think, *Brownie*?" He asks you, mockery in his tongue, leaning into that word like a drunk idiot onto a wall.`,
+    content: `Lieutenant Sessler produces a manila folder from his coat, and opens it with delicacy. "Agent Eight-Red-Zero-Whiskey-One-Seven-One-Three... " he murmurs.<br/><br/>"8R0W..1713" he muses, eyeing over what no doubt is your previous record at the Ministry. He smirks.<br/><br/>"They actually spelled something your designation, Agent. Brownie, right? It spells Brownie." He chuckles.<br/><br/>"What do you think, *Brownie*?" He asks you, mockery in his tongue, leaning into that word like a drunk idiot onto a wall.`,
     opts: {
       choices: [
         {
@@ -101,7 +101,7 @@ const script = {
       ],
     },
   },
-  f1b: `[say]Lieutenant Sessler grunts in agreement. "If this were a year or two ago, Brownie, I wouldn't even bother with it. But I'm in no mood to anger Sargeant Bayer. If you know that pencil-pushing prick, neither would you. Our Party wants results, not just a bunch of Misters So-and-so locked up, eating, and doing nothing," he says.`,
+  f1b: `[say]Lieutenant Sessler grunts in agreement. "If this were a year or two ago, Brownie, I wouldn't even bother with it. But I'm in no mood to anger Sargeant Bayer. If you know that pencil-pushing prick, neither would you. Our Party wants results, not just a bunch of Misters So-and-so locked up, eating away at the prison budget, and doing nothing," he says.`,
   f2b: `[say]He stops to look at you in the eye, "I agree with you Brownie, as much as I'd like to simply arrest the man, we will need enough evidence for a formal arrest in three days and you will provide it." He snickers one last time as he calls you that name.`,
   f3b: `[add{lambda_leader_player}]1`,
   f5b: "[jmp]g1a",

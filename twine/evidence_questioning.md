@@ -1018,7 +1018,7 @@ Unsatisfied, both men stew in their own frustration and anger, unable to convinc
 
 [You argue in favor of asking Lietzka about the activities that should have been reported]
 
-You say that Hassel is not a credible source of information, and the Lieutenant is considering him as such. There's no telling what he'll say if it's with the purpose of ruining Leitzka's chances of leaving confinement, or improving his to leave. As such it should be interesting to ask Ms. Leitzka about the activities that were supposedly grounds for detention herself, as she would have a vested interest in her own freedom. Sergeant Bayer nods at you and then looks at the Lieutenant Sessler, waiting for some kind of response. Sessler just gives him his usual scowl and looks at you, making quite manifest his displeasure with his teeth.
+You say that Hassel is not a credible source of information, and the Lieutenant is considering him as such. There's no telling what he'll say if it's with the purpose of ruining Leitzka's chances of leaving confinement, or improving his to leave. As such it should be interesting to ask Miss Leitzka about the activities that were supposedly grounds for detention herself, as she would have a vested interest in her own freedom. Sergeant Bayer nods at you and then looks at the Lieutenant Sessler, waiting for some kind of response. Sessler just gives him his usual scowl and looks at you, making quite manifest his displeasure with his teeth.
 
 (super leader +x and leader -1)
 

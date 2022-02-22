@@ -732,7 +732,7 @@ You know that Lieutenant Sessler wants this piece of paper. You know that Sergea
 
 ### 3.6 Pleasantries with the neighbor (super leader +2 and leader -1 )
 
-You explain that Albert Hassel had decided to talk to the neighbor before entering his own flat, something that he had not done previously. This conversation was unrecorded and undocumented, given that there was no indication that he would have any sort of interest in his neighbors in the file. This needs to be entered into the surveillance dossier as an interaction that could have adverse effects if the identity of the other person is not known.
+You explain that Albert Hassel had decided to talk to the neighbor before entering his own flat, something that he had not done previously. This conversation was unrecorded, given that there was no indication that he would have any sort of interest in his neighbors. This needs to be entered into the surveillance dossier as an interaction that could have adverse effects if the identity of the other person is not known.
 
 "Do we have the list of tenants on file, Agent?" Sergeant Bayer asks. You produce the list of tenants in Hassel's building. The apartment number and description match citizen Laurie Weiss.
 
@@ -742,25 +742,25 @@ The Lieutenant disagreed. "Oh, Bayer. Bayer. I don't think that is necessary."
 
 Sergeant Bayer looks sideways at the Lieutenant. "You do the job well or you don't do it at all, Lieutenant Sessler." He says with a heavy sigh. "Agent, please order that inqui-."
 
-"No, no." Lieutenant Sessler intervenes, gesticulating with his hands something fierce. "Agent, belay that order. I will determine what is relevant in this investigation. This has one target and one target alone and his name, lest you forget Sergeant, is Albert Hassel!"
+"No, no." Lieutenant Sessler intervenes, gesticulating with his hands something fierce. "Agent, belay that order. I will determine what is relevant in this investigation. This has one target and one target alone and his name, lest you forget Sergeant, is Albert Hassel."
 
-"And his associates, Lieutenant Sessler." The Sergeant responds, raising his voice. "Surely you can't be so green you'd think they were blameless."
+"And his associates, Lieutenant Sessler." The Sergeant responds, raising his voice. "Surely you cannot be so wet behind the ears you would think they were blameless."
 
 "Sergeant, we must focus! The tenants are not relevant to this investigation!" Lieutenant Sessler shouts, slamming his finger on the dossier he held.
 
-"Who are you and what did you do with Oskar Sessler?! Suddenly, the budget concerns you?!" Sergeant Bayer bellows. "You want to stick every man, woman and child in prison so much as they glance in your direction and this nobody is the one individual where we must not be hasty!?"
+"Who are you and what did you do with Oskar Sessler?! Suddenly, the budget concerns you?!" Sergeant Bayer bellows. "You want to stick every man, woman, and child in prison so much as they glance in your direction! And,this nobody is the one individual where we must not be hasty!?"
 
-"That woman is the wife of a government worker Bayer! I will not have you sully the good name of our colleagues!" Lieutenant Sessler responds. There's something in the tone of his voice that tells you that he doesn't believe the words coming out of his mouth. /n/n Sergeant Bayer is violently confused, making grunts and noises that try to go past the embryonic stage for words.
+"That woman is the wife of a government worker Bayer! I won't have rabble like yourself dirty the good name of loyal men and women!" Lieutenant Sessler responds. There's something in the tone of his voice that tells you that he doesn't believe the words coming out of his mouth. /n/n Sergeant Bayer is violently confused, making grunts and noises that try to go past the embryonic stage for words.
 
 [Vocally support Sergeant Bayer]
 
-You speak up, citing Ministry rulebooks and regulations that compel you to report and follow up with any unknown associates. Sergeant Bayer smiles triumphantly. "The kid is quoting the book at you now, Lieutenant Sessler. I should be more diligent lest you take his position and him yours." He says with a guffaw. Lieutenant Sessler responds, while looking directly in your eyes. You'd think he was trying to make your eyeballs boil with thought alone. "Why am I not surprised that Agent Brownie here was so inclined to become a pencil-pushing desk jockey?"
+You speak up, citing Ministry rulebooks and regulations that compel you to report and follow up with any unknown associates. Sergeant Bayer smiles triumphantly. "The Agent is quoting the book at you now, Lieutenant Sessler. I should caution you to be more diligent, lest you take his position and him yours." He says with a guffaw. Lieutenant Sessler responds, while looking directly in your eyes. You'd think he was trying to make your eyeballs boil with thought alone. "Why am I not surprised that Agent Brownie's career path was to become a petite bourgeois pencil-pusher?"
 
 (super leader +2 and leader -1 )
 
 [You say nothing]
 
-You decide to stay quiet, and the pair of squabbling men to their own argument. It had been just about the 9th time you'd hear this argument between your two superiors. It was becoming old hat, quickly. You'd wonder if they would ever agree on anything. You wonder if they were enjoying fighting each other. You wonder if they continued these interrogations simply because they just wanted to spread misery around.
+You decide to stay quiet, and the pair of squabbling men to their own argument. It had been just about the ninth time you'd hear this argument between your two superiors. It was becoming old hat, quickly. You'd wonder if they would ever agree on anything. You wonder if they were enjoying fighting each other. You wonder if they continued these interrogations simply because they just wanted to spread misery around.
 
 (nothing)
 
@@ -794,25 +794,23 @@ They're little pinprick points that look like beady bug eyes on the walls. Every
 
 It doesn't take long for Hassel to act on his gut feelings and run out of his flat, looking for Leitzka. He screams atop of his lungs, with a mixture of anger and concern. "Nadine! Where are you?! Nadine, come back!" He yells in a high-pitched whine that sounds like the saddest car horn. You stand outside the building, pretending to wait for a car as you watch him run down the street.
 
-For the first time you catch a good look of him using just your eyes and nothing else: He looks as if a potato had grown out legs and started to walk and talk. As he ran, he had this kind of sad gait going side-to-side, balancing his fat stomach between two twiggy legs. There was always something that brought you this mirthful joy, being ignored by someone whose secrets you are quite aware of.
+For the first time you catch a good look of him using just your eyes and nothing else: He looks as if a potato had grown out legs and started to walk and talk. As he ran, he had this kind of side-to-side gait, balancing his fat stomach between two twiggy legs. There was always something that brought you this mirthful joy, being ignored by someone who you're intimately familiar against their will.
 
-As if directed by an orchestra, the standard black lacquer ministry car arrives to pick up you up. In the distance you hear find noises of a scuffle involving multiple people. It doesn't take long for you to find out the cause: You speed by, and out the window of the car you see Albert Hassel squirming against the wall, handcuffed. He seems to have incurred a bit of aggression from the policemen, they have their batons out, prodding and yelling at him. You couldn't help but chuckle to yourself, fully aware of the astounding emptiness of his bravado.
+As if directed by an orchestra, the standard black lacquer ministry car arrives to pick up you up. In the distance you hear find noises of a scuffle involving multiple people. It doesn't take long for you to find out the cause: You speed by, and out the window of the car you see Albert Hassel squirming against the wall, handcuffed. He seems to have incurred a bit of aggression from the policemen. They had their batons out. One submitted the portly man to the ground, while the others were prodding and yelling at him. You couldn't help but chuckle to yourself at the astounding emptiness of his bravado.
 
 It takes less than five seconds for you to loose sight of him in the worst day of his life, and speed away.
 
-Back in Central again.
+You stop by the jailer room to talk to some of your colleagues, and you ask about any new people coming in for detention. It's two people, one man and one woman. They're not side by side in the cell block, but the woman's cell was close enough to the scenic route towards the debriefing room. You'd be able to see her too, finally, with your own eyes. You write the cell number down on a piece of scrap paper and you enter the building.
 
-You stop by the jailer room to talk to some of your colleagues, and you ask about any new people coming in for detention. It's just two people, one man and one woman. They're not side by side in the cell block, but the woman's cell was close enough to the scenic route towards the debriefing room. You'd be able to see her too, finally, with your own eyes. You write the cell number down on a piece of scrap paper and you enter the building.
-
-As you come closer and closer to the cell, there's some trepidation... some excitement from a place you don't know very well.
+As you come closer and closer to the cell, there's some trepidation, an excitement from a place you don't know very well.
 
 The cells of Central had small letterbox windows that allowed people in the hallway to look at the people inside, but they did not allow the same from the cells. In front of you is such a window, corresponding to the door of cell that contained Nadine Leitzka.
 
 You couldn't help yourself. You had to look in there no matter what.
 
-There lies a praying mantis colored in the pink hues of human flesh, creeping around the walls and the floor of the tiny two by three meter space. She has already turned over the mattress and was looking for something frantically. Her hair was frazzled like an overgrown bush. She muttered something to herself that was barely audible. They all look like oversized guinea pigs rattling around in cages.
+There lies a praying mantis colored in the pink hues of human flesh, creeping around the walls and the floor. She has already turned over the mattress and was looking for something frantically. Her hair was frazzled like an overgrown bush. She muttered something to herself that was barely audible. Once they get locked up and are stripped of everything that stitches together their own selves, their bravado disappears. They are naked and afraid, reduced to oversized guinea pigs rattling around in cages.
 
-All of the sudden, she stops and looks in the direction of the window. She says nothing, she does nothing, she just stares at you with those sunken baggy eyes and a scowl that said many terrible things. She did not blink. She did not even wince once. Even cornered and trapped, she kept her face on. Commendable, to say the least.
+All of the sudden, she stops and looks in the direction of the window. She says nothing, she does nothing. She just seems to stare at you with those sunken baggy eyes and a scowl that said many terrible things. She did not blink. She did not even wince once. Even cornered and trapped, she kept her face on. Larger, rougher men broke in less time. Commendable, to say the least.
 
 You look away and walk to the interrogation room, greeting you with the same heavy metal steel door, the same paint on it with a number and a letter, the same letterbox window that doesn't let anybody see from the inside out. Only big enough to hold you in with the two of them.
 
@@ -822,37 +820,47 @@ You enter it, and Sergeant Bayer and Lieutenant Sessler are already there sittin
 
 (start a timer of random duration from 5 seconds to the duration of this block of text - 3 seconds. => transition to gunshot scene, game over) You explain that, despite what the surveillance might suggest and the repeated insistence to the contrary, there was no evidence of malfeasance or wrongdoing on part of either Albert Hassel or Nadine Leitzka. As suspicious one or both may be, it simply did not seem that these people presented a threat to the security of the State, nor did they appear to act in such away that would imply that they take part in any subversive activity. 
 
-You recommend that they should be released at the earliest possible time and conclude the operation [The timer should have activated here, the rest is content that people should not be able to view] with a neutral ending that while unsatisfactory, proves to be an accurate reflection of what a government agency running a surveillance program actually accomplishes. You should not be able to read this, but if you are, please tweet the phrase "moe moe kyun" at asobulab so I know you're cool.
+You recommend that they should be released at the earliest possible time and conclude the operation [The timer should have activated here, the rest is content that people should not be able to view] with a neutral ending that while unsatisfactory, proves to be an accurate reflection of what a government agency running a surveillance program actually accomplishes. You should not be able to read this, but if you are, please tweet at me that you got Ending Zero at asobulab so I know you're cool.
 
 ### 4.1 Mystery Package was passed through (super leader +x and leader -1 no argument needed passthrough)
 
-You report that the veto on file that was supposed to stop the mystery package from arriving in Albert Hassel's mailbox did not exist in time when the surveillance operation officially started. There are three explanations: The veto was either not filled on time, it was ignored deliberately, or it was an accidental mishap. Either way, this was an official breach of protocol that you needed to report immediately.
+You report that the veto on file that was supposed to stop the mystery package from arriving in Albert Hassel's mailbox did not exist when the surveillance operation officially started. It was submitted afterwards, a full three hours later going by timestamps provided by Division XIX. Assuming this information is accurate, there are three explanations: The veto was not filled on time, the veto was ignored deliberately, or it was a gross mishap of misplaced memos and forms. Either way, this was an official breach of protocol that you needed to report immediately.
 
-The silence between the two men in front of you refuses to go away. Every time you try to speak up it's as if there was a noose slowly, but surely, squeezing your throat. You observe Sergeant Bayer balling the papers into his tight fist. You can see his knuckles go white and his finger tips redden with the strength of his grip. Lieutenant Sessler stares into the ceiling, transfixed by God knows what. He rocks back and forth, restless.
+The silence between the two men in front of you refuses to go away. Every time you try to speak up it's as if there was a noose slowly, but surely, squeezing your throat. You observe Sergeant Bayer balling the papers into his tight fist. You can see his knuckles go white and his finger tips redden with the strength of his grip. Lieutenant Sessler stares into the ceiling, surely transfixed by the concrete pattern above him. He rocks back and forth, restless.
 
-You don't really know what to make of it or how to move forward. You'd love to grab the sheaf of yellow and white paper, and move on to the next clue, you'd love to bolt out of there, you'd love for some kind of cataclysm to make a hole above you and take you in a whirlwind. Anything to get out of this maniacal sound that Sessler keeps making.
+You don't really know what to make of it or how to move forward. You'd love to grab the sheaf of yellow and white paper and move on to the next clue, you'd love to bolt out of there, you'd love for some kind of cataclysm to make a hole above you and take you in a whirlwind. Anything to get out of this maniacal sound that Sessler keeps making.
 
-Lieutenant Sessler, begins to speak with a caution you have never seen in the man. "W-w-well Agent. I think you are mistaking the interrogation with your own writing circle. I'd be more impressed with this attempt to be the department's own Hercule Poirot if it wasn't on Ministry time and resources."
+The paper keeps crinkling and crinkling, it's almost as if there is a construction crew in your ear.
 
-Sergeant Bayer turns his head, slowly, towards the bald man that is Lieutenant Sessler. He looks like a stone lion sentinel, like those guarding Brandenburg Gate. Stoic, and yet somehow you can feel the repressed, unbridled rage inside him. "That's your conclusion, Sessler?" He asks.
+Please say something.
+
+Anything.
+
+Anything at all!
+
+PLEASE!
+
+Lieutenant Sessler, begins to speak with a caution you have never seen in the man. "Agent, I think you are mistaking the interrogation with your own writing circle. I'd be more than happy to introduce you to the Bureau of State Affairs and their publications office if you want to be our own Hercule Poirot, but this effort mustn't be on Ministry time and resources."
+
+Sergeant Bayer turns his head, slowly, towards the bald man that is Lieutenant Sessler. He looks like a stone lion sentinel, like those guarding Brandenburg Gate. You can feel the repressed rage boiling inside him. "That's your conclusion, Sessler?" He asks.
 
 "Sergeant, you cannot possibly accept this state-"
 
-"What I believe, Lieutenant." He says, raising his voice to interrupt and impose on Lieutenant Sessler. "Is that a highly detailed explanation, spanning a couple of days to reveal itself to us, makes you responsible for a breach in protocol. And I am waiting for a better justification than 'he made it up'. So, Sessler, what is it?"
+"What I believe, Lieutenant." He says, raising his voice to interrupt and impose on Lieutenant Sessler. "Is that a highly detailed explanation has revealed itself. And, this highly detailed explanation makes you responsible for a breach in protocol. And if you want to keep your life, Oskar Sessler, you will produce a better explanation for this much incompetence that is better than 'he made it up'. Do you have it?"
 
-Lieutenant Sessler scoffs and stars gesticulating with his hands, getting redder and redder in the face. "What would you have me do, Bayer?" He shouts. "I suppose you'd love to have me fall to my knees on the floor and grovel to pay for other people's sins, you pencil-necked desk jockey!"
+Lieutenant Sessler scoffs and stars gesticulating with his hands, getting redder and redder in the face. "What would you have me do, Bayer?" He shouts. "I suppose you'd love to have me fall to my knees on the floor and grovel to pay for other people's sins, you traitor-born dog!"
 
 Hearing this insult, Sergeant Bayer stands up and motions towards his firearm on his right hand-side. "Lieutenant, I am warning--" he starts to say with a lot more palpable rage in his voice.
 
-"Warn me all you want, Bayer." The Lieutenant responds. "I refuse to take any responsibility for a mistake I did not cause." He leans on those last few words, enunciating every vowel. Both men are standing in front of each other, ready and able to tear each other's head off, and you were there to see the bloody spectacle.
+"Warn me all you want, Bayer." The Lieutenant responds. "I did my job! And I do not care for questioning of the manner and timeliness of how I do it! I refuse to take any responsibility for a mistake I. Did. Not. Cause." He leans on those last few words, enunciating every vowel. Both men are standing in front of each other, ready and able to tear each other's head off, and you were there to see the bloody spectacle.
 
-"Oh so they are mistakes now, Sessler?" The Sergeant says defiantly. "Now that there's no explanation we're just calling this gross dereliction of duty a mistake?"
+"Oh so they are mistakes now, Sessler?" The Sergeant says defiantly. "Now that you have no explanation, am I to believe that this gross dereliction of duty was just an honest mistake?"
 
-"I should be the one grilling you, Sergeant." Lieutenant Sessler swings at the Sergeant's hand trained on his weapon. He wasn't expecting that. He flinches and motions away to keep the gun away from Sergeant Bayer's hand. "I'll show you a mistake worthy of all this company time!"
+"The fact that you managed to stay alive when you were dumped like a bag of shit by the Luisenstadt was a mistake already." Lieutenant Sessler snarls. The Sergeant wasn't expecting that. He flinches and his face reddens completely in the blink of an eye. "Another mistake was to let you live when they found you, and another greater mistake still was to allow you enter this organization instead of giving you the mercy every suffering subhuman creature deserves. You will not question my methods, Bayer. Or I swear, tomorrow you will find yourself on the business end of a firing squad."
 
-"You wish, you insubordinate oaf." Sergeant Bayer snarls back. "This operation was your idea, your brilliant plan to pull all the levers and favors you could get to put a body in front a press camera. The body of the most ordinary factory worker in the German Democratic Republic. If it were up to you, Albert Hassel would be eating gruel, blindfolded in a prison cell no larger than a coffin." He takes a few steps back and breaths deeply before continuing. Wrath continues to pour out of him.
+"You wish, you insubordinate oaf." Sergeant Bayer snaps back. "This operation was your idea, your brilliant plan to pull all the levers and favors you could get to put a body in front a press camera. The body of the most ordinary factory worker in the German Democratic Republic. If it were up to you, Albert Hassel would be eating gruel, blindfolded in a prison cell no larger than a coffin." He takes a few steps back and breaths deeply before continuing. Wrath continues to pour out of him.
 
-"As it happens, comrade, it's my job to get in the way of people like your ilk, Sessler. The Ministry is not your personal army, and I will see to it that after all is said and done, you face a jury. And I will personally make a point to that you cannot walk away from this instance of gross incompetence."
+"As it happens, it's my job to get in the way of people like your ilk, Sessler." The Sergeant continues. "The Ministry is not your personal army, and I will see to it that after all is said and done, you face a jury. And I will personally make a point to that you cannot walk away from such incompetence."
 
 Sessler, speechless, looks at you as if he's about to lunge past the edge of the table and crush your skull in a single bite.
 
@@ -860,23 +868,23 @@ Sergeant Bayer motions towards you, a bit calmer than he was 10 seconds ago. "Fl
 
 ### 4.2 Leitzka leaves without telling anyone where (super leader -1 and leader +x)
 
-You note that, by Albert Hassel's own admission, Leitzka went out on regular outings with a destination unknown to him. Given that she hasn't gone out at all during surveillance, and the dearth of evidence on Nadine Leitzka, you'll have to trust that he is at least telling the truth about this particular detail. Given the circumstances, her absences raise questions about who she meets and where.
+You note that, by Albert Hassel's own admission, Leitzka went out on regular outings with a destination unknown to him. Given that she hasn't done so during surveillance, and the dearth of evidence on Nadine Leitzka as a person, you'll have to trust that he is at least telling the truth about this particular detail. All things considered, her absences raise questions about who she meets and where.
 
-Lieutenant Sessler leans forward, in what you guess is his attempt to be assertive rather than imposing. "I might not seem like it, gentlemen. But, I believe that the women of this State deserve all our protection. I believe that, while the original objective of this investigation is determining whether or not Mr. Hassel is a subversive agent with the designs to usurp our democracy, securing the safety of Ms. Leitzka has become a priority of ours that is compatible with our larger objectives."
+Lieutenant Sessler leans forward, in what you guess is his attempt to be assertive rather than imposing. "I might not seem like it, gentlemen. But, I believe that the women of this State deserve all our protection. I believe that, while the original objective of this investigation is to determine whether or not Mister Hassel is a subversive agent with designs to usurp our democracy, securing the safety of Miss Leitzka has become a priority of ours that is compatible with our larger objectives."
 
 Sergeant Bayer widens his eyes, and looks towards the Lieutenant with a wry little smirk on his face. "And, how do you reach that conclusion, Sessler?" He says, in a light, airy tone that just layers on the sarcasm.
 
-"Do you not see it?" Lieutenant Sessler chides as he slams finger on the piece of paper that you produced for this occasion. "Does the behavior of this woman describe a person who enjoys the company of Albert Hassel? You might want to ask yourself that."
+"Do you not see it?" Lieutenant Sessler chides as he slams finger on the piece of paper that you produced. "Does the behavior of this woman describe a person who enjoys the company of Albert Hassel? You might want to ask yourself that."
 
-Sergeant Bayer, shrugs, his face stuck on that smarmy grimace. "If anything, I'd say that should cast a bigger cloud of suspicion over her, Sessler. This woman goes out of her way to hide herself such that the information we have on her is notable for its scarcity. And yet, here you are, telling us we should give her more leeway?"
+Sergeant Bayer, shrugs, his face stuck on that smarmy grimace. "If anything, I'd say that should cast a bigger cloud of suspicion over her, Sessler. This woman goes out of her way to hide herself. She has succeeded, despite the breadth of our information apparatus. And yet, here you are, telling us we should allow her to run amok?"
 
 Lieutenant Sessler waves his hands even more frantically, desperately trying to win the argument. "This is a woman looking for an escape, Sergeant Bayer. Frankly, I'm not surprised that something that requires a level of tact above a goldfish is lost on you."
 
-"So, we are meant to look over the fact that this woman could and would avail herself to the services we provide for individual housing? She cannot be ignorant about them." Sergeant Bayer responds with some annoyance in his voice.
+"This woman could and would avail herself to the services we provide for individual housing. She cannot be ignorant about them." Sergeant Bayer responds with some annoyance in his voice.
 
-The Lieutenant slams the papers on the desk. "And yet, she chooses otherwise! What a calamity!" He cries. He covers his face with his hands, gathering himself a bit before continuing. Odd, you've not seen him do that ever. "People are not machines, Sergeant." He says. "I think such excursions fit a pattern of behavior we have covered before."
+The Lieutenant slams the papers on the desk. "And yet, she chooses otherwise! What a calamity!" He cries. He covers his face with his hands, gathering himself a bit before continuing. Odd, you've not seen him do that ever. "People are not machines, Sergeant." He says. "I think such excursions fit a familiar pattern of behavior."
 
-Sergeant Bayer grabs the papers Lieutenant Sessler left on the table and waves them around, imitating Sessler's gesticulations. "Why are we talking about this individual if not for the fact that she is suspect of subversive behavior?!" He roars. "If we must talk about patterns of behavior, I'd say that it's obvious she is hiding something of interest to this investigation!"
+Sergeant Bayer grabs the papers Lieutenant Sessler left on the table and waves them around, imitating Sessler's gesticulations. "Why are we talking about this individual if not for the fact that she is suspect of subversive behavior?!" He roars. "If we must talk about patterns of behavior, I'd say that it's obvious she is hiding something of interest! That much is obvious!"
 
 Lieutenant Sessler isn't having it. He cross his arms and leans back on his chair. "And it is my position, Sergeant, that this woman needs our help and she would be better served away from Hassel and his corrupting influence. Something that we are already doing as they are both in isolation in this very building." He says, a bit more triumphant than warranted.
 
@@ -888,13 +896,13 @@ Lieutenant Sessler slaps his thighs and motions towards you. "See? Even the Agen
 
 [You say nothing]
 
-You leave the Lieutenant and the Sergeant to have their own little standoff and argue it out. You tune it out. You look at the picture of Nadine Leitzka, the only one the Ministry has on her file.
+You leave the Lieutenant and the Sergeant to have their own little standoff and argue it out. You tune it out. You look at the picture of Nadine Leitzka, the only one the Ministry has on her file. She squirms and wriggles in her cell at this very moment, and even then she remains defiant. 
+
+It's those eyes. They're daggers. 
 
 What is she?
 
 Who is she?
-
-What could she be trying to accomplish?
 
 ...
 
@@ -902,7 +910,7 @@ The Sergeant clears his throat, calling for your attention. You look up, and hur
 
 ### 4.3 Hassel did not report Leitzka (super leader +x and leader -1 OR super leader -1 and leader +x)
 
-You report on two statements that, if true, need immediate attention. One, that the owner of the state-restricted literature is indeed Ms. Leitzka. Two, that she had in her possession additional literature, in this case pamphlets, that Albert Hassel himself deemed inappropriate and worthy of reporting to the State authority. This raises all kinds of red flags since it is clear that Nadine Leitzka is at the very least, in contact with subversive groups that are the subject of the investigation itself.
+You report on two statements that, if true, require immediate attention. One, that the owner of the state-restricted literature is indeed Miss Leitzka. Two, that she had in her possession additional literature, in this case pamphlets, that Albert Hassel himself deemed inappropriate and worthy of reporting to the State authority. This proves concretely that Nadine Leitzka is, at the very least, in contact with subversive groups deleterious to the state.
 
 The Sergeant takes the stuffed folder where you have been keeping all your evidence and begins to lay down yellow folio pages and photo stock squares on the metal table.
 
@@ -914,9 +922,9 @@ The Sergeant takes the stuffed folder where you have been keeping all your evide
 
 (If Lietzka leaves) You see a written account of the threats Nadine Leitzka made a few hours ago.
 
-He lays them all out, one next to the other, in rows. The Lieutenant, who had been seeing this labor unfold in silence, finally pipes up. "May I ask what is all this business?" The Sergeant ignores him, and lays down the last few of the papers.
+He lays them all out, one next to the other in a row. The Lieutenant, who had been seeing this labor unfold in silence, finally pipes up. "May I ask what is all this for?" 
 
-"Do you see it, Lieutenant?" The Sergeant says, motioning towards his work forcefully. "I don't have time for games, and neither does the State." Lieutenant Sessler snarls back.
+"Do you see it, Lieutenant?" The Sergeant says, motioning towards his work forcefully. "I don't have time for games, and neither does this investigation." Lieutenant Sessler snarls back.
 
 "Well, I'd say it's rather obvious!" Sergeant Bayer bellows. "We have a book. Now we have pamphlets. Both owned by this Nadine Leitzka. Have I got it correctly, Agent?" He asks you.
 
@@ -924,15 +932,15 @@ He lays them all out, one next to the other, in rows. The Lieutenant, who had be
 
 (If you don't have evidence for Wealth of Nations) You stare at the Sergeant, not quite knowing what he means.
 
-"Moreover," The Sergeant continues. "Mr. Hassel should have informed us, by his own admission of the existence and content of these pamphlets. Does that have anything to do with a strained relationship? I'd say it does, and I'd love to know why, then, are we prosecuting the wrong person?"
+"Moreover," The Sergeant continues. "Mister Hassel should have informed us, by his own admission of the existence and content of these pamphlets.  He will have to be processed for obstruction of justice. However I would love to know why are we did the investigation start with the wrong person?"
 
-Lieutenant Bayer's face reddens. In anger, he bangs his fists on the table, scattering the papers on it. "For the hundredth time, Bayer, that's not what the intel has told us before!"
+Lieutenant Sessler's face reddens. In anger, he bangs his fists on the table, scattering the papers on it. "For the hundredth time, Bayer, that's not what the previous intel have told us before!"
 
-"The intel we are getting now disproves that, Lieutenant." Sergeant Bayer snaps. "I don't know how, even for you, it's not crystal clear."
+"This intel right here disproves that, Lieutenant." Sergeant Bayer snaps. "I don't know how, even for you, it's not crystal clear."
 
 "Hassel is forcing Leitzka to be there against her will!" Lieutenant Sessler says, as he produces the picture of Albert Hassel from the dossier. He jabs his finger on Hassel's face. "Do you see this enlarged mouse of a man truly being able to satisfy the whims of this female character?"
 
-Sergeant Bayer becomes silent. He scrunches his face and crosses his arms. "I'm sorry, I must have blanked out for ten seconds. What does Mr. Hassel's appearance have to do with the purposes of our investigation?" He chides.
+Sergeant Bayer becomes silent. He scrunches his face and crosses his arms. "I'm sorry, I must have blanked out for ten seconds. What does Mister Hassel's appearance have to do with the purposes of our investigation?" He chides.
 
 "Coercion, Bayer! Coercion!" Lieutenant Sessler exclaims, throwing his hands up in the air. "This woman has not demonstrated any thought to call her own and now she's some sort of criminal mastermind out to destroy the country!"
 
@@ -940,13 +948,13 @@ The Sergeant grabs Hassel's picture from Sessler's hands and points at him. "By 
 
 Lieutenant Sessler mutters something under his breath. Sergeant Bayer is even more confused, and commands. "Lieutenant for the love of God speak up, we-"
 
-"He doesn't deserve it!" Lieutenant Sessler shouts.
+"She doesn't deserve it!" Lieutenant Sessler shouts.
 
 "On what grounds?!" Sergeant Bayer roars, his annoyance hovering just below the boiling point.
 
-"That he is suspected of-" Lieutenant Sessler begins, before being cut off by Sergeant Bayer. "State your accusation clearly, Lieutenant!"
+"That she is mine to-" Lieutenant Sessler begins, before being cut off by Sergeant Bayer. "State your accusation clearly, Lieutenant!"
 
-"The intel consists of intercepted mail from a known location of the subversive movement United Left, Sergeant." Sessler says before motioning towards you. "This was beyond the Agent's clearance level, but clearly you have other ideas, Bayer."
+"That her involvement is mine to determine, and she not listed by the intel! The  consists of intercepted mail from a known location of the subversive movement United Left, Sergeant." Sessler says before motioning towards you. "This was beyond the Agent's clearance level, but clearly you have other ideas!"
 
 The Sergeant turns his back and stands facing the wall, tapping his foot. "The mail?" He asks.
 
@@ -954,39 +962,53 @@ The Sergeant turns his back and stands facing the wall, tapping his foot. "The m
 
 "We are here, having detained two citizens of this republic without even a small infraction to their names, because of the mail. And we started this process, because of the blasted mail." Sergeant Bayer says, in that kind of tone that precedes something terrible.
 
-"It was good enough for men bigger than you, Bayer!" Lieutenant Sessler snarls. "It should be good enough for you too!"
+"It was good enough for men bigger than you, Bayer! Men better than you! Men who do not betray their country!" Lieutenant Sessler snarls. "It should be good enough for you too!"
 
 Sergeant Bayer turns around, stroking the handle of his pistol as he did. You are taken aback for a few seconds. You fully expected him to unfurl it and discharge from the way he wore that crazed face. "That is inexcusable, Lieutenant. And rest assured I will make a note of this." He whispers.
 
-Lieutenant Sessler scoffs, and breaks out into a mad cackle. "And? Send me to jail then, for being overzealous! For being a stalwart brick of the wall of the protection of this state! Go on! I dare you!" He spits at Bayer's feet. "You'll soon find out just how much actual power you have in this organization."
+Lieutenant Sessler scoffs, and breaks out into a mad cackle. "And? Send me to jail then, for being overzealous! For being a stalwart brick of the wall of the protection of this state against traitors! Go on! I dare you!" He spits at Bayer's face as he finishes his invective. Yo expected immediate retaliation for this amount of brazenness.
 
-Sergeant Bayer in one sweeping unholsters his pistol, cuts the cartridge, and trains it directly at Sessler's forehead. You jump, and motion towards the door by pure reflex. Lieutenant Sessler is surprised and frozen in place, transfixed on the firearm pointing at him. "Right here, in my index finger, I have enough power to stop men like you, Sessler."
+The tension in the room could smother a sperm whale. Without saying a word, Bayer produces a piece of cloth from one of his breast pockets, and wiped his face. All without breaking eye contact from Hassel's sneering face. The Sergeant stares his subordinate down, with a scowl that could melt the paint off a car. Again, with a silence so sepulchral you swear you could hear people breathing three cells over. 
 
-The tension in the room could smother a sperm whale. Lieutenant Sessler switch rapidly between looking at the nose-end of Sergeant Bayer's Makarov and back at his face. His gun, then back at him. His gun, then back at him. Seconds elongated into decades.
+You can hear a deafening sound thumping in your ears in this mud-like silence. It takes you three seconds to conclude that it's your own heart racing.
 
-Slowly, the Lieutenant relaxed his posture and assumed a more submissive demeanor without taking his eyes off the weapon. As he did the Sergeant relaxed his grip on the gun, and lowered his trigger finger back to the grip. "You have rebuffed protocols, guidelines, rulebooks, and laws at every turn. It surprises me you have lasted in this organization for any period of time that's not half a day." He says.
+The silence continue, and your heartbeat goes louder.
 
-Sergeant Bayer lowers his gun, and his gun and sits back on his chair, without breaking eye contact with Sessler who was still standing. He stares back, motioning towards his empty chair with a great deal of caution. The Sergeant motions at him with the pistol still in his hand, beckoning him to sit.
+You can't take this anymore.
 
-Lieutenant Bayer grips the back rest of his chair and drags it slowly across the room, making that unpleasant screeching sound of steel scraping on concrete. He stops and sits away from you and the Sergeant, in the middle of one of the long edges of the table.
+No amount of preparation would have prepared you for this much in-fighting.
 
-There's a brief moment of silence before someone speaks, and it's Lieutenant Sessler who does it. "You are assuming, Sergeant, that the book belongs to Nadine Leitzka. I think that assumption is incorrect based on the evidence." He says with a much slower speed and tone.
+Both of these men could have each other killed.
 
-"And?" The Sergeant asks, holstering his gun back in his waist. "What evidence would that be? It's clear from Ms. Lietzka's words that it's hers."
+Could have you killed.
+
+And all you have done wrong is your job.
+
+Your heart, it hurts to even hear it pumping blood frantically.
+
+Someone, make it stop. Please.
+
+And then, a screech.
+
+Lieutenant Bayer gripped the back rest of his chair and is now dragging it slowly across the room, making that unpleasant screeching sound of steel scraping on concrete. He stops and sits away from you and the Sergeant, in the middle of one of the long edges of the table.
+
+As Sergeant Bayer sits, it's Lieutenant Sessler who finally speaks first. "You are assuming, Sergeant, that the book belongs to Nadine Leitzka. I think that assumption is incorrect based on the evidence." He says with a much slower speed and tone.
+
+"And?" The Sergeant asks. "What evidence would that be? It's clear from Miss Lietzka's words that it's hers."
 
 "Sergeant, you can't keep ignoring evidence when it doesn't suit you." The Lieutenant insists. "Hassel has referred to the book's contents before today, he is at least guilty of reading that book."
 
-"And he is guilty of it and will be processed for it in due time, Lieutenant." The Sergeant responds with a nod. "That doesn't make him an operative of a subversive group that is a threat to our national security. Ms. Leitzka is not blameless either. She hid that thing, and did not report it to the local constable."
+"And he will be processed for it in due time, Lieutenant." The Sergeant responds. "That doesn't make him an operative of a subversive group that is a threat to our national security. Miss Leitzka is not blameless either. She hid that thing, and did not report it to the local constable."
 
-"Must have been as his direction, Sergeant. There's more than one way to skin this cat." Lieutenant says, his usual annoyance returning to his breath. "Now now, who is making assumptions now?" Sergeant Bayer says as he gesticulates with his hands some sort of dismissive gesture.
+"Must have been as his direction, Sergeant. There's more than one way to skin this cat." Lieutenant says, his usual annoyance returning to his breath. /n/n "Now now, who is making assumptions now?" Sergeant Bayer says as he gesticulates with his hands some sort of dismissive gesture.
 
 Lieutenant Sessler stretches to get the full dossier, and pulls out sheaves of paper that you recognize. This is your handiwork, typewritten accounts of the conversations that Leitzka and Hassel had had for the past four days. He waves the transcripts around like it was some kind of big revelation.
 
-"What I can read, and what we can read for that matter," Sessler says. "Is for all her high-flying theatrics and defiant attitude, this woman has not had one original thought and follows Hassel around like a lapdog."
+"What I can surmise, instead of taking any random person at their word," Sessler says. "Is that for all her high-flying theatrics and defiant attitude, this woman has not had one original thought and follows Hassel around like a lapdog."
 
 Sergeant Bayer is visibly taken a back by this statement. "Meaning?" He asks with genuine curiosity.
 
-"If she refers to some objects as her book, her pamphlets, I am not one hundred percent of the mind that the material she refers to is the anti-state literature that we are looking for."
+"If she refers to some objects as her book, her pamphlets, I am not one hundred percent of the mind that the material she refers to as hers truly reflects her beliefs. I believe this woman has been conned, lied to, misdirected, even swindled. We have a monopoly on such practices, Sergeant Bayer. This is a subject of manipulation, I am sure of it. If they were not the enemy I would congratulate them on a job well done, but we must reclaim the territory that is ours by rights and country."
 
 Sergeant Bayer slaps his hand against his face, and sighs heavily as he shakes his head. "I find that hard to believe, for you and for this woman." He hisses.
 
@@ -1021,3 +1043,17 @@ You say that Leitzka would have a vested interest to say anything to save her ow
 ### Ending C: Leitzka is convicted, protagonist is killed
 
 ### Ending D: Leitzka is convicted, Sessler is processed for misusing state authority.
+
+
+
+Cut:
+
+
+
+Sergeant Bayer in one sweeping unholsters his pistol, cuts the cartridge, and trains it directly at Sessler's forehead. You jump, and motion towards the door by pure reflex. Lieutenant Sessler is surprised and frozen in place, transfixed on the firearm pointing at him. "Right here, in my index finger, I have enough power to stop men like you, Sessler."
+
+The tension in the room could smother a sperm whale. Lieutenant Sessler switch rapidly between looking at the nose-end of Sergeant Bayer's Makarov and back at his face. His gun, then back at him. His gun, then back at him. Seconds elongated into decades.
+
+Slowly, the Lieutenant relaxed his posture and assumed a more submissive demeanor without taking his eyes off the weapon. As he did the Sergeant relaxed his grip on the gun, and lowered his trigger finger back to the grip. "You have rebuffed protocols, guidelines, rulebooks, and laws at every turn. It surprises me you have lasted in this organization for any period of time that's not half a day." He says.
+
+Sergeant Bayer lowers his gun, and his gun and sits back on his chair, without breaking eye contact with Sessler who was still standing. He stares back, motioning towards his empty chair with a great deal of caution. The Sergeant motions at him with the pistol still in his hand, beckoning him to sit.

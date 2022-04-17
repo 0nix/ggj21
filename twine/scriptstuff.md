@@ -390,7 +390,7 @@ Surveillance starts at 0500 hours on Friday, March 12th.
 
 In the early morning you get a report from Division XIX that there was no veto on file for the gag placed on Hassel and Letizka for that package that had arrived on Wednesday the 10th.
 
-Nobody in the Division even had a record of the package in question, which was surprising considering that the surveillance operation had started at a higher level in the chain-of-command than usual State Security work on suspects for sedition and desertion. The package may have been sent before the gag order, but the package would have at least have had a record of receipt and transfer at the local Post Office, a record that should not have been expunged since those last up to three months. Nobody dropped the package personally, since that would have been caught on surveillance, and the person who would do it immediately detained and interrogated.
+Nobody in the Division even had a record of the package in question, which was surprising considering that the surveillance operation had started at a higher level in the chain-of-command than usual State Security work on suspects for sedition and desertion. The package may have been sent before the gag order, but the package would have at least have had a record of receipt and transfer at the local Post Office, a record that should not have been expunged since those last up to three months. Nobody dropped the package personally, since that.0 would have been caught on surveillance, and the person who would do it immediately detained and interrogated.
 
 Which meant that somebody within either the structure of the Ministry or the Party itself made sure to deliver the package without any tracking or tracing. <- Clue
 
@@ -460,7 +460,7 @@ You observe Leitzka appearing again on camera, leaving through the front door of
 
 Alone in his apartment Hassel starts destroying his belongings, loudly crashing and banging everything he can see. It's quite annoying to listen to, let alone observe "Nadine! Nadine!" He screams. Of course, nobody responds.
 
-After approximately an hour later, his belongings mostly broken or dented, he sits on the sofa in silence, and opens a cabinet next to him. Form it he produces a cigarrette pack, a lighter, and a small porcelain dish. You observe him light up a cigarette and smoke it in silence.
+After approximately an hour later, his belongings mostly broken or dented, he sits on the sofa in silence, and opens a cabinet next to him. Form it he produces a cigarette pack, a lighter, and a small porcelain dish. You observe him light up a cigarette and smoke it in silence.
 
 After finishing his cigarette, you observe him pick up the phone and let it produce the open line tone. He starts speaking into the telephone as if somebody was on the other line, when there isn't. His breath is ragged.
 

@@ -35,7 +35,7 @@ const script = {
   },
   n1: {
     instruction: "dec",
-    content: `A loud buzz drones in your ears, and an equally heavy mechanical latch springs to life, signaling that you are allowed entry. It's a room painted a milky white with a metal table and two chairs on oppsite ends. The light pouring in from the cube-glass window allows you to see the person on the other side of the room. <br/><br/>Its a man clad in olive green, a somewhat faded military uniform, patched in places and coming undone in others. He did not carry the patches or the insignias that followed his authority. He doesn't even look authoritative himself: A cueball head without a hair sticking out, with a face like a crow framed by small circular spectacles, and eyes sunken in so deep you can barely see the color in his pupils.<br/><br/>No patches to identify him.<br/><br/>He doesn't need to be.`,
+    content: `A loud buzz drones in your ears, and an equally heavy mechanical latch springs to life, signaling that you are allowed entry. It's a room painted a milky white with a metal table and two chairs on oppsite ends. The light pouring in from the cube-glass window allows you to see the person on the other side of the room. <br/><br/>Its a man clad in olive green, a somewhat faded military uniform, patched in places and coming undone in others. He did not carry the patches or the insignias that followed his authority, only one jet-black fountain pen in his breast pocket. He doesn't even look authoritative himself: A cueball head without a hair sticking out, with a face like a crow framed by small circular spectacles, and eyes sunken in so deep you can barely see the color in his pupils.<br/><br/>No patches to identify him.<br/><br/>He doesn't need to be.`,
     opts: {
       choices: [
         {
@@ -95,17 +95,17 @@ const script = {
           line: "[jmp]f1b",
         },
         {
-          content: `"Three days, huh?" You say. "That's not nearly enough to obtain an official warrant. Wouldn't that make Sergeant Bayer angry?" `,
+          content: `"Three days, huh?" You say. "That's not nearly enough to obtain an official warrant. Wouldn't that make Sergeant Bayer angry? What about Division IX?"`,
           line: "[jmp]f1c",
         },
       ],
     },
   },
-  f1b: `[say]Lieutenant Sessler grunts in agreement. "If this were a year or two ago, Brownie, I wouldn't even bother with it. But I'm in no mood to anger Sargeant Bayer. If you know that pencil-pushing prick, neither would you. Our Party wants results, not just a bunch of Misters So-and-so locked up, eating away at the prison budget, and doing nothing," he says.`,
+  f1b: `[say]Lieutenant Sessler grunts in agreement. "If this were a year or two ago, Brownie, I wouldn't even bother with it. But I'm in no mood to anger Bayer. If you know that pencil-pushing prick, neither would you. A perfect job for being our designated Division IX rat. Our Party wants results, not just a bunch of Misters So-and-so locked up, eating away at the prison budget, and doing nothing," he says.`,
   f2b: `[say]He stops to look at you in the eye, "I agree with you Brownie, as much as I'd like to simply arrest the man, we will need enough evidence for a formal arrest in three days and you will provide it." He snickers one last time as he calls you that name.`,
   f3b: `[add{lambda_leader_player}]1`,
   f5b: "[jmp]g1a",
-  f1c: `[say]Lieutenant Sessler grunts, annoyed. "If this were a year or two ago, Brownie, I wouldn't even bother with it.  But I'm in no mood to anger Sargeant Bayer. If you know that pencil-pushing, traitor-spawn prick, neither would you. After all, our Party wants results, as if we didn't get them already." Spite laced his last words.`,
+  f1c: `[say]Lieutenant Sessler grunts, annoyed. "If this were a year or two ago, Brownie, I wouldn't even bother with it.  But I'm in no mood to anger Sargeant Bayer. If you know that pencil-pushing, traitor-spawn prick, neither would you. Fiting that he is our designated Divsion IX tattletale. After all, our Party wants results, as if we didn't get them already." Spite laced his last words.`,
   f2c: `[say]He stops a moment and looks at you in the eye, "As much as I'd like to simply arrest the man, Bayer won't have it. We can't do it the way we used to, and men like him will make sure that the best days of this organization are behind us. We will need enough evidence for a formal arrest in three days and you will provide it, Brownie."<br/><br/>He paused just to let that sting in a bit deeper. "No pressure, though." Sessler remarks, snidely.`,
   f3c: "[add{lambda_super_player}]1",
   g1a: `[say]Leiutenant Sessler rises, his metal chair scrapes with a shriek against the floor like a violin crying for help. You get up as well.`,
@@ -139,10 +139,11 @@ const script = {
   e2c: "[add{ lambda_super_player }]-1",
   h1a: `[say]"I have to say," Sargeant Bayer says with a huff "the alacrity of this operation that Sessler has assigned to you is odd, not to mention skirting into illegality. We are the sword and shield of the State, Agent 8R0W713. Not a roving band of thugs."`,
   h2a: `[say]He stops speaking, leans back on his chair. He meditates and you stay silent as well. He rubs his chin back and forward, the room is so quiet you can hear the birstles of his stubble scratch against his hand. After what seems like an eternity, he produces another set of forms his cabinet and starts to fill them out with a sort of aggresion. You don't know how we does it, but he writes loudly. He puts the final, angry flourish on a signature and hands you a set of papers that are still hot.`,
-
-  h3a: `[say]"Agent 8R0W713, you are hererby assigned an additional task. I suspect that Sessler wants something that is not entirely within  out of this. As you report at the end of every workday in the surveillance of this Mr. Hassel and Ms. Leitzka I will join the briefing. I expect you to truthful of what you see. I will not accept an officer that uses the State as his personal cudgel. If I am correct, I will require evidence to make the claim. Counter-intelligence would be thrilled to find a little tyrant in the company, and you will be rewarded for it.`,
-  h4a: `[say]As soon as you grab them, he motions you out of his office.`,
-  h5a: `[say]"Do your job well, Agent 8R0W713." He shouts as you close the heavy metal door. "None shall stand above the law of this Nation. Not even one of Her faithful servants."`,
-  h6a: "[lxs]day1",
+  h3a: `[say]As you start making the motions to leave, Bayer raises his voice. "You have not been dismissed, Agent. Sit down." You haven't been really spoken to this way since your academy days.`,
+  h4a: `[say]"Do you know why Division IX has directly commisioned members of this organization to be their ears and eyes, Agent? Because they're busy. They're busy picking up after the ungrateful bastards that treat Our Fatherland's Swords like it was their private army. Someone has to be the final source of truth. Someone has to settle disputes. Their burden, Agent, is our burden as well. That is why I am giving you another task to complete."`,
+  h5a: `[say]"Agent 8R0W713, in my capacity as the liasion for Division IX, I am authorized to give you a counter-intelligence assignment. I suspect that Sessler wants something that is not entirely within  out of this. As you report at the end of every workday in the surveillance of this Mr. Hassel and Ms. Leitzka I will join the briefing. I expect you to truthful of what you see. If I am correct, I will require evidence to make the claim. Division IX would be thrilled to find a little tyrant in Our Ministry, and you will be rewarded for it.`,
+  h6a: `[say]As soon as you grab them, he motions you out of his office.`,
+  h7a: `[say]"Do your job well, Agent 8R0W713." He shouts as you close the heavy metal door. "None shall stand above the law of this Nation. Not even one of His faithful servants."`,
+  h8a: "[lxs]day1",
 };
 export default script;

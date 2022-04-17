@@ -12,11 +12,11 @@ You don't know where exactly, but being an Agent of the Ministry you could proba
 
 [[Jezebel beckons king David towards her, her gaze suspending the godly man's judgement enough to damn him for an eternity and a day. He is not innocent, and he's not entirely guilty. But the justice we seek does not deal in half measures.]]
 
-You turn around and your eye scans the places that you immediately identified as being odd, misshapen, out of place: That crooked light switch panel overlooking the living room, those odd globs of paint on the ceiling, telling of a brush stroke that went against the grain, the gap in the pattern of the wall scroll that adorned your kitchen. There were too many.
+You turn around and your eye scans the places that you immediately identified as being odd, misshapen, out of place: That crooked light switch panel overlooking the living room, those odd globs of paint on the ceiling, telling of a brush stroke that went against the grain, the gap in the pattern of the wall scroll that adorned your kitchen. And that mask. That blasted mask. Even through its velour pouch by the dumbwaiter you can still feel it looking at you. 
 
-Too many to count.
+There's too many to count.
 
-But they're looking at you, watching, with their beady little eyes up on the wall. You stare back at them, as many as you can. Making sure that they know you are aware of them. These pinpricks voids mounted to wood and plaster were the real bread and butter of the sword and shield of the state. You'd be easily thrown to a cell and left to rot for half a century if you spoke out of turn. But them? These eyes? They are trusted beyond reproach and question. The Frenchman that invented the camera was a hero in your eyes. Your heart sings his praises while at the same time reviles his mother, that creature that damned the world with her terrible spawn: The Frenchman's sons and daughters were stalwart allies and merciless witnesses. Nothing you'd ever do would be a secret, and nothing they, all of them, would ever be a secret either.
+And they're all watching, with their beady little eyes. You stare back at them, as many as you can. Making sure that they know you are aware of them. These pinpricks voids mounted to wood and plaster were the real bread and butter of the sword and shield of the state. You'd be easily thrown to a cell and left to rot for half a century if you spoke out of turn. But them? These eyes? They are trusted beyond reproach and question. The Frenchman that invented the camera was a hero in your eyes. Your heart sings his praises while at the same time reviles his mother, that creature that damned the world with her terrible spawn: The Frenchman's sons and daughters were stalwart allies and merciless witnesses. Nothing you'd ever do would be a secret, and nothing they, all of them, would ever be a secret either.
 
 Closing your eyes is the only escape, a five-hour sanctuary. But you were sure they'd eventually find a way to put a mole in your eyelids and maybe one day get in your mind's eye. The scientists that spend their waking hours coming up with smaller and more impractical cameras are capable of almost anything. At least someone has to be trying that. Perhaps one day they'd get you to photograph your life on your own volition.
 
@@ -42,7 +42,7 @@ The dust bunnies and the slimy plates sitting at the bottom of your sink will li
 
 But you're never alone are you?
 
-You would not bat an eye to think that there was a micro-membrane microphone hooked up just below the bath window. How many of those have you installed those in the last year? Ten, Twenty? There's always some kind of glee, some kind of joy, every time the spec for an operation requires a device in the bathroom. There's already so much you know about them, the public might as well live in glass houses. You wish that was the new thing. Would save you a lot of time, would save them the need to hide.
+You would not bat an eye to think that there was a micro-membrane microphone hooked up just below the bath window. How many of those have you installed those in the last year? Ten, Twenty? There's always some kind of glee, some kind of joy, every time the spec for an operation requires a device in the bathroom. There's already so much you know about them, the public might as well live in glass houses, or have cameras welded to their hands. You wish that was the new thing. Would save you a lot of time, would save them the need to hide.
 
 [[That was so lame wasn't it? Under the bed? That's the first place that anyone that has ever done any spy work will think to look. The age to hide things under the furniture is ten years old maximum. What did you expect? What did you think was going to happen, you dull, dull girl? And she is an accomplice to a plot against state security? What a joke.]]-1
 
@@ -64,9 +64,9 @@ One moment you're here... wherever that is.
 
 [[Hey, do you like her? Do you like him? One of them will never see sunlight again, but do you even care?]]
 
-Another you're stretched far and wide, like a film.
+Another moment, and you're stretched far and wide. Like a film.
 
-[[I wish they could just rat on themselves. Get them sacked, get them thrown out, get them a room with no light and walls closing in. They must have done something to deserve it. Your wrath is just, your hammer is guided by the truth. It's your turn to do what you can, and for them to suffer what they must.]]
+[[I wish they could just rat on themselves. Get them sacked, get them thrown out, get them a room with no light and walls closing in. They must have done something to deserve it. Your wrath is justice, your hammer is guided by the truth. It's your turn to do what you can, and for them to suffer what they must.]]
 
 You feel their gazes intensify, the lights all around you. Like being cooked slowly in a pot.
 
@@ -78,9 +78,9 @@ The warmth pulls you in and you fall forever, a millimeter an hour.
 
 As soon as you close your eyes, you see those two again.
 
-They are phasing in and out, in and out with the nebula of dust and colors. You can still see their features: Their eyes, and their mouths, and their noses. You see their arms and legs in one moment, and the other they go away. Like they were made of smoke. You saw them as big as a tower, and as small as a fly. The are stretching onto infinity and escaping the horizon of things you could see.
+They are phasing in and out, in and out with the nebula of dust and colors. You can still see their features: Their eyes, and their mouths, and their noses. You see their arms and legs in one moment, and the other they go away. Like they were made of smoke. You saw them as big as a tower, and as small as a fly. They stretched onto infinity and escaped the horizon of things you could see.
 
-They open their mouths, and once again, the sounds they make are unintelligible. They make these long vocal sounds that smell like week-old fish and the gunk that sits on your sink.
+They open their mouths, and once again, the sounds they make are unintelligible. They make these long vocal sounds that smell like week-old fish and the gunk that sits on your sink. Their faces twist and turn and warp like they were wearing that hideous mask.
 
 "Are you happy?" You hear a voice ask you.
 
@@ -98,7 +98,7 @@ You must be in a furnace because the lights have become bigger, and brighter. An
 
 The lights are getting warmer and brighter, the darkness is repelled and all that's left is the light.
 
-[["Did Lieutenant Sessler ever tell you if they were actually bad people?" "Do you know why Bayer wanted to be a part of all of this?" "Why you?" "Why are you watching people who could be criminals?" "Aren't you tired of listening on them?" "They cannot be that fascinating to look at?" "Is it too late to quit now?"]]
+[["Did Lieutenant Sessler ever tell you if they were actually bad people?" "Do you know why Bayer wanted to be a part of all of this?" "Why you?" "Why are you watching people who could be criminals?" "Aren't you tired of listening on them?" "Is Division IX really that scary?" "They cannot be that fascinating to look at?" "Is it too late to quit now?"]]
 
 The last shadow is blotted away, and the lights beam you with searing heat.
 
@@ -120,7 +120,7 @@ There will be nothing left of you, once they have no more use for you.
 
 [[You ever wonder why you've never seen an Agent that was older than forty-five years of age. Have you ever seen a retired Agent before? No, no I guess not. They're all gone long before then. You wonder where have they gone. It could be out to the countryside.
 
-But that's not true. They will see you. You know that they will see you. And whatever you do, you won't be able to apologize, or to restitute. Once they're done, you are only a liability. ]] -1
+But that's not true. They will see you. You know that they will see you. If not the boys in Division IX some other congregation of lifeless automatons will. And whatever you do, you won't be able to apologize, or to offer restitution. Once they're done with you, you are only a liability. ]] -1
 
 You feel yourself being torn from the inside out, you are no longer.
 

@@ -10,7 +10,7 @@ This is your job, observe and record. You are the Sword and Shield of the State.
 
 #### Day 1
 
-Surveillance starts at 1500 hours on a Tuesday, March 9th.
+Surveillance starts at 1500 hours on a Wednesday, March 9th.
 
 You observe Nadine Leitzka, washing dishes in the kitchen. She hums a tune you can't quite make through the microphone and the noise of the rushing water.
 
@@ -22,13 +22,13 @@ The door opens on the camera feed pointing to the living room, in comes another 
 
 You observe Hassel sit on the sofa, relaxing his belt buckle. He motions towards the radio. "C-c-could you turn that thing off? They-they're always saying the same things over a-and over." Lietzka complies, and turns the radio off. Audio analysis is no longer a challenge. <- Manifest dislike of newscaster may be a small but concrete sign of dissatisfaction, not enough to signal acitonable offenses, but tells of his state of mind.
 
-Lietzka produces a tablecloth from one of the cupboards and unfurls it across the kitchen table. The rumble in the microphone ever so briefly takes you back to another time. 
+Lietzka produces a tablecloth from one of the cupboards and unfurls it across the kitchen table. The rumble in the microphone ever so briefly takes you back to another time.
 
 Hassel takes off his coat and sets it somewhere beyond the view of the camera, along with a suitcase and a wide brim hat. The coat was decieving, making him look bigger than he actually was. You knew from the dossier picture you had examined before, but he looked like a child stretched to adult proportions, rather than an adult. Leitzka, meanwhile, sets down cups and small dishes. You presume it is to set the table for the dinner. /n/n "How was work today, Bertie?" She says warmly.
 
 "Ah, I d-d-don't want to bore you." Hassel replies shyly.
 
-"Bore me? Bore me with what, Bertie? I can assure you, anything you can tell me will be ten thousand times more exciting than my day alone here." Nadine responds with a bit of a laugh. 
+"Bore me? Bore me with what, Bertie? I can assure you, anything you can tell me will be ten thousand times more exciting than my day alone here." Nadine responds with a bit of a laugh.
 
 Hassel gets up, and embraces Nadine. You observe she is taken a bit aback at the gesture. "I'm just there to p-p-press buttons. Yes, p-p-press buttons and write down stuff on a clipboard. I wrote a s-s-six instead of a n-n-nine. Most exciting part of the day."
 
@@ -42,7 +42,7 @@ Hassel takes a few steps back. Clearly, this is not normal. "I d-d-d-don't know.
 
 "Which reminds me," Lietzka inquires. "Have you gotten any news from Customs?"
 
-"Ugh," Hassel grunts. "No, l-l-let's not talk about that. I have enough with Ge-ge-gerhart's prodding and p-p-pulling and all these--these little grubby things that get in the way of ev-ev-everything." Lietzka stands by the kitchen door, arms crossed. She is not satisfied with Hassel's evasive answer. After a brief moment of silence, Lietzka  throws the meal on a plate. The noise is very sharp. It stings to hear through the headphones.
+"Ugh," Hassel grunts. "No, l-l-let's not talk about that. I have enough with Ge-ge-gerhart's prodding and p-p-pulling and all these--these little grubby things that get in the way of ev-ev-everything." Lietzka stands by the kitchen door, arms crossed. She is not satisfied with Hassel's evasive answer. After a brief moment of silence, Lietzka throws the meal on a plate. The noise is very sharp. It stings to hear through the headphones.
 
 "Hey! Let's not fight please, let's not have it out today, eh dear?" Hassel chides, as he grabs the plate and a fork to eat.
 
@@ -62,7 +62,7 @@ Leitzka chuckles as she pulls a chair opposite from Hassel and sits. "Oh you, do
 
 Hassel laughs. "Ah~! That being the case I can assure you, neither does Laurie's husband. No, no, h-he-he gets his things the old fashioned way, from a cousin of so-so-someone up in Border Troops high command. It's all the same everywhere, all the time. Some Party we got, eh?" <- Subversive attitude against the State apparatus detected.
 
-"By the will of the people... and all that." Leitzka agrees, barely loud enough for you to make out. 
+"By the will of the people... and all that." Leitzka agrees, barely loud enough for you to make out.
 
 Leitzka mouths something that is not visible to the camera, nor loud enough to make out.
 
@@ -78,7 +78,7 @@ After this conversation, Hassel only reacts to the program in short sentences. L
 
 #### Day 2
 
-Surveillance start at 0500 hours on Wednesday, March 10th.
+Surveillance start at 0500 hours on Thursday, March 10th.
 
 Hassel wakes up at 0630 hours, followed by Lietzka shortly thereafter.
 
@@ -90,7 +90,7 @@ In between the laughs, Hassel says. "Who knows? Maybe if you make the Comrade in
 
 "Mister Mealtime, food delivery service! Party members get reduced rates and happy hour!" Leitzka adds as she continues to giggle.
 
-"Bureau members get a free meal a month!" Hassel quips. They both laugh. 
+"Bureau members get a free meal a month!" Hassel quips. They both laugh.
 
 It's been a while since you've heard people laughing so much.
 
@@ -182,7 +182,7 @@ Nadine Leitzka does not return until late in the evening, after Hassel had alrea
 
 #### Day 3
 
-Surveillance start at 0500 hours on Thursday, March 11th.
+Surveillance start at 0500 hours on Friday, March 11th.
 
 At around 0600, you observe a phone call is made to Hassel's residence. The phone ring wakes up Hassel and Leitzka, forcing Hassel to get out of bed earlier than previously observed. Previous surveillance indicates the call is from The People's Electronics Fabricant, approximately 700 meters away from the Hassel surveillance site, Hassel's workplace. On the other line is Hassel's boss, citizen Gerhart Kleiner, Head of Day-Shift Production. The conversation is as follows:
 
@@ -386,7 +386,7 @@ No more activity to report past this hour.
 
 ### Day 4
 
-Surveillance starts at 0500 hours on Friday, March 12th.
+Surveillance starts at 0500 hours on Saturday, March 12th.
 
 In the early morning you get a report from Division XIX that there was no veto on file for the gag placed on Hassel and Letizka for that package that had arrived on Wednesday the 10th.
 

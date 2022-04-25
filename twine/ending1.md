@@ -1,8 +1,8 @@
 # Total Apathy
 
-The following is a recording unearthed from the archives at the Stasi Records Agency in February of 2021. This was one of the last audiographs to be recovered before the agency was absorbed into the German Federal Archives.
+The following is a recording unearthed from the archives at the Stasi Records Agency in February of 2021. This was one of the last audio records to be transcribed before the agency was absorbed into the German Federal Archives.
 
-The recording in question is a reel-to-reel tape, without a corresponding entry in the Index of Investigative References. The markings on it suggest three hypotheses:
+The recording in question is a reel-to-reel tape, without a corresponding entry in the References Index. It's omission suggests that it was made after 1987, as the archive quality of the Stasi's Long Term Storage Facility started to decline around that time. We can theorize that they, like many in the service, knew that their best days were behind them. The markings on the container suggest three hypotheses:
 
 One, the recording was part of a regular surveillance operation on the activities of Division IX, Investigative Body, of the Ministry of State Security, widely know as the Stasi.
 
@@ -20,23 +20,23 @@ S.1: First day. April. Eighty-Eight.
 
 S.2: What for?
 
-S.1: I'm writing a memo to the boys in the box to increase their rate of first time approvals at least 5%. I'm getting tired of having to explain myself to Mielke's genital remorae.
+S.1: I'm writing a memo to the boys in the box to increase their rate of first time approvals at least five percent. I'm getting tired of having to explain myself to Mielke's genital remorae.
 
 S.2: That's not something I wanted to picture in my mind, thank you Mister Bentham. And don't forget, get rid of the prisoners in 17J and 17N.
 
-S.1: It is my endless pleasure Mr. Hobbes. And thank you, I was forgetting that. I guess I had yesterday's Neues lying on my desk. For a moment I thought we were doubling down on our celebration of our victory of the criminal element.
+S.1: It is my endless pleasure Mister Hobbes. And thank you, I was forgetting that. I guess I had yesterday's Neues lying on my desk. For a moment I thought we were doubling down on our celebration of our victory over the criminal element.
 
 S.2: Honestly, Mister Bentham, if Miss Lamarr did not bring you your three meals a day I think you'd starve to death.
 
 S.1: I resent that Mister Hobbes, but then again... I don't think you're wrong.
 
-S.2: Would not be the first time my dear friend. It won't be the only thing you're forgetting today. Today, we celebrate!
+S.2: Would not be the first time, dear friend. It won't be the only thing you're forgetting today. Today, we celebrate!
 
 S.1: Ah yes. A Toast to the success of Division IX, and its efforts to protect and keep the safety of this wonderful Titanic! To Operation Panopticon!
 
 S.2: Aaaah, Mister Bentham. I'm afraid that I will have to report you for speaking anti-citizen ideas. I think you should expect a nice warm squad of people ready to fill every nook and cranny of your soft, shitty body with summons to appear in--
 
-S.1: Who are they going to tell? Division IX? The Politburo? Let them hear it, whoever them is... They know the end is coming, and you can't pull the wool over the eyes of everyone. You can try, sure, but it's not working anymore.
+S.1: Who are they going to tell? Division IX? The Politburo? Let them hear it, whoever them is... They know the end is coming, and you can't pull the wool over everyone's eyes. You can try, sure, but it's not working anymore. I don't think it ever did.
 
 S.2: You mean you believe the rumors about Gorbachev?
 
@@ -48,25 +48,25 @@ S.1: Four, maybe three years ago I would have scoffed at the idea as well. But t
 
 S.2: Well. That's a bridge we'll cross when we get to it. But let us talk about today.
 
-S.1: Yes, Operation Panopticon.
+S.1: Yes, Panopticon.
 
 S.2: Let us recap.
 
-S.1: One Lieutenant Oskar Sessler. Ministry Agent for 20 years. Rising star in the ranks. Has enough seniority to be three ranks above his station. However, he was kicked out of the Main Directorate for Reconnaissance for reasons unknown to us. He winds up an Operations Leader at Division VIII. Never moves up, down, or sideways. Keeps doing the same thing day in and day out, a perfectly average arrest and conviction ratio.
+S.1: Picture one Lieutenant Oskar Sessler. Ministry Agent for 20 years. Rising star in the ranks. Has enough seniority to be three ranks above his station. However, he was kicked out of the Main Directorate for Reconnaissance for reasons unknown to us. He winds up an Operations Leader at Division VIII. Never moves up, down, or sideways. Keeps doing the same thing day in and day out, a perfectly average arrest and conviction ratio.
 
 S.2: Right, so that's why we were suspicious. His salary did not explain the opulence he and his wife lived in.
 
-S.1: In comes another particularly character, Sergeant Bertholt Bayer. Parents try to cross the border into the Federal Republic, they get neutralized, and the little Bert gets left behind. He's put under Wolf's supervision in Operation Piaget. Comes out best in class a soldier for us through and true. Rises through the ranks quickly, a Sergeant of Division VIII.
+S.1: In comes another particularly character, Sergeant Bertholt Bayer. Parents try to cross the border into the Federal Republic, they get neutralized, and little Bert gets left behind. He's put under Wolf's supervision in Operation Piaget. Comes out best in class a soldier for us through and true. Rises through the ranks quickly, becomes a Sergeant of Division VIII.
 
-[PAUSE]
+[A Pause in the conversation. The sound of ice cubes clinking on a glass can be heard.]
 
 S.2: Remind me why we are looking into this guy, Mister Bantham.
 
-S.1: Remember the big story about how an agent fell down the river and drowned?
+S.1: Remember the big story about how an agent of Division VII fell down the river and drowned?
 
 S.2: No I don't.
 
-S.1: Do you ever attend briefings Mister Hobbes? We made that up! The boys at Division XIX spent weeks creating that story. We had a smuggler already ready to sing when this living breathing piece of metal just started wailing on the guy. It was very hard to explain the bruises left in the bod of a drowned person. Oh and another thing. They hate each other.
+S.1: Do you ever attend briefings Mister Hobbes? We made that up! The boys at Division XIX spent weeks creating that story. We had a smuggler already ready to sing when this living breathing statue just started wailing on the guy. It was very hard to explain the bruises left in the corpse of a drowned person, I'll tell you that much. Oh and another thing. They hate each other.
 
 S.2: Right, ok. So we put them together and then we engaged them in the same investigation. For which we created Nadine Leitzka.
 
@@ -74,7 +74,7 @@ S.1: We didn't create her, Mister Hobbes. So great is this nation of ours that t
 
 S.2: Right, because Letizka--
 
-S.1: She never was the woman Hassel thought she was.
+S.1: She never was the woman Albert Hassel thought she was.
 
 S.2: We need to give her a raise, that Nadine. She did a mighty fine job. She stuck to the script and everything.
 
@@ -90,11 +90,11 @@ S.2: Nah, nah, nah. Let him think he dodged a bullet.
 
 5.2 So, given all the pieces in place. What's the question we wanted to answer?
 
-5.1: If you want it in a nutshell it's a test of loyalty. We trust ourselves with tremendous power, and while there is no doubt.
+5.1: If you want it in a nutshell it's a test of loyalty. We are endowed with tremendous responsibility and power, and while there is no doubt--
 
 S.2: None?
 
-S.1: None, that we are doing the right thing. But the power we have is terrifying, if you think about it for more than ten seconds.
+S.1: None, that we are doing the right thing. But the power we have is quite terrifying, if you think about it for more than ten seconds.
 
 S.2: Ok, I thought about it.
 
@@ -126,7 +126,7 @@ S.1: Not even for a second, Mister Bantham.
 
 S.2: Are they going to complain?
 
-S.1: I don't think they well. You spend so much time with all this patriotic pantomime, and it all crashes down the more you know. And they know almost anything important there is to know. It's got to be either the funniest thing in the world or the worst job in the world.
+S.1: I don't think they well. You spend so much time with all this patriotic pantomime, and it all falls apart the more you're in the know. And they know almost anything important there is to know. It's got to be either the funniest thing in the world or the worst job everßßß.
 
 S.2: They'd sooner have us break their arms than to tell the truth for ten seconds.
 
@@ -146,7 +146,7 @@ S.1: Well yeah... and no. Wolf has his own little birds and spiders for sure. An
 
 S.2: And Wolf is doing this because he's...
 
-S.1: Afraid? You bet. He's got eyes on him too. Some are from the Politburo, some are from his own people, some are from the enemies. He knows he's being watched. But you hever know is watching though. That's the sick twisted thing of it. You know it. You know they're looking at you.
+S.1: Afraid? You bet. He's got eyes on him too. Some are from the Politburo, some are from his own people, some are from our enemies beyond Brandenburg. He knows he's being watched. But you never know who's watching though. That's the sick twisted thing of it. You know it. You know they're looking at you.
 
 S.2: But you don't know who or when.
 
@@ -156,7 +156,7 @@ S.2: What about us Mister Bantnam.
 
 S.1: That's a rather rookie question to make right?
 
-S.2: Hah, yeah sorry.
+S.2: Hah, yeah. Sorry.
 
 S.1: Shame about the agent Eight-Red-Zero... whatever. Took a bullet to the head like a champ.
 
@@ -172,18 +172,18 @@ S.1: He's coming.
 
 S.2: N-no-no. No way. No way. Is he coming personally or-?
 
-S.1: I wouldn't bet on it. I wouldn't be surprised if it was one of his puppies. He knows.
+S.1: I wouldn't bet on it. I wouldn't be surprised if it was one of his dogs. He knows.
 
 [a brief silence]
 
-S.2: We better leave, Bantnam. You never know who's watching.
+S.2: We better leave, Bantham. You never know who's watching.
 
-S.1: C'mon, I've got the key to the silent door.
+S.1: C'mon, I know a way out.
 
 [TRANSCRIPT END]
 
-There is no record, original, catalogued, or reassembled, of Operation Panopticon Marks I or II. There is also no current evidence of such Agents named either Bantnam or Hobbes working for Division IX in 1988. It is presumed that these were aliases or codenames.
+There is no record, original, catalogued, or reassembled, of Operation Panopticon Marks I or II. There is also no current evidence of such Agents named either Bantham or Hobbes working for Division IX in 1988. It is presumed that these were aliases or codenames.
 
 The Transcript seems to accurately reflect current knowledge of Stasi prisoners: The Nadine Leitzka was an assumed identity, the true woman responding to that name most likely dead or missing. Albert Hassel was liberated following an a additional month from the time this tape was played. Current whereabouts unknown.
 
-It is unknown if Lieutenant Oskar Sessler or Sergeant Bertholt Bayer are live or where are they now. Stasi documentation after July of 1988 was catalogued poorly, or destroyed following Reunification.
+It is unknown if Lieutenant Oskar Sessler or Sergeant Bertholt Bayer are alive nor where are they now. As stated before, Stasi documentation declined in quality starting in 1987. After July of 1988, most records were partially or completely destroyed following Reunification.

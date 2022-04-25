@@ -162,7 +162,13 @@ You're not even sure they're feeding you once day.
 
 Day 11? 
 
-It all kinda blurs together. It's only when you sleep when you remember people, colors, shapes, the outside. That beautiful world beyond the door.
+It all kinda blurs together. It's only when you sleep when you remember people, colors, shapes, the outside. That beautiful world beyond the door. 
+
+Wait, beautiful? 
+
+Is that really what you called it back then?
+
+That doesn't sound right.
 
 One more marking on the wall. But it's pointless to still continue to count.
 
@@ -200,7 +206,7 @@ You look down and you can't find the rest of your torso, your legs, or your feet
 
 "Will Lieutenant Oskar Sessler please give his final remarks?" Says the judge, unhinging it's jaw from what you can only assume is an arm. You'd think he couldn't move his limbs, on account of him having his entire body impaled with large steel rebar wires.
 
-The courtroom warps into a spherical something, and the eyes continue to watch you from every angle. You look away, then you look again and it's Lieutenant Sessler.
+The courtroom walls warp and wobble, and the eyes continue to watch you from every angle. You look away, then you look again and it's Lieutenant Sessler.
 
 That's new, but not surprising. He's on fire.
 
@@ -228,17 +234,23 @@ Then, the armor's helmet falls off in all the violent thrashing. More and more r
 
 "KILL HIM! KILL HIM! KILL HIM!"
 
-The voice becomes a chorus of voices protesting at different times as fire begins to shine through the hole where the head inside the suit of armor should be. It emerges through every cavity, raging and exploding as if it was alive. You turn to see the judge fully transformed into Lady Justice herself: Golden, blind, and holding the scales on one hand and a sword in the other.
+The voice becomes a multiplicity of the same voice protesting at different times as fire begins to shine through the hole where the head inside the suit of armor should be. It emerges through every cavity, raging and exploding as if it was alive. You turn to see the judge fully transformed into Lady Justice herself: Golden, blind, and holding the scales on one hand and a sword in the other.
 
 "KILL HIM KILL HIM KILL HIM"
 
-It's no longer shouting, whatever this thing Bayer is. It's droning on and on and on like ticking clock. The walls of eyes all around dart more quickly and violently. Lady Justice's body bubbles and bloats, the familiar symbol warping and twisting itself into a mangled fractal of golden nightmares.
+It's no longer shouting, whatever this thing Bayer is. It's droning on and on and on like a tick-tock tick-tock. The walls of eyes all around dart more quickly, more violently. Lady Justice's body bubbles and bloats, the familiar symbol twisting itself into a mangled fractal of golden nightmares.
 
 Out from the suit armor protrudes a fiery, gnarly skull moving its jaw bone up and down. You know, somehow, that it is Oskar Sessler. His raspy voice joins the metallic din of Bayer's. "KILLIM KILLIM KILLIM" They both holler in a terrible harmonization.
 
-Just when you think the noise will make your head explode, and you want to scream as loud as you can but you can't find a mouth to do it. This terrible noise that you feel entering in you and frying your senses like a million tiny explosions.
+Just when you think the noise will make your head explode, and you want to scream. You want to scream as loud as you can but you can't find a mouth to do it. 
 
-It stops.
+This terrible noise. You can't can even hear yourself.
+
+You can't think. 
+
+You feel it. It enters you and sets fire to your senses, like a million tiny explosions.
+
+And it stops.
 
 You turn your head the ungodly monster that accused you of so many terrible things is gone. The judge is now gone too. All that remains is this sphere of eyes. 
 
@@ -246,9 +258,9 @@ They're not darting around anymore. They're looking at you.
 
 Every single one of them fixated upon you.
 
-Even the ones that you cannot crane your head to see. They see you.
+Even the ones that you cannot crane your head to see. You feel them looking at you.
 
-You can feel their stares, just like that other time. They burn like the sun through a magnifying glass.
+And they burn like the sun through a magnifying glass.
 
 You can't move, you can't do anything. They look at you and they stare and they do not move. They see you in your everything. 
 
@@ -268,7 +280,7 @@ Yes, it's a shadow?
 
 Your shadow?
 
-Whatever it is, it's getting bigger. It was a thin line and now its as wide as you. Well, what you think is you. 
+Whatever it is, it's getting bigger. It was a pinprick, then it was a thin line, and now its as wide as you are. Well, what you think is you. 
 
 The shadow thing gets bigger.
 
@@ -310,6 +322,6 @@ Unflinching.
 
 ["Stop looking at me!"]
 
-Es gibt kein Entrinnen vor den Augen an den Wänden. (run a script to play gunshots and stop printing the sentence)
+Es gibt kein Entrinnen vor den Augen an den Wänden. (run a script to play a gunshot and stop printing the sentence)
 
 {END, JUMP TO GAME OVER SCREEN}

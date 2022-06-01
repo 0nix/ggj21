@@ -6,11 +6,11 @@ It's over. Finally it's over.
 
 Your job cannot be called "fun" by any stretch of the imagination. But this has been a particularly unpleasant drag. Usually your immediate superior never had any intentions to do anything other the minimum required to maintain their position, and in time you had learned to be just as perfunctory. It was a real fight to remain that way.
 
-As you walk by the canteen you start thinking late lunch, early dinner. What would be good? You had been on nothing but the bare minimum for sustenance. While a standard for surveillance jobs, you couldn't stop yourself from thinking from a full-course meal. The smell of a full plate of food lingers just a bit as you come to your destination: Division IX, or the Procedural Investigative Body. No faces. No people. Just a cold, hard, rusted steel wall with a slot to exchange documents, a microphone and a speaker.
+As you walk by the canteen you start thinking late lunch, early dinner. What would be good? You had been on nothing but the bare minimum for sustenance. While a standard for surveillance jobs, you couldn't stop yourself from thinking from a full-course meal. The smell of food lingers just a bit as you come to your destination: Division IX, or the Procedural Investigative Body. No faces. No people. Just a cold, hard, rusted steel wall with a slot to exchange documents, a microphone and a speaker.
 
 Division IX is a review board for standard and special investigative operations across State Security. The Ministry will not act unless a conviction is all but guaranteed, after all punishments in this country were designed to deter  and destroy the anti-citizen element. 
 
-To make sure our record stays clean as snow, and to prevent the Comrades working for Division IX to fall victim from retaliation, nobody was allowed to know their identity or their rank. The agents would be given decoy designations and positions, with their post in Division IX only disclosed to Division Heads, the Office of the Minister, and their closest allies in Division II Counter-Intelligence. This much secrecy at such a scale can only be maintained if Division IX had unclassified liaisons that spoke for it, like Bayer. 
+To make sure our record stays clean, and to prevent the Comrades working for Division IX to suffer from retaliation, nobody was allowed to know their identity or their rank. The agents would be given decoy designations and positions, with their post in Division IX only disclosed to Division Heads, the Office of the Minister, and their closest allies in Division II Counter-Intelligence. This much secrecy at such a scale can only be maintained if Division IX had unclassified liaisons that spoke for it, like Bayer. 
 
 You often found that the word "special" in "special operation" was a largely meaningless term. There would be little distinction between what was considered a normal operation and a special one. No matter what, it would always involve some poor bastard behind a desk with a tape recorder, sometimes a live camera feed, snooping in someone else. The only thing odd about this whole circus you were roped into was the fast turnaround. If not for the constant bickering between your superiors, you wouldn't mind to go through more jobs like this one.
 
@@ -38,25 +38,29 @@ Oh no.
 
 Oh no.
 
-Suddenly, you feel an incoming numbness around your nose and your fingertips. Your superiors turn around to face you. To call them furious would be a gross understatement of their faces. 
+Suddenly, you feel an incoming numbness around your nose and your fingertips. Your superiors turn around to face you. If they could, their ears would spit out smoke and fire.
 
 "On Preliminary Review, it is the opinion of this Division that Agent Eight-Red-Zero-Whiskey-One-Seven-Three has grossly declined to perform their duties. Culpability must be assigned and Sabotage ruled out before the Agent is permitted to resume their duties. All privileges and rights given to Agent Eight-Red-Zero-Whiskey-One-Seven-Three will be revoked until further notice. Immediate detainment is advisable, followed by-"
 
-You didn't even have the chance to finish hearing the intercom before Sergeant Bayer bull-rushed you and pinned you to the ground. You hit the floor and you feel his entire weight on your chest and arms. On reflex you start to squirm just to get some room to breathe but he crushes you, relentlessly. "You will submit, Detainee!" He roars. "I will not tolerate filthy would-be saboteurs! Not on my sight!" 
+You didn't even have the chance to finish hearing the message before Sergeant Bayer bull-rushed you and pinned you to the ground. You hit the floor and you feel his entire weight on your chest and arms. On reflex you start to squirm just to get some room to breathe but he crushes you, relentlessly. "You will submit, Detainee!" He roars. "I will not tolerate would-be saboteurs! Not on my sight!" 
 
-You turn your head. You can't avoid resting your tongue on the floor where you were standing ten seconds ago. You taste the soles of every dick who had ever worked at the Stasi. You crane your neck up, but Sessler pushes you back down. "Down you dog! Down!" He yells with an increasingly crazed tone of voice. The sounds of boots on the ground echo all around you. They belong people that were supposed to detain you, without a doubt. 
+You turn your head. You can't avoid resting your tongue on the floor where you were standing ten seconds ago. You taste the soles of every dick who had ever worked at the Stasi. You crane your neck up, but Sessler pushes you back down. "Down, you dog! Down, I say!" He yells with an increasingly crazed tone of voice. The sounds of boots on the ground echo all around you. 
+
+They belong to the people that were actually supposed to detain you, without a doubt. 
 
 Perhaps calling your performance "gross" was beyond the pale. The one day they decided to give a damn was today. And it just had to be your investigation they reviewed.
 
 The boots on the ground get closer and closer still, and pretty soon you feel the Sergeant's weight lifted from your body only to be manhandled by pairs of unknown hands pinning your arms behind your back in handcuffs.
 
-"Stand up! You are hereby detained by the Ministry of State Security on counts of Dereliction of Duty and Attempt to Sabotage State Operations!" You hear some guy in a helmet shout at you as they stand you up. They twist you around to face another hallway. And right in front of you, like a poltergeist, is Lieutenant Sessler, only a few centimeters away from your face. He shakes his head, but he also smiles that yellow devil smile of his. "Time to make chicken salad out of chicken shit, Brownie. It seems that's all you were good for." He says. The smell of his breath makes you wince.
+"Stand up! You are hereby detained by the Ministry of State Security on counts of Dereliction of Duty and Attempt to Sabotage State Operations!" You hear some guy in a helmet shout at you as they stand you up. They twist you around to face another hallway. 
 
-"Take him away to Guard Tower J, boys. Let's make it a nice place while this bastard waits." He orders as he gets out of the way. You count about six men pushing and pulling you as you are marched away from Lieutenant Sessler and Sergeant Bayer.
+Right in front of you, a poltergeist in uniform. No, it's Lieutenant Sessler, only a few centimeters away from your face. He shakes his head, but he also smiles that yellow devil smile of his. "Time to make chicken salad out of chicken shit, Brownie. It seems that's all you were good for." He says. The smell of his breath makes you wince.
+
+"Take him away to Guard Tower J, boys. Let's make it a nice one, huh?" He orders as he gets out of the way. You count about six men pushing and pulling you as you are marched away from Lieutenant Sessler and Sergeant Bayer.
 
 That last whiff from canteen would probably be the last time you smell good food. Because there's no going back from a Stasi Agent that has just been accused of sabotage.
 
-They might as well have called you a traitor, or a rebel, or a dissident. You'd do anything to get transferred to the mail room.
+They might as well have called you a traitor, or a rebel, or a dissident. Right now, you'd do anything to get transferred to the mail room.
 
 At least they didn't call you western spy, you'd be shot on the spot.
 
@@ -96,7 +100,7 @@ Your eyes have to get used to the darkness again, so for a while you can't even 
 
 Once you do, you can see in the darkness that there's no utensils. Just a bowl and a plate on a tray. They expect you to use your hands.
 
-So you eat.
+So you eat with just your hands.
 
 ...
 
@@ -132,7 +136,7 @@ What will you say?
 
 As soon as you get your hand out there, you hear some yelling you can't quite make out, and then you feel this pain.
 
-This terrible pain. They're kicking your hand away. They're not stopping. They kick again and again.
+This terrible pain. They're stomping on your hand. They're not stopping. You feel the weight of an entire human body press on your muscles and bones again and again.
 
 You can't avoid pulling it back. 
 
@@ -204,7 +208,7 @@ It's the damp interior of a room with overly varnished wood panelling. In front 
 
 You look down and you can't find the rest of your torso, your legs, or your feet. You're a half man. You're not even sure you have arms and legs anymore.
 
-"Will Lieutenant Oskar Sessler please give his final remarks?" Says the judge, unhinging it's jaw from what you can only assume is an arm. You'd think he couldn't move his limbs, on account of him having his entire body impaled with large steel rebar wires.
+"Will Lieutenant Oskar Sessler please give his final remarks?" Says the judge, unhinging it's jaw with what you can only assume is an arm protruding from the front of his torso. You'd think he couldn't move his limbs, on account of him having his entire body impaled with large steel rebar wires.
 
 The courtroom walls warp and wobble, and the eyes continue to watch you from every angle. You look away, then you look again and it's Lieutenant Sessler.
 
@@ -238,7 +242,7 @@ The voice becomes a multiplicity of the same voice protesting at different times
 
 "KILL HIM KILL HIM KILL HIM"
 
-It's no longer shouting, whatever this thing Bayer is. It's droning on and on and on like a tick-tock tick-tock. The walls of eyes all around dart more quickly, more violently. Lady Justice's body bubbles and bloats, the familiar symbol twisting itself into a mangled fractal of golden nightmares.
+It's no longer shouting, whatever this thing Bayer is. It's droning on and on and on like the tick-tock of a clock. The walls of eyes all around dart more quickly, more violently. Lady Justice's body bubbles and bloats, the familiar symbol twisting itself into a mangled fractal of golden nightmares.
 
 Out from the suit armor protrudes a fiery, gnarly skull moving its jaw bone up and down. You know, somehow, that it is Oskar Sessler. His raspy voice joins the metallic din of Bayer's. "KILLIM KILLIM KILLIM" They both holler in a terrible harmonization.
 

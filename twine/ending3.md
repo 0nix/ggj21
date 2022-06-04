@@ -14,7 +14,7 @@ As you walk by the canteen you start thinking late lunch, early dinner. What wou
 
 Division IX is a review board for standard and special investigative operations across State Security. The Ministry will not act unless a conviction is all but guaranteed. After all, punishments in this country were designed to strike fear into criminal minds and deter good citizens from straying from their obligations to their fellow comrades.
 
-To make sure our record stays clean as snow, and to prevent the Comrades working for Division IX to fall victim from retaliation, nobody was allowed to know their identity or their rank. The agents would be given decoy designations and positions, with their post in Division IX only disclosed to Division Heads, the Office of the Minister, and their closest allies in Division II Counter-Intelligence. This much secrecy at such a scale can only be maintained if Division IX had unclassified liaisons that spoke for it, like Bayer.
+To make sure our record stays clean, and to prevent the Comrades working for Division IX to fall victim from retaliation, nobody was allowed to know their identity or their rank. The agents would be given decoy designations and positions, with their post in Division IX only disclosed to Division Heads, the Office of the Minister, and their closest allies in Division II Counter-Intelligence. This much secrecy at such a scale can only be maintained if Division IX had unclassified liaisons that spoke for it, like Bayer.
 
 They'll endow with the ability to essentially point the finger at anyone and put them in a cell for at least a day, so long as they completely humiliate you first, and they will still treat you like a schoolchild. Sometimes you'd sneak in a little something, just for kicks. A word like "watermelon" or "sassafras" into the write-ups. Just to see if they were actually read your work. They've either never noticed, or never cared enough to mention it.
 
@@ -34,13 +34,13 @@ Of course, you'd never know. The members of Division IX all have aliases, fake p
 
 "No we do not, Division IX. We do not want to request that." Lieutenant Sessler interrupts, elbowing the Sergeant away from the microphone. Sessler was not anticipating that, so he is swept aside with ease. "Belay that, Comrade. Belay." Sessler growls. "I need to have a word with this mook."
 
-"This will be your last time, Sessler! You under arrest for--" The Sergeant hollers, as he fumbles around his pockets for his hand cuffs.
+"This will be your last time, Sessler! You are under arrest for--" The Sergeant hollers, as he fumbles around his pockets for his hand cuffs.
 
 [End Option]
 
 "You will stand down, now." The disembodied voice from the speaker interrupts the two men as they readied themselves for, well, whatever it was they wanted to do to each other. Both Sessler and Bayer stiffen up and stand up straight at this order as they continue to glare at each other.
 
-"Lieutenant Oskar Sessler. Sergeant Bertholt Bayer. You will be receiving official reprimands for the behavior we have observed this very moment." The speaker on the wall said.
+"Lieutenant Oskar Sessler. Sergeant Bertholt Bayer. You will be receiving official reprimands for the behavior we have just observed." The speaker on the wall said.
 
 The word "official" had a bit of a sting to it, even if it sometimes smacked of meaninglessness.
 
@@ -62,7 +62,7 @@ The words out of the speaker box were like running tap water over a scalding hot
 
 What joy.
 
-"Agent," Lieutenant Sessler mutters, with a rather palpable hatred mixed in with exasperation. "You are now dismissed. Resume your duties, go kick a puppy, just... Just get out of my sight."
+"Agent," Lieutenant Sessler mutters, with a rather palpable hatred mixed in with exasperation. "You are now dismissed. Resume your duties, go kick a puppy, I don't care. Ju-just get out of my sight."
 
 You salute, and walk away. You'd see another assignment tomorrow, and the excursion to Friederichsfielde would come on the weekend.
 
@@ -72,7 +72,7 @@ It's evening and you're not staring at strangers through a camera the size of a 
 
 Mercifully mindless entertainment.
 
-The fridge had greeted you with most of your stock going stale, so you had to make do with a mainstay of your Soviet friends: Butterbrod. Which is to say, a piece of bread, a slice of doctor's sausage, and the chunk of cheese that had not grown mold yet. They say it's still not good for you even if you had not seen mold yet, but you had been lucky all the times you had taken that risk. Or, you were eating mold and it just wasn't killing you.
+The fridge had greeted you with most of your stock going stale, so you had to make do with a mainstay of your Soviet friends: Butterbrod. Which is to say, a piece of bread, a slice of doctor's sausage, and the chunk of cheese that had not grown mold yet. They say it's still not good for you even if you had not seen mold yet, but you had been lucky all the times you had taken that risk. Or, you were really eating mold and it just wasn't killing you.
 
 [rrring]
 
@@ -184,7 +184,7 @@ The masked assailant grabs you by your hair and stabs you with a syringe on the 
 
 Your vision becomes extremely blurry as colors and the edges of objects swirl and blend together. Your assailants let you go and their faces are all the mushy and distorted. They become rather inhuman as everything around you goes dark.
 
-This is the last time you'll see everything around you. And you can't even do that right.
+This is the last time you'll see your house and your belongings. And you can't even do that right.
 
 They all look at you, as everything goes dark.
 
@@ -196,9 +196,9 @@ E.
 
 Help?
 
-The first thing you notice are the black markings on the wall. From here you could see what they are. It's a message. Written with what you can't really tell. But it does say something. It says "HELP."
+The first thing you notice are the black markings on the wall. From here you could see what they are. It's a message. Written with what you can't really tell. But it does say something. It says "HELP" in elongated, tortured strokes.
 
-The rest of the world quickly comes into focus and you're wide awake.
+The rest of the world comes into focus and you're slowly waking up.
 
 "Let him know the Agent's awake." You hear someone out of sight say. Then you hear a few steps walking away from you. Then you hear a metal door swing open and close with a rattle and hum.
 
@@ -224,7 +224,7 @@ He takes a deep breath.
 
 He inhales deeply in his mask.
 
-"We have to let them go you know? You had a job. All you had to do was to pin that overgrown hamster Hassel. But since you decided to pony up for your dear comrades, we had to let that bastard go. But hey! I caught a terrorist inside our very own organization! And all I had to do was to drop that rodent's papers on your desk, I would call that a win. An absolute win."
+"We have to let them go you know? You had a job. All you had to do was to pin a dud bomb on that overgrown hamster of a man. But since you decided to stick up for your dear comrades, we had to let that bastard go. But hey! I caught a terrorist inside our very own organization! And all I had to do was to drop that rodent's papers on your desk, I would call that a win. An absolute win."
 
 The world swirls and turns, and you wish you could barf.
 
@@ -244,7 +244,7 @@ You hear more footsteps. More people coming in. They're blending into the walls.
 
 That enunciation. It's him.
 
-"Not a lot here besides your background check from your Academy days. After that, not much of note. I do wonder where did you get off joining a terrorist group. Are these yours?"
+"Not a lot here besides your background check from your Academy days. After that, not much of note. I do wonder where did you get off joining a terrorist group. Tell me, are these yours?"
 
 You hear a bunch of papers slam on the metal table. Your vision's still kinda blurry, but you can make it enough to see that they're not yours.
 
@@ -324,7 +324,7 @@ You haven't really been able to regain your ability to speak yet, but you can st
 
 "Listen, I ju-ju-just want you to listen, maybe you can help... or not. I don't know. My name is Albert. Albert Hassel. I work at an electronics factory." The voice from the next cell over calls out.
 
-"Listen I-I-I. All I want is to go back home. I didn't do anything wrong, ok? I just wanted to go o-o-on a holiday to Latvia. I didn't know it was-s-s wrong to do you know? I won't. I swear."
+"I-I-I.. Oh, oh. All I want is to go back home. I didn't do anything wrong, ok? I just wanted to go o-o-on a holiday to Latvia. I didn't know it was-s-s wrong to do you know? I won't. I swear."
 
 Albert pauses as you can hear him trying to move the cot and scratching the floor of the cell.
 
@@ -386,17 +386,17 @@ Not like you have much of a choice.
 
 [VARIANT 2]
 
-"I miss mom. I miss Wennie. She's my sister Wennie. I miss her so much." She says in between pauses longer than you would expect. You could swear you heard some loud sniffing.
+"I miss mom. I miss Wennie. I miss her so much." She says in between pauses longer than you would expect. You could swear you heard some loud sniffing.
 
-"Wennie. Mom. I wish I could see you right now. I wish I could have held you. I wish I would have had the money for that woman to ferry all of us so we could be together. Instead I have to stay. I have to stay because otherwise they'd notice right away. And she needed to be away. Oh, Mom? Where are you? Where are you Wennie? Are you even alive? I don't even know anymore. You'd be dead and I wouldn't even know." That last one was one very loud sob.
+"Wennie. Mom. I wish I could see you right now. I wish I could have held you. I wish I would have had the money for that woman to ferry all of us so we could be together. Instead I have to stay. Otherwise they'd have noticed right away. And she needed to be gone. Oh, Mom? Where are you? Where are you Wennie? Are you two even alive? I don't even know anymore. You'd be dead and I wouldn't even know." That last one was one very loud sob.
 
-"Oh. Oh no. I can't no. No. No I can't cry. No. No-no-no-no. C'mon Leitzka, C'mon. You've gotta pull yourself together. C'mon." She kept saying repeating over and over as she cried. Her words became increasingly incomprehensible. Her cries became muffled and blended into the noises of the jail.
+"Oh. Oh no. I can't no. No. No I can't cry. No. No-no-no-no. C'mon Nadine, C'mon. You've gotta pull yourself together. C'mon." She kept saying repeating over and over as she cried. Her words became increasingly incomprehensible. Her cries became muffled and blended into the noises of the jail.
 
 [VARIANT 3]
 
 "You win, Sessler! You win! If you can hear me, you win! Take me now, I'm yours! C'mon, you bald cow! I know you want me! This is your way to punish me for sure! I wanted to leave, and I wouldn't let you do me, so this is how it is huh?! Huh?!"
 
-"Is this how you and your wife do it?! She's gotta know! She's gotta know the big bad Oskar Sessler makes more gravy that a soup kitchen! Is she into it?! I hope she does, or I will gladly swap places with her in the cell, I bet she'd love to be out of your sight! Do you hear me! Do you hear me Sessler! You bastard! I'm here! I'm naked right fucking now! Come on! COME ON! COME ON YOU FUCK!"
+"Is this how you and your wife do it?! She's gotta know! She's gotta know the big bad Oskar Sessler makes more gravy than a soup kitchen! Is she into it?! I hope she does, or I will gladly swap places with her in the cell, I bet she'd love to be out of your sight! Do you hear me! Do you hear me Sessler! You bastard! I'm here! I'm naked right fucking now! Come on! COME ON! COME ON YOU FUCK!"
 
 [VARIANT 4]
 

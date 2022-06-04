@@ -1,6 +1,6 @@
 # Reversal Radical Bayer, Sessler Wins
 
-Lieutenant Sessler crosses his hand and grits his sickly yellow teeth. He glares at Sergeant Bayer, then he glares at you, his beady eyes darting back and forth to make sure both you feel his hatred. The Sergeant responds, staring him down with a scowl reserved for when you smell rotten fish. "You are a real disgrace to this company, Oskar. Do you know that?"
+Lieutenant Sessler crosses his arms and grits his sickly yellow teeth. He glares at Sergeant Bayer, then he glares at you, his beady eyes darting back and forth to make sure both you feel his hatred. The Sergeant responds, staring him down with a scowl reserved for when you smell rotten fish. "You are a real disgrace to this company, Oskar. Do you know that?"
 
 "Spare me these speeches, Bayer. And, so long as you are speaking to me at least have the courtesy of referring to me by my rank." Sessler says with a heavy helping of contempt dripping down his mouth.
 
@@ -10,25 +10,23 @@ This catches the usually flippant Lieutenant off-guard. It takes him at least a 
 
 "Yes Oskar, why? Why would I grant you any kind of professional courtesy?" Sergeant Bayer muses, looking at his fingers and picking dirt off of them.
 
-The Lieutenant still cannot believe his own eyes, and his anger is mixed with genuine disbelief. "You may outrank me, you limp-dicked cunt, but you will respect my authori-" He begins to say, before the Sergeant interrupts him. "Your authority? Your authority?" He scoffs before breaking a soft giggle. 
+The Lieutenant still cannot believe his own eyes, and his anger is mixed with genuine disbelief. "You may outrank me, you limp-dicked cunt, but you will respect my authori-" He begins to say, before the Sergeant interrupts him. "Your authority? Your authority?" He scoffs before breaking a soft giggle.
 
-This giggle is so out of place, Sessler doesn't even know how to deal with himself. You can see it, completely painted on his face. To be honest, you can't either. It sounds wrong. It's like Bayer learned how to laugh an hour ago. 
+This giggle is so out of place, Sessler doesn't even know how to deal with himself. You can see it, completely painted on his face. To be honest, you can't either. It sounds wrong. It's like Bayer learned how to laugh an hour ago.
 
+"Let me tell you exactly what's going to happen to your authority, Oskar Sessler." The Sergeant taunts. "It will be stripped away, and you will be detained. If we are lucky, today. There will be consequences for your behavior and your use of the Ministry to carry out your personal vendetta, that I can promise you."
 
-
-"Let me tell you exactly what's going to happen to your authority, Oskar Sessler." The Sergeant taunts. "It will be stripped away, and you will be detained. If we are lucky, today. There will be consequences for your behavior and your use of the Ministry to carry out your personal vendetta, that I can promise you." 
-
-Finally, Lietuenant Sessler find it within himself to muster enough anger to shout. "I'm warning you!" 
+Finally, Lietuenant Sessler find it within himself to muster enough anger to shout. "I'm warning you!"
 
 "Of what?!" The Sergeant roars. "You'll yell at me some more, I presume? The Agent has proven that Miss Leitzka is guilty beyond reproach of every crime that we had suspected was committed by Albert Hassel. Nothing about this investigation has been normal. This madness ends now."
 
-"If you question intel one more time, I will report you for sabotage myself! That woman is mine!" Sessler vociferates. Quite an interesting admission. 
+"If you question intel one more time, I will report you for sabotage myself! That woman is mine!" Sessler vociferates. Quite an interesting admission.
 
 Now that gets the Sergeant's attention. He sharply turns his head to face Sessler and raises his finger at him. "Yours?! That's it, you snake. You will go in-"
 
 At this point, Oskar Sessler is no reasonable. He stands up, it's almost like a ploy to make himself look bigger as long as the Sergeant is sitting down. "I dare you to do anything to me, you traitor scum!" He snarls.
 
-The Sergeant stands up as well, re-asserting his dominance with his height and his booming voice. "I will be heard, you bald bastard! I'm relieved I was here to stop you. I'm even more relieved that the Agent co-operated at his own risk!" 
+The Sergeant stands up as well, re-asserting his dominance with his height and his booming voice. "I will be heard, you bald bastard! I'm relieved I was here to stop you. I'm even more relieved that the Agent co-operated at his own risk!"
 
 Hearing this, the Lieutenant freezes, his mouth agape in the middle of another invective.
 
@@ -114,7 +112,7 @@ You look back up to find both men in a standoff: Sergeant Bayer is pointing his 
 
 "GHAAAARGH!" With one more swing Sessler manages to catch the Sergeant off guard and manages to hit him in the arm holding the gun. He lets go of it and cries in pain. The gun gets knocked on the ground somewhere out of sight.
 
-Sessler grins and roars again, this time with glee. He charges at Bayer and swings the metal chair against him. 
+Sessler grins and roars again, this time with glee. He charges at Bayer and swings the metal chair against him.
 
 There's a loud clang and a sick cracking sound.
 
@@ -214,20 +212,27 @@ All of the sudden, you can only see a hazy mass of aqueous red. But you can defi
 
 -CLUNK-
 
-The world swims in a dance of pain and relief. You can't really see anymore. Everything is so dark. But you can hear Oskar Sessler continue to laugh and laugh and laugh.
+The world swims in a dance of pain and relief. You can't really see anymore. Everything is so dark. But you can hear Oskar Sessler continue to laugh.
+-CLUNK-
+
+And laugh.
 
 -CLUNK-
 
-You can't see anything anymore. And Sessler's mirth starts to drift away. You start to loose yourself everywhere.
+And laugh.
 
 -CLUNK-
+
+You can't see anything anymore. And Sessler's mirthful face starts to drift away. You start to loose yourself everywhere.
 
 The world is dark. And every sound is diluted in a sea of pleasant waves crashing against the void.
 
 -CLUNK-
 
--CLUNK-
+...
 
--CLUNK-
+...
 
-Finally, darkness.
+...
+
+Finally, silence.

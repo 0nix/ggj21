@@ -382,25 +382,37 @@ Not like you have much of a choice.
 
 [VARIANT 1]
 
-"I hope you're a guy. You're probably a guy, right? They usually lock guys up. Because you guys are stupid enough to get yourselves locked up? Me? Well I guess I'm now stupid too. Stupid enough to believe that a guy would help me get out of here if I tried to convince him. He's such a sweetie, that Bertie. Too bad that he's such a boob. Pfeh, he wishes he was as pleasant as one. He's so soft. So damn soft. But it's not even a nice soft. It's like a mattress that's so soft that you sink in it. I thought I could learn to love the man. He had it sooo hard for me too. So hard. It was so so obvious but it was so boring. But a lady could get used to that. If you can stomach making him three meals a day and polishing his pecker every so often. Eugh, the silver lining is that I get to be away from him and actually have a reason to be. I just wish it wasn't here."
+"I hope you're a guy. You're probably a guy, right? They usually lock guys up. Because, ya know, you guys are stupid enough to get yourselves locked up?"
+
+She chuckles a bit before continuing. "Me? Well I guess I'm now stupid too. Stupid enough to believe that a guy would help me get out of here if I tried to convince him. He's such a sweetie, that Bertie. Too bad that he's such a boob."
+
+Hers are strained fits of laughter, the act of putting a brave face above it all and falling. "Pfeh, he wishes he was as pleasant as one. He's so soft. So damn soft. But it's not even a nice soft. It's like a mattress that's so soft that you sink in it."
+
+She pauses for a long time.
+
+You swear you could hear the faintest sniffling before she continues talking. "I thought I could learn to love the man. He had it so hard for me too. So hard. It was so so obvious but it was so boring. But.. a lady could get used to that. If you can stomach making him three meals a day and polishing his pecker every so often. Perhaps the silver lining is that I get to be away from him and actually have a reason to be. I just wish it wasn't here."
 
 [VARIANT 2]
 
 "I miss mom. I miss Wennie. I miss her so much." She says in between pauses longer than you would expect. You could swear you heard some loud sniffing.
 
-"Wennie. Mom. I wish I could see you right now. I wish I could have held you. I wish I would have had the money for that woman to ferry all of us so we could be together. Instead I have to stay. Otherwise they'd have noticed right away. And she needed to be gone. Oh, Mom? Where are you? Where are you Wennie? Are you two even alive? I don't even know anymore. You'd be dead and I wouldn't even know." That last one was one very loud sob.
+"Wennie. Mom. I wish I could see you right now. I wish I could have held you. I wish I would have had the money for that woman to ferry all of us so we could be together. Instead I have to stay. Otherwise they'd have noticed right away. And she needed to be gone. Oh, Mom? Where are you? Where are you Wennie? Are you two even alive? I don't even know anymore. You'd be dead and I wouldn't even know." She ends the last sentence with one very loud sob.
 
 "Oh. Oh no. I can't no. No. No I can't cry. No. No-no-no-no. C'mon Nadine, C'mon. You've gotta pull yourself together. C'mon." She kept saying repeating over and over as she cried. Her words became increasingly incomprehensible. Her cries became muffled and blended into the noises of the jail.
 
 [VARIANT 3]
 
-"You win, Sessler! You win! If you can hear me, you win! Take me now, I'm yours! C'mon, you bald cow! I know you want me! This is your way to punish me for sure! I wanted to leave, and I wouldn't let you do me, so this is how it is huh?! Huh?!"
+You can hear her banging on the walls as she screams a top of her voice. "You win, Sessler! You win! If you can hear me, you win! Take me now, I'm yours! C'mon, you bald cow! I know you want me! This is your way to punish me for sure! I wanted to leave, and I wouldn't let you do me, so this is how it is huh?! Huh?!"
 
-"Is this how you and your wife do it?! She's gotta know! She's gotta know the big bad Oskar Sessler makes more gravy than a soup kitchen! Is she into it?! I hope she does, or I will gladly swap places with her in the cell, I bet she'd love to be out of your sight! Do you hear me! Do you hear me Sessler! You bastard! I'm here! I'm naked right fucking now! Come on! COME ON! COME ON YOU FUCK!"
+She continues to yell, even as she shreds her vocal chords to pieces. "Is this how you and your wife do it?! She's gotta know! She's gotta know the big bad Oskar Sessler makes more gravy than a soup kitchen! Is she into it?! I hope she does, or I will gladly swap places with her in the cell, I bet she'd love to be out of your sight! Do you hear me! Do you hear me Sessler! You bastard! I'm here! I'm naked right fucking now! Come on! COME ON! COME ON YOU FUCK!"
 
 [VARIANT 4]
 
-"Hey ma. Guess what? Your books! They got me arrested for sure! And if they haven't, they'll find them and fuck me like the best whore in Berlin! Oh, ma. Ma... I wish you wouldn't have. But that's all you left me. Why did you leave me? Why? Wh-why-why? Did you hate me? That's why Wennie didn't stay and I did? Wh-why would you leave me with your books ma? I wish you wouldn't have, that way I wouldn't know to wait for something better, ma. I wish you would have never told me, ma. I'd rather have you read them to me like we used to, ma. I miss you. I miss you and Wennie. I miss you both so, so, so much. I miss you. I mi-miss you. I just want to see you two again. Please. Oh, please. Please."
+"Hey, guess what? My ma's books got me arrested! And if they haven't, they'll find them and fuck me like the best whore in Berlin!" She says in between whimpers and sobs.
+
+"I wish she wouldn't have done that. But that's all she left me." The sobbing becomes louder. "Oh ma, ma... Where are you ma?" She says. You get the feeling she's not talking to you anymore.
+
+"Why did you leave me? Why? Wh-why-why? Did you hate me? That's why Wennie didn't stay and I did? Wh-why would you leave me with your books ma? I wish you wouldn't have, that way I wouldn't know to wait for something better, ma. I wish you would have never told me, ma. I'd rather have you read them to me like we used to, ma. I miss you. I miss you and Wennie. I miss you both so, so, so much. I miss you. I mi-miss you. I just want to see you two again. Please. Oh, please. Please." Her pleads, become wails, which become sad, messy noises.
 
 [END OF VARIANTS]
 

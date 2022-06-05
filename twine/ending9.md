@@ -4,7 +4,7 @@
 
 "Oh, I wouldn't say that, Sergeant. You should let loose sometimes." The Lieutenant quips as he fingers the papers on the dossier. "It's good for the soul. Heck, you're invited too. We've got something to celebrate, after all. The hostesses at the Owl have a way with guests you wouldn't believe. Specially Mielka, that woman is a dynamo. But now, c'mon Brownie, you've gotta have at least some place in mi-"
 
-The Sergeant is positively irate. His whole face turns red and he draws a deep breath as a wind up before his booming voice rings in your ears. "There will be no discussion of libations or fraternizing on company time, Lieutenant! You too, Agent! That is an order!" 
+The Sergeant is positively irate. His whole face turns red and he draws a deep breath as a wind up before his booming voice rings in your ears. "There will be no discussion of libations or fraternizing on company time, Lieutenant! You too, Agent! That is an order!"
 
 Sessler is uncharacteristically unphased. "Oh please, would you lighten the fuck up, Sergeant? We got him! We got Albert Hassel dead to rights! I told you he was guilty, the intel never lies!" He says with a very sing-songy tone.
 
@@ -22,7 +22,7 @@ Sessler turns to you with a raspy chuckle. "You know, don't even bother to answe
 
 "Not really, but it's going to be a really fun game once I'm done with you, Bayer." Sessler responds, dropping his buddy-buddy act and returning to his taunting, venomous cadence. "We will be submitting this for expedited processing, along with a very nice slip of paper that describes how you got in my way in every turn."
 
-The Sergeant tightens his fists so strongly you swear you can see the capillaries in his knuckles. "You are accusing me of treason, Lieutenant Oskar Sessler. Tread lightly." 
+The Sergeant tightens his fists so strongly you swear you can see the capillaries in his knuckles. "You are accusing me of treason, Lieutenant Oskar Sessler. Tread lightly."
 
 Sessler scoffs. He's having too much fun. "How about we talk about your have a penchant for sabotaging an operations critical to the safety of the country, hm? How about distracting the flow of a perfectly nominal Ministry investigation, directing it into a wild goose chase? And what about the brave Lieutenant and his subordinate, safeguarding the sate by curbing these terrible tendencies"
 
@@ -40,19 +40,29 @@ Slowly, the Lieutenant relaxed his posture and assumed a more submissive demeano
 
 [VARIANT 1]
 
-As he did, the Sergeant relaxed his grip on the gun, and lowered his trigger finger back to the grip. "You have rebuffed protocols, guidelines, rulebooks, and laws at every turn. It surprises me you have lasted in this organization for any period of time that's not half a day. You are the reason I have a job. To find and convict the greedy and the corrupt. This country is too good, too pure, too just for the likes of you. Hail the Republic! Hail the Worker! Hail! Hail! The Motherland will be glad I rid her of this pest!" He shouts with an alarmingly increasing incoherence.
+The Sergeant relaxed his grip on the gun, and lowered his trigger finger back to the grip. "You have rebuffed protocols, guidelines, rulebooks, and laws at every turn. It surprises me you have lasted in this organization for any period of time that's not half a day." He says, barely able to contain his anger.
+
+And he won't for much longer.
+
+"You are the reason I have a job. To find and convict the greedy and the corrupt. This country is too good, too pure, too just for the likes of you. Hail the Republic! Hail the Worker! Hail! Hail! The Motherland will be glad I rid her of this pest!" He shouts with an alarmingly increasing incoherence.
 
 [VARIANT 2]
 
-As he did, the Sergeant relaxed his grip on the gun, and lowered his trigger finger back to the grip. "If you think your position in this organization is secure, Sessler, let me disabuse of that notion immediately. They know everything. The cheating, the crummy detective work, the stealing, the women. Everything. The only reason why you're not behind bars right now is that the Motherland deserves to know of everything the blight on her body does! Let me tell you, you're a not a pest. You're a gangrene, Oskar Sessler. You and your lapdog are wounds on our Mother's body and as I live and breathe I will save Mother! I will cauterize the affliction and banish it!" He shouts with an alarmingly increasing incoherence.
+The Sergeant relaxed his grip on the gun, and lowered his trigger finger back to the grip. "If you think your position in this organization is secure, Sessler, let me disabuse of that notion immediately. They know everything. The cheating, the crummy detective work, the stealing, the women. Everything." He says, taunting Lieutenant Bayer who can't decide whether or not he's scared or irate.
+
+"The only reason why you're not behind bars right now is that the Motherland deserves to know of everything the blight on her body does! Let me tell you, you're a not a pest. You're a gangrene, Oskar Sessler. You and your lapdog are wounds on our Mother's body and as I live and breathe I will save Mother! I will cauterize the affliction and banish it!" He shouts with an alarmingly increasing incoherence.
 
 [VARIANT 3]
 
-As he did, the Sergeant relaxed his grip on the gun, and lowered his trigger finger back to the grip. "The day I was rescued from those traitorous maggots was the day I was reborn, Oskar Sessler! What greater joy is there than to serve this wonderful land and make sure she's safe? The Motherland remade me into her perfect soldier. You should be remade too, Sessler. They take away all your imperfections. All the things that distract you. They reshaped me, gave me a purpose. I gave it up, all for her! A paltry sacrifice, I assure you. What kind of son would betray his Mother?" He shouts with an alarmingly increasing incoherence.
+The Sergeant relaxed his grip on the gun, and lowered his trigger finger back to the grip. "The day I was rescued from those traitorous maggots was the day I was reborn, Oskar Sessler/ What greater joy is there than to serve this wonderful land and make sure she's safe? The Motherland remade me into her perfect soldier."
+
+He pauses to gather himself as adjusts his pistol grip. "You should be remade too, Sessler." Bayer says, cracking a wide smile.
+
+"They take away all your imperfections. All the things that distract you. They reshaped me, gave me a purpose. I gave it up, all for her! A life, a family, my children never to be! A paltry sacrifice, I promise! What kind of son would betray his Mother!?" He shouts with an alarmingly increasing incoherence.
 
 [END VARIANT]
 
-"DO IT!" The Lieutenant roars. "I DARE YOU, YOU BASTARD PENCIL PUSH-" 
+"DO IT!" The Lieutenant roars. "I DARE YOU TO SHOOT ME, YOU BASTARD PENCIL PUSH-"
 
 And that's when it all goes to hell.
 
@@ -64,7 +74,7 @@ And on the floor there's the Lieutenant.
 
 At least you think it's the Lieutenant, it's a body wearing his uniform. But his head is all mangled.
 
-Lots of blood, bits and bobs of pink, exploded, everywhere. 
+Lots of blood, bits and bobs of pink, exploded, everywhere.
 
 Blood oozing out of Sessler, he's on the ground.
 
@@ -76,7 +86,7 @@ You turn to look at the perpetrator, and you can't still hear a thing but you se
 
 He just shot his coworker, your boss. He's not all that there.
 
-Then something primeval, something from the depths of your mind becomes like a siren going off in your mind. 
+Then something primeval, something from the depths of your mind becomes like a siren going off in your mind.
 
 You're probably next.
 
@@ -88,7 +98,7 @@ You struggle to open it. Your eyes are still ringing, but you see the Sergeant r
 
 Finally the metal door opens and you swing it wildly.
 
-Help. 
+Help.
 
 Help! How to get help?
 

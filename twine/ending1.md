@@ -20,11 +20,11 @@ S.1: First day. April. Eighty-Eight.
 
 S.2: What for?
 
-S.1: I'm writing a memo to the boys in the box to increase their rate of first time approvals at least five percent. I'm getting tired of having to explain myself to Mielke's genital remorae.
+S.1: I'm writing a memo to the boys in the box to increase their rate of first time approvals at least five percent. I'm getting tired of having to explain myself to Mielke's genital hangers-on.
 
 S.2: That's not something I wanted to picture in my mind.  Thank you, Mister Bentham. We mustn't forget to get rid of the prisoners in 17J and 17N.
 
-S.1: It is my endless pleasure to give you wonderful images to think of at night, Mister Hobbes. And I was forgetting about those two. I guess I had yesterday's Neues lying on my desk. For a moment I thought I had hallucinated the celebration of our victory over the criminal element.
+S.1: It is my endless pleasure to give you wonderful images to think of at night, Mister Hobbes. I was forgetting about those two. I guess I had yesterday's Neues lying on my desk. For a moment I thought I had hallucinated the celebration of our victory over the criminal element.
 
 S.2: Honestly, Mister Bentham, if Miss Lamarr did not bring you your three meals a day I think you'd starve to death.
 

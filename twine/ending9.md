@@ -1,8 +1,16 @@
 # Reversal Radical Sessler, Bayer wins
 
-"Say Brownie, where's your favorite bar?" Lietuenant Sessler asks with a bit of a smirk on his face. Sergeant Bayer widens his eyes and slowly turns his head, as if the man had just said something truly unspeakable. "Quite irrelevant to the current conversation, wouldn't you say Lieutenant?" He admonishes.
+"Say Brownie, where's your favorite bar?" Lietuenant Sessler asks with a bit of a smirk on his face. 
 
-"Oh, I wouldn't say that, Sergeant. You should let loose sometimes." The Lieutenant quips as he fingers the papers on the dossier. "It's good for the soul. Heck, you're invited too. We've got something to celebrate, after all. The hostesses at the Owl have a way with guests you wouldn't believe. Specially Mielka, that woman is a dynamo. But now, c'mon Brownie, you've gotta have at least some place in mi-"
+"I've got a couple in mind," The Lieutenant says playfully. "I'm quite partial to The Blue Bird, there are some waitresses there that, well... They know me. They really know me. But I've gone a couple times already this month. Maybe we'll go to The Broken Clock. Yeah, think that's a good idea. Even if they close a bit early and their decoration is a bit garish, I'm sure we can empty some bottles of vodka."
+
+Sergeant Bayer widened his eyes and slowly turns his head, as if the man had just said something truly unspeakable. Sessler pauses for a moment to look at Sergeant Bayer's reaction. He smirks. 
+
+"C'mon Agent, surely there must be a place they know you by name. If you're an agent of the Ministry, and not be a drunkard is grounds for immediate suspicion! Fess up, Brownie. Tell us where you'd like to go." Lieutenant Sessler says, in his best attempts to establish rapport.
+
+"Quite irrelevant to the current conversation, wouldn't you say Lieutenant?" Sergeant Bayer says, enunciating every syllable as he says it.
+
+"Oh, I wouldn't say that, Sergeant. You should let loose sometimes." The Lieutenant quips as he fingers the papers on the dossier. "It's good for the soul. Heck, you're invited too. We've got something to celebrate, after all. The hostesses at the Clock have a way with guests you wouldn't believe. Specially Mielka, that woman is a dynamo. Hehehe."
 
 The Sergeant is positively irate. His whole face turns red and he draws a deep breath as a wind up before his booming voice rings in your ears. "There will be no discussion of libations or fraternizing on company time, Lieutenant! You too, Agent! That is an order!"
 
@@ -12,7 +20,13 @@ Sessler is uncharacteristically unphased. "Oh please, would you lighten the fuck
 
 "Look at all this evidence!" The Lieutenant says, waving the dossier around like a flag. "We played your game, we went the distance, we reported on the relevant findings. What else could we possibly do to convince you? Do we need to have some guy form Division IX too? Or maybe you want the entire department to come down and kiss your balls?" He says with some glee.
 
-Sessler turns to you with a raspy chuckle. "You know, don't even bother to answer that. The real boots on the ground have better things to do than to argue with you. Now c'mon, Brownie. Th'night is young, let's go get something to drink. If you can't come up with one place, let's just agree to go to The Owl."
+That last sentence was enough to zip up Bayer's mouth. "Exactly how did you expect this was going turn out eh, Bayer?" He says in between chortles. "That you were going to last as some avenger in the night for a pathetic little man? That we were going to entertain anything other than what the intel we had on Sessler? Frankly, it's like I'm explaining basic arithmetic to a child." 
+
+That last one made this man, the stink of day-old cigarettes made into a human being, break into a fit of laughter. Bayer doesn't even blink as he continues to stare Sessler down.
+
+"We have always done it like this, Bayer. Plain, and simple." The Lieutenant continues. "It's not going to change. We find them. We book them. We catch them. We throw them in a little cell. Sometimes I suck some to get what I want, and sometimes others want I got so they suck me. Surely you must know that much, Bayer? Say, how many people have you serviced to get to way you are? You must have done something like that, right? How many? Ten, fifteen, a hundred? All that work, and this is where it gets you."
+
+Sessler turns to you with a raspy chuckle. "You know, don't even bother to answer that. The real boots on the ground have better things to do than to argue with you. Now c'mon, Brownie. Th'night is young, let's go get something to drink. If you can't come up with one place, let's just agree to go to The Bird."
 
 "A game." Sergeant Sessler growls.
 
@@ -44,13 +58,13 @@ The Sergeant relaxed his grip on the gun, and lowered his trigger finger back to
 
 And he won't for much longer.
 
-"You are the reason I have a job. To find and convict the greedy and the corrupt. This country is too good, too pure, too just for the likes of you. Hail the Republic! Hail the Worker! Hail! Hail! The Motherland will be glad I rid her of this pest!" He shouts with an alarmingly increasing incoherence.
+"You are the reason I have a job. To find and convict the greedy and the corrupt. This country is too good, too pure, too just for the likes of you. Hail the Republic! Hail the Worker! Hail! Hail! The Motherland will be glad I rid her of this pest!" He shouts with an alarmingly increasing incoherence. His face contorts and warps into painful expressions, as if his features were trying to break free from the flesh.
 
 [VARIANT 2]
 
 The Sergeant relaxed his grip on the gun, and lowered his trigger finger back to the grip. "If you think your position in this organization is secure, Sessler, let me disabuse of that notion immediately. They know everything. The cheating, the crummy detective work, the stealing, the women. Everything." He says, taunting Lieutenant Bayer who can't decide whether or not he's scared or irate.
 
-"The only reason why you're not behind bars right now is that the Motherland deserves to know of everything the blight on her body does! Let me tell you, you're a not a pest. You're a gangrene, Oskar Sessler. You and your lapdog are wounds on our Mother's body and as I live and breathe I will save Mother! I will cauterize the affliction and banish it!" He shouts with an alarmingly increasing incoherence.
+"The only reason why you're not behind bars right now is that the Motherland deserves to know of everything the blight on her body does! Let me tell you, you're a not a pest. You're a gangrene, Oskar Sessler. You and your lapdog are wounds on our Mother's body and as I live and breathe I will save Mother! I will cauterize the affliction and banish it!" He shouts with an alarmingly increasing incoherence. His face contorts and warps into painful expressions, as if his features were trying to break free from the flesh.
 
 [VARIANT 3]
 
@@ -58,7 +72,7 @@ The Sergeant relaxed his grip on the gun, and lowered his trigger finger back to
 
 He pauses to gather himself as adjusts his pistol grip. "You should be remade too, Sessler." Bayer says, cracking a wide smile.
 
-"They take away all your imperfections. All the things that distract you. They reshaped me, gave me a purpose. I gave it up, all for her! A life, a family, my children never to be! A paltry sacrifice, I promise! What kind of son would betray his Mother!?" He shouts with an alarmingly increasing incoherence.
+"They take away all your imperfections. All the things that distract you. They reshaped me, gave me a purpose. I gave it up, all for her! A life, a family, my children never to be! A paltry sacrifice, I promise! What kind of son would betray his Mother!?" He shouts with an alarmingly increasing incoherence. His face contorts and warps into painful expressions, as if his features were trying to break free from the flesh.
 
 [END VARIANT]
 

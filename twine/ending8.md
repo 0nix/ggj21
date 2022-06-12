@@ -24,7 +24,7 @@ Finally, Lietuenant Sessler find it within himself to muster enough anger to sho
 
 Now that gets the Sergeant's attention. He sharply turns his head to face Sessler and raises his finger at him. "Yours?! That's it, you snake. You will go in-"
 
-At this point, Oskar Sessler is no reasonable. He stands up, it's almost like a ploy to make himself look bigger as long as the Sergeant is sitting down. "I dare you to do anything to me, you traitor scum!" He snarls.
+At this point, Oskar Sessler is no longer reasonable. He stands up, it's almost like a ploy to make himself look bigger as long as the Sergeant is sitting down. "I dare you to do anything to me, you traitor scum!" He snarls.
 
 The Sergeant stands up as well, re-asserting his dominance with his height and his booming voice. "I will be heard, you bald bastard! I'm relieved I was here to stop you. I'm even more relieved that the Agent co-operated at his own risk!"
 

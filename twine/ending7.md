@@ -246,11 +246,11 @@ From the crowd, a ghoulish man emerges wearing a cloth mask and gloves. He walks
 
 He hesitates for a moment, and he nudges what was once Albert Hassel with his foot. 
 
-"GGGHGGGGK" you can hear somebody stiffling their laughter. Something between a gargle and a large mouse squeaking.
+"GGGHGGGGK" you can hear somebody stifling their laughter. Something between a gargle and a large mouse squeaking.
 
 You turn to see Lieutenant Sessler, with a toothless smile from ear to ear.
 
-You are somehow able find the amusement in the situation as well. It's all so... perfunctory.
+You are also able find the amusement in the situation as well. It's all so... perfunctory.
 
 If a man survived that many gunshots, he would be an asset not a liability.
 
@@ -260,7 +260,7 @@ If a man survived that many gunshots, he would be an asset not a liability.
 
 The army infantry man turns to the public gathered to see a man die. "Justice has been served! Such are the wages of those who commit treason! Recruits, burn this into your minds! Anyone can be a traitor! Anyone!"
 
-He pauses a moment to continue. "There is no such thing as a citizen who is not tempted, there is no such thing as a man who is above reproach. A prior history is not needed to become an enemy of this state! A lifetime of apparent loyalty is not indication of a man without sin! We must remain vigilant from our first day, till our last!"
+He pauses a moment to continue. "There is no such thing as a citizen who is not corrupted, there is no such thing as a man who is above reproach. One toe off the path of justice is all it takes to become our enemy! A lifetime of loyalty is not an indication of a man without sin! And so, we must remain vigilant from our first day, till our last!"
 
 "That is our duty!" He proclaims as he thrusts his hand into the air.
 
@@ -274,9 +274,9 @@ The crowd hurrahs.
 
 The crowd responds in kind. "For the Fatherland!" they proclaim. 
 
-"We are done," the infantryman says in a triumphant tone. "as you wer."
+"We are done," the infantryman says in a triumphant tone. "as you were."
 
-The crowd breaks formation and starts heading for the exits. "Let's scram," Sessler whispers in our ear. "Meet me at the gates, ten minutes. I've got just the thing to celebrate."
+The crowd breaks formation and starts heading for the exits. "Let's get out of here," Sessler whispers in our ear. "Meet me at the gates in ten minutes. I've got just the thing to celebrate."
 
 You file in the building with the others. Out of the corner of your eye you can see one man scrub the floor with lye, and another man and push the remains around with a shovel.
 

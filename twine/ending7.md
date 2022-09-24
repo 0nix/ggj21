@@ -1,6 +1,6 @@
 # Hardline Sessler
 
-The morning is brisk, but not uncomfortably so. You will not see the sun today. It hides above a thick blanket of clouds. 
+The morning is brisk, but not uncomfortably so. You will not see the sun today. It hides above a thick blanket of clouds.
 
 You have been through worse weather. The hues above you match the stoic tint of the concrete towers surrounding you on all four sides.
 
@@ -8,7 +8,7 @@ The people congregate around the edges of a concrete yard, while in the center t
 
 They are all milling about as they wait for the hour to strike seven o'clock. There is a mixture of Ministry agents and Soldiers in their dark tans and grayish greens respectively, some idly chatting by while others dutifully clean and service their rifles. Many of them look like they have not gotten quality time with their bed in days.
 
-You could say the same for yourself. 
+You could say the same for yourself.
 
 After the rush-job special operation was over, you had expected to slide in the usual beat of things. Spy work is quite monotonous when taken as a whole: Taking pictures, collecting ephemera, doing the rounds on public microphones, checking in with local surveillance offices, the works.
 
@@ -24,15 +24,15 @@ And it doesn't take a genius to figure out who is putting their finger on the sc
 
 Speak of the cueball-headed devil.
 
-"It's such a shame that we have to schedule these things so early in the morning." Lieutenant Oskar Sessler said with some exasperation before he closes in and whispers in your ear. 
+"It's such a shame that we have to schedule these things so early in the morning." Lieutenant Oskar Sessler said with some exasperation before he closes in and whispers in your ear.
 
-"I don't know what kind of bumbling moron in the Politburo said that the Army is the only agency authorized to administrate firing squads." He continues as he rubs his hands together. "If they really wanted to rut out corruption in this country, the fat jerk that came up with that rule would be the first one on my list." 
+"I don't know what kind of bumbling moron in the Politburo said that the Army is the only agency authorized to administrate firing squads." He continues as he rubs his hands together. "If they really wanted to rut out corruption in this country, the fat jerk that came up with that rule would be the first one on my list."
 
 It's not every day you are casually informed of a plot to harm a duly elected representative.
 
-The Lieutenant cackles madly as he slaps your back. "I'm just joking Agent! C'mon, lighten up a little. You have to!" He says, boisterous in his gesticulation. 
+The Lieutenant cackles madly as he slaps your back. "I'm just joking Agent! C'mon, lighten up a little. You have to!" He says, boisterous in his gesticulation.
 
-Your face may have given yourself away. You cannot bring yourself to laugh, you have not really been given that option either. 
+Your face may have given yourself away. You cannot bring yourself to laugh, you have not really been given that option either.
 
 "If we started to arrest men in the Politburo for being fat jerks there wouldn't be a single member left!" Sessler says with craggy chortles.
 
@@ -50,29 +50,27 @@ He stops as soon as he started, and gives you the death glare. "Agent, I said la
 
 Ah yes, Sergeant Bayer.
 
-The righteous and incorruptible Bayer was not happy with you. 
+The righteous and incorruptible Bayer was not happy with you.
 
-When you and your superiors had reported your findings to Division IX, he was fit to explode like a runaway train. 
+When you and your superiors had reported your findings to Division IX, he was fit to explode like a runaway train.
 
-Division IX is a review board for standard and special investigative operations across State Security. The Ministry will not act unless a conviction is all but guaranteed. After all, the punishments you administered were not designed to rehabilitate offenders, they were meant to eliminate.
+Division IX is a review board for standard and special investigative operations across State Security. The Ministry will not act unless a conviction is all but guaranteed. After all, the punishments you administered were not designed to rehabilitate offenders, they were meant to eliminate them.
 
-To annihilate.
+If you wore any sign or seal of the government of this country, you borrowed from the fear and respect that many people before you created. And so it's your job, and the job of everyone around you, to carry that forward.
 
-To destroy.
+Otherwise, they will come for you.
 
-Destroy what? Well, you'll see soon enough.
+For such punitive strength, we needed to make sure our record stays clean. To prevent comrades working for Division IX to suffer from retaliation, nobody was allowed to know their identity or their rank.
 
-For such punitive strength, we needed to make sure our record stays clean. To prevent comrades working for Division IX to suffer from retaliation, nobody was allowed to know their identity or their rank. 
+Your desk neighbors could be right next to you for years, decades, and you would never know their real occupation.
 
-Your desk neighbors could be right next to you for years, decades, and you would never know their real occupation. 
-
-Their post in Division IX is only disclosed to Division Heads, the Office of the Minister, and their closest allies in Division II Counter-Intelligence. They also had unclassified liaisons, who spoke on behalf of Division IX, which made secrecy much simpler. 
+Their post in Division IX is only disclosed to Division Heads, the Office of the Minister, and their closest allies in Division II Counter-Intelligence. They also had unclassified liaisons, who spoke on behalf of Division IX, which made secrecy much simpler.
 
 Bayer was one such liaison. And he made sure you knew about that the final day of the investigation.
 
 Everyone heard him threaten you and the Lieutenant to be court-martialed. He called you every name under the sun.
 
-"Vermin", "fascist" come to mind. "A blood-sucking lamprey stuck on the country's teat," as far as insults go, is quite the choice of words. 
+"Vermin" and "fascist" come to mind.  You were called "a blood-sucking lamprey stuck on the country's teat" too. As far as insults go, that was quite the choice of words.
 
 The day after, you found yourself tasked with a mountain menial, dull tasks that were beneath your station. Mail-opening, document-filing, note-transcribing tasks suitable for a wet-round-the-ears greenhorn.
 
@@ -82,11 +80,17 @@ The accusations continued in writing, and from the way people looked at you in c
 
 Even after all that, after hearing in so many words how you and you alone would bring the entire German Democratic Republic to its knees, you never heard of the radical group ever again. No bomb was planted. No tragedy was suffered. If anything, right now you were the biggest victim of United Left. They should be protecting you at this point.
 
-Sessler doubtlessly caught wind of what was going on. Because after that week, it was as if the fairies looked your way and magicked all your troubles away.
+Sessler caught wind of what was going on. You had not seen him since the debriefing, but there's no other explanation for what happened next. 
 
-Bayer had nothing for his case, and you made sure of it.
+After one week of Bayer's foot pressing on your head, it was as if the fairies looked your way and magicked all your troubles away.
 
-Because the man currently shoving you to your place in formation was the fairy that had mate it all happen, the nastiest spider in the agency, your real boss.
+The Sergeant had nothing for his case, and you made sure of it.Your reward was the favor of the man currently shoving you to your place in formation. He was the fairy that had made it all happen.
+
+The bald bastard himself.
+
+The nastiest spider in the agency.
+
+Your real boss.
 
 "I never get tired of these." The Lieutenant says with glee.
 
@@ -102,11 +106,11 @@ Out the corner of your eye you can see Sessler grinning. You swear if he felt he
 
 "Citizens, Comrades, Defenders of the Fatherland. We are here to enforce justice. We are here to punish those who have aimed to destroy the peace of our fair nation, and to deter those who would desire to do the same." The infantryman hollers, his voice billowing wisps of vapor into the cold air.
 
-"As determined by the Courts of Justice, the man known as Albert Hassel has been found guilty of crimes against the state. The punishment for these crimes shall be execution by firing squad. Will the warden bring the prisoner out so that he may face his fate?" He continues, motioning towards the door  to the tower on your left.
+"As determined by the Courts of Justice, the man known as Albert Hassel has been found guilty of crimes against the state. The punishment for these crimes shall be execution by firing squad. Will the warden bring the prisoner out so that he may face his fate?" He continues, motioning towards the door to the tower on your left.
 
 On cue, a metal door swings open.
 
-You can immediately hear the fight and struggle inside. 
+You can immediately hear the fight and struggle inside.
 
 "No, no, no! You can't do this to me! You can't! I swear, I-I-I didn't do anything! I swear!" you hear a whiny voice, faint but clear enough to make out.
 
@@ -114,7 +118,7 @@ You can immediately hear the fight and struggle inside.
 
 "I'm telling you, I'm not guilty! I've done nothing! No! No! Please, no!" The voice mewls.
 
-"You will follow protocol, traitor, or so help me God you're going to wish for the firing squad when I'm done with you!" Another voice, a gruffer one, responds from the inside of the tower. 
+"You will follow protocol, traitor, or so help me God you're going to wish for the firing squad when I'm done with you!" Another voice, a gruffer one, responds from the inside of the tower.
 
 "Please no I-" you hear the pleading voice cry out before being interrupted by the sound of a swinging pistol.
 
@@ -130,11 +134,11 @@ You can immediately hear the fight and struggle inside.
 
 "Mercy! Mercy! I'll do anything!"
 
-You see a group of four or five irritated wardens dragging a sniveling and floundering Albert Hassel across the prison yard grounds. 
+You see a group of four or five irritated wardens dragging a sniveling and floundering Albert Hassel across the prison yard grounds.
 
 His hair is unkempt and disordered. His entire body squirms like an eel. He kicks his feet as he tries to get a grip on the ground. His eyes are completely wide open, almost bulging out of his head. His clothes look like they had been gnawed on by a rabid animal. His face is red and swollen in different places and his nose effuses a mixture of snot and blood.
 
-"N-no! No! I don't want to die! Not like this! Please no! No! No!" He whimpers as the wardens drag him onto the quad by every extremity and piece of fabric they could, a pudgy little bird trying squirm and free itself from the grip of an eagle about to eat it. 
+"N-no! No! I don't want to die! Not like this! Please no! No! No!" He whimpers as the wardens drag him onto the quad by every extremity and piece of fabric they could, a pudgy little bird trying squirm and free itself from the grip of an eagle about to eat it.
 
 "No! Please you have to believe me! Oh God, I can't! No, I can't! Not like this!" Hassel cries as he looks around for a sympathetic person in the crowd. The wardens finally drag him to the wooden pole. With firm grip, they tie his hands behind his back and fit him on the wooden pole. He thrashes and bawls trying to free himself every second, bludgeoned by the blunt ends of his gaolers' weapons.
 
@@ -172,7 +176,7 @@ Albert Hassel was a man possessed to make every single effort to break free from
 
 "Taaaake aim!"
 
-"No no no no! Please God no! I'll show you!! I'll be an in-in-informant! I'll do anything!! I will gib-gib-give you all the names! Throw me in a cell! I promise I'll be good!" 
+"No no no no! Please God no! I'll show you!! I'll be an in-in-informant! I'll do anything!! I will gib-gib-give you all the names! Throw me in a cell! I promise I'll be good!"
 
 Silence. Albert Hassel realizes this is the end. He thrashes and contorts, screaming atop of his lungs, looking down the gun barrels with his face completely contorted by the horror of what was to come.
 
@@ -182,7 +186,7 @@ Silence. Albert Hassel realizes this is the end. He thrashes and contorts, screa
 
 "My neighbor! My neighbor! You need to look into Laurie. Laurie Wei-wei-weiss! She goes over t-t-to the West side every weekend! It's because of her husband, he's-s a-a-a crossing guard! I'll tell you ev-ev-everything. Everything! I'll be an in-in-informant, I swear I have-"
 
-"Readyyy Weapons!" 
+"Readyyy Weapons!"
 
 "Wait! Wait! I've even over-over-overheard them! They're the real threat! They plan on smug-smug-smuggling western propaganda! That's why they cross ev-ev-every week, to bri-bri-bring as much contraband as they c-c-can! And then they s-s-sell it! Out of their flat! They tried to sell me books! Pornography! They are the traitors, not me! If you let me go I c-can-"
 
@@ -234,17 +238,17 @@ Considering this is a normal execution, you have to wonder how much and how long
 
 Well, as pristine as a prison yard can be.
 
-"Fire!" The infantryman bellows for the last time. The firing squad men pull their triggers. And, the pile of human thing tied to the poll moves like a sickly, blobby gelatin.
+"Fire!" The infantryman bellows for the last time. The firing squad men pull their triggers. And, the pile of human thing tied to the pole moves like a sickly, blobby gelatin.
 
 It's over.
 
 Albert Hassel is dead.
 
-The volleys still resonate in your ears, and you can still hear the Army Infantryman's voice. "Doctor! Please, confirm the procedure!" 
+The volleys resonate in your ears, and you can still hear the Army Infantryman's voice. "Doctor! Please, confirm the procedure!"
 
-From the crowd, a ghoulish man emerges wearing a cloth mask and gloves. He walks to the center of the quad at a brisk pace. He rummages around the body, presumably to find a neck or a wrist. He sticks his fingers in one the many holes made by the bullets. 
+From the crowd, a ghoulish man emerges wearing a cloth mask and gloves. He walks to the center of the quad at a brisk pace. He rummages around the body, presumably to find a neck or a wrist. He sticks his fingers in one the many holes made by the bullets.
 
-He hesitates for a moment, and he nudges what was once Albert Hassel with his foot. 
+He hesitates for a moment, and he nudges what was once Albert Hassel with his foot.
 
 "GGGHGGGGK" you can hear somebody stifling their laughter. Something between a gargle and a large mouse squeaking.
 
@@ -272,15 +276,15 @@ The crowd hurrahs.
 
 "For the Fatherland!" He roars.
 
-The crowd responds in kind. "For the Fatherland!" they proclaim. 
+The crowd responds in kind. "For the Fatherland!" they proclaim.
 
 "We are done," the infantryman says in a triumphant tone. "as you were."
 
-The crowd breaks formation and starts heading for the exits. "Let's get out of here," Sessler whispers in our ear. "Meet me at the gates in ten minutes. I've got just the thing to celebrate."
+The crowd breaks formation and starts heading for the exits. "Let's get out of here," Sessler whispers in our ear. "Meet me at the gates after seven. I've got just the thing to celebrate."
 
 You file in the building with the others. Out of the corner of your eye you can see one man scrub the floor with lye, and another man and push the remains around with a shovel.
 
-The ringing in your ears doesn't leave you for several minutes.
+The ringing in your ears will not leave you.
 
 ...
 
@@ -288,4 +292,74 @@ The ringing in your ears doesn't leave you for several minutes.
 
 ...
 
-In your normal goings on, you had not really stopped to think about how would your superior's home would look like. Though, if someone asked, you would say that Lieutenant Oskar Sessler 
+The city looks like an indigo and black canvas, with a thousand different amber and yellow lights piercing the inky mass.
+
+You step out of Oskar Sessler's slick, black, immaculately kept Sachsenring P240 and into the streets of a neighborhood you've never had a good reason to be. Even the air tasted different in your mouth, as if you were supposed to pay for the privilege of breathing it.
+
+You look back to see the Lieutenant hunched over, talking about something or other with his chauffeur. The paint on the car was so incredibly shiny and reflective that even under the dimly lit sky, you could see your reflection stretched out on the metal body.
+
+[IF GENDER IS MALE]
+
+The face looking back at you is a cartoonish facsimile of what a man's face should be. Every wrinkle around your eyes and mouth is a snarky reminder of the passage of time. You have a visible stubble, one that had never done you the favor of fully growing into a beard or mustache. It's a mediocre showing of testosterone and, sadly, it will never get any better. You have to tilt your head forward to find your hairline. You try to find your eyes in the reflection, but they were nowhere to be found. Your eyes are too sunken in. The skin around them is too dark.
+
+[IF GENDER IS FEMALE]
+
+The face looking back at you is a stretched out plasticine mold of what a woman's face should be. You have way too many wrinkles, and every single one of them seemed to accuse you of being both responsible for and victim of the passage of time. You have make up on, but just barely. You definitely over did the blush on your cheeks. You play with your hair a bit, its ends split, dry like tumbleweed. Same color too. Your eyes sink into their sockets, so much so that in the darkness of this makeshift mirror you can't seem them.  
+
+[END]
+
+"Are you done admiring yourself Agent?" Lieutenant Sessler quips behind you, the loud jingle of a keyring punctuating the question. "There's plenty of ways to look at yourself inside, I promise you. Müller here has places to be."
+
+You stand at attention and turn around to see an open door and a beckoning Oskar Sessler. A hand wave from the Lieutenant, and the car careens away from the curb and down the street.
+
+...
+
+...
+
+...
+
+You didn't even know where to lay your eyes.
+
+Every corner and every surface around you is covered in some sort of reflective surface: Gilded mirrors, gold and silver decorations, brass sconces, and shiny knick-knacks. Above you there was a chandelier that looked like it would collapse if there was one more crystal hanging from it. The couches look like they rolled off the factory the day before. 
+
+Beneath all the gaudy and shiny stuff, you could see wood paneling that would not go out of place in your apartment or in the recently deceased Alfred Hassel's. 
+
+From the looks of things, that was an unacceptable proposition.
+
+"Please take a seat, Brownie." The Lieutenant says as he motions towards the slick leather seats.
+
+You oblige as you continue to look around your surroundings.  Two couches face a fireplace, and above it hangs a painting. A realistic rendering of Lieutenant Sessler in dress uniform, and a woman that looked somewhat familiar to you. 
+
+The painter truly made an effort to make the man to look pleasing, but that was a task that was probably beyond even the most skilled artist. Below it, pictures of past exploits and medals emblazoned with the sheaf of wheat, the compass, and the hammer.
+
+"Let us toast, Brownie. I think we can drop the formalities for a bit." The Lieutenant says with some difficulty, glasses and bottles clinking in his hands. On one hand, a large rectangular bottle with a liquor you've never heard of, two glasses and a small black ice box in the other.
+
+"To loyalty." He mutters as he pours himself a glass of this swirling clear liquid, on the rocks.
+
+"To justice." He mutters as he pours you a glass of your own.
+
+"And," he continues his toast with a raised glass. "to catching every rat bastard no matter how well they hide." You raise yours to clink. 
+
+He cannot even sip a drink without sounding as if the liquor itself retched in disgust.
+
+"You ever had this, Brownie? The best apertif to open a meal for heroes." The Lieutenant grunts as he knocks back some more. The flavor that meets your lips is fragrant and somewhat sweet, citric. You've never had an orange-flavored liquor before.
+
+"I gather as much. Don't think there is a bar in the GDR that would serve you French stuff and not charge you an arm and a le-BWAAAAAAAP-GHKKKKK." 
+
+Oskar Sessler interrupts his soliloquy to burp and clear his throat. Both with his mouth wide open.
+
+"You've gotta know somebody, Brownie. There is always somebody with a hole in their pocket, and lately lots of people have barely two coins to rub together." He continues.
+
+"We've got another ten or fifteen minutes before dinner's ready." The Lieutenant says as slams the glass on a tiny table beside him and pours himself another one. You're midway done with your first. "I don't care to talk shop with the missus around. Spoils the food. So, before that happens let me tell you a little secret." He murmurs with tiny smirk.
+
+He scarfs down the entire glass like he had just found an oasis in the middle of the desert.
+
+[VARIANT 1]
+
+[VARIANT 2]
+
+[VARIANT 3]
+
+[VARIANT 4]
+
+[END OF VARIANTS]
